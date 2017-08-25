@@ -25,7 +25,7 @@
 	$.Settings = (function() {
 		
 		return {
-			debug: true
+			debug: false
 		};
 	})();
 
@@ -59,7 +59,7 @@
 			for (var key in data) {
 				text += [
 					'msgid ' + JSON.stringify(key),
-					'msgstr ""\n',
+					'msgstr ' + JSON.stringify(data[key]) + '\n',
 					''
 				].join('\n');
 			}
@@ -67,11 +67,13 @@
 			return text;
 		};
 
-		GettextFormatter.decode = function(database) {
+		GettextFormatter.decode = function(data) {
 			var match;
 			var result = {};
 			
-			while ((match = this.JSON_REGEXP.exec(database)) !== null) {
+			this.JSON_REGEXP.lastIndex = 0;
+			
+			while ((match = this.JSON_REGEXP.exec(data)) !== null) {
 				var key = match[1];
 				var value = match[2];
 			
@@ -83,8 +85,6 @@
 		
 		return GettextFormatter;
 	})();
-	
-	
 
 	$.JsonFormatter = (function() {
 		
@@ -118,7 +118,7 @@
 			var fileName = 'translation.' + formatter.ext.main;
 			var filePath = path.join(ModManager._path, pluginName, fileName);
 			
-			var data = fs.readFileSync(filePath);
+			var data = fs.readFileSync(filePath, 'utf8');
 			
 			return formatter.decode(data);
 		};
@@ -141,7 +141,7 @@
 			
 			fs.readdirSync(dir).forEach(function(lang) {
 				var filePath = path.join(dir, lang);
-				var json = fs.readFileSync(path.join(filePath, 'settings.json'));
+				var json = fs.readFileSync(path.join(filePath, 'settings.json'), 'utf8');
 				var data = JSON.parse(json);
 				
 				this._sources.push({
@@ -176,14 +176,15 @@
 			switch (lang.format) {
 				case 'gettext':
 					formatter = $.GettextFormatter;
+					break
 				default:
 					formatter = $.JsonFormatter;
 			}
 			
 			var fileName = 'translation.' + formatter.ext.main;
 			var filePath = path.join(lang.path, fileName);
-			
-			var data = fs.readFileSync(filePath);
+
+			var data = fs.readFileSync(filePath, 'utf8');
 			
 			$dataStrings = formatter.decode(data);
 		};

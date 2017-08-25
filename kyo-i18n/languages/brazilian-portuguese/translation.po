@@ -1,0 +1,5160 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "bro"
+msgstr "mano"
+
+msgid "sis"
+msgstr "maninha"
+
+msgid "son"
+msgstr "filho"
+
+msgid "daughter"
+msgstr "filha"
+
+msgid "item-milk"
+msgstr "Leite"
+
+msgid "item-description-milk"
+msgstr "Leite fresco de vaca. Alivia um pouco a fadiga."
+
+msgid "item-goat-milk"
+msgstr "Leite de Cabra"
+
+msgid "item-description-goat-milk"
+msgstr "Leite fresco de cabra. Alivia um pouco a fadiga."
+
+msgid "item-corn"
+msgstr "Milho"
+
+msgid "item-description-corn"
+msgstr ""
+
+msgid "item-tomato"
+msgstr "Tomate"
+
+msgid "item-description-tomato"
+msgstr "Fruta ou Vegetal, dependendo de quem diz. Planta-se no verão."
+
+msgid "item-carrot"
+msgstr "Cenoura"
+
+msgid "item-description-carrot"
+msgstr ""
+
+msgid "item-turnip"
+msgstr "Nabo"
+
+msgid "item-description-turnip"
+msgstr ""
+
+msgid "item-potato"
+msgstr "Batata"
+
+msgid "item-description-potato"
+msgstr ""
+
+msgid "item-honeycomb"
+msgstr "Favo de Mel"
+
+msgid "item-description-honeycomb"
+msgstr ""
+
+msgid "item-honey"
+msgstr "Mel"
+
+msgid "item-description-honey"
+msgstr ""
+
+msgid "item-peanut-butter"
+msgstr "Manteiga de Amendoim"
+
+msgid "item-description-peanut-butter"
+msgstr ""
+
+msgid "item-ruby-jewel"
+msgstr "Jóia de Rubi"
+
+msgid "item-description-ruby-jewel"
+msgstr ""
+
+msgid "item-emerald-jewel"
+msgstr "Jóia de Esmeralda"
+
+msgid "item-description-emerald-jewel"
+msgstr ""
+
+msgid "item-sapphire-jewel"
+msgstr "Jóia de Safira"
+
+msgid "item-description-sapphire-jewel"
+msgstr ""
+
+msgid "item-diamond-jewel"
+msgstr "Jóia de Diamante"
+
+msgid "item-description-diamond-jewel"
+msgstr ""
+
+msgid "item-blue-crystal"
+msgstr "Cristal Azul"
+
+msgid "item-description-blue-crystal"
+msgstr ""
+
+msgid "item-white-crystal"
+msgstr "Cristal Branco"
+
+msgid "item-description-white-crystal"
+msgstr ""
+
+msgid "item-bass"
+msgstr "Robalo"
+
+msgid "item-eggplant"
+msgstr "Beringela"
+
+msgid "item-description-eggplant"
+msgstr ""
+
+msgid "item-onion"
+msgstr "Cebola"
+
+msgid "item-description-onion"
+msgstr ""
+
+msgid "item-pumpkin"
+msgstr "Abóbora"
+
+msgid "item-description-pumpkin"
+msgstr ""
+
+msgid "item-strawberry"
+msgstr "Morango"
+
+msgid "item-description-strawberry"
+msgstr ""
+
+msgid "item-apple"
+msgstr "Maçã"
+
+msgid "item-description-apple"
+msgstr ""
+
+msgid "item-radish"
+msgstr "Rabanete"
+
+msgid "item-description-radish"
+msgstr "Muitos consideram o cheiro insuportável."
+
+msgid "item-jam"
+msgstr "Geléia"
+
+msgid "item-description-jam"
+msgstr ""
+
+msgid "item-bread"
+msgstr "Pão"
+
+msgid "item-description-bread"
+msgstr ""
+
+msgid "item-right-boot"
+msgstr "Bota Direita"
+
+msgid "item-description-right-boot"
+msgstr ""
+
+msgid "item-left-boot"
+msgstr "Bota Esquerda"
+
+msgid "item-description-left-boot"
+msgstr ""
+
+msgid "item-walleye"
+msgstr "Picão Verde"
+
+msgid "item-peach"
+msgstr "Pêssego"
+
+msgid "item-description-peach"
+msgstr ""
+
+msgid "item-cucumber"
+msgstr "Pepino"
+
+msgid "item-description-cucumber"
+msgstr ""
+
+msgid "item-cauliflower"
+msgstr "Couve-flor"
+
+msgid "item-description-cauliflower"
+msgstr "Não pense em colocar isso em um buquê."
+
+msgid "item-banana"
+msgstr "Banana"
+
+msgid "item-description-banana"
+msgstr ""
+
+msgid "item-chillipepper"
+msgstr "Pimenta Malagueta"
+
+msgid "item-description-chillipepper"
+msgstr ""
+
+msgid "item-mushroom"
+msgstr "Cogumelo"
+
+msgid "item-description-mushroom"
+msgstr ""
+
+msgid "item-sugarcane"
+msgstr "Cana de açucar"
+
+msgid "item-description-sugarcane"
+msgstr ""
+
+msgid "item-wool"
+msgstr "Lã"
+
+msgid "item-description-wool"
+msgstr ""
+
+msgid "item-pair-of-boots"
+msgstr "Par de Botas"
+
+msgid "item-description-pair-of-boots"
+msgstr ""
+
+msgid "item-cargo"
+msgstr "Carga"
+
+msgid "item-description-cargo"
+msgstr ""
+
+msgid "item-pickerel"
+msgstr "Pickerel"
+
+msgid "item-leek"
+msgstr "Alho Poró"
+
+msgid "item-description-leek"
+msgstr ""
+
+msgid "item-orange"
+msgstr "Laranja"
+
+msgid "item-description-orange"
+msgstr "Uma fruta muito comum, mas deliciosa. Recupera um pouco de energa e fadiga."
+
+msgid "item-watermelon"
+msgstr "Melancia"
+
+msgid "item-description-watermelon"
+msgstr ""
+
+msgid "item-broccoli"
+msgstr "Brócolis"
+
+msgid "item-description-broccoli"
+msgstr ""
+
+msgid "item-egg"
+msgstr "Ovo"
+
+msgid "item-fertilized-egg"
+msgstr "Ovo Fertilizado"
+
+msgid "item-sugar"
+msgstr "Açucar"
+
+msgid "item-description-sugar"
+msgstr ""
+
+msgid "item-yarn"
+msgstr "Fios de Lã"
+
+msgid "item-description-yarn"
+msgstr ""
+
+msgid "item-dirty-pair-of-boots"
+msgstr "Par de bota sujas"
+
+msgid "item-description-dirty-pair-of-boots"
+msgstr ""
+
+msgid "item-some-other-kind-of-jam"
+msgstr "Algum outro tipo de geléia"
+
+msgid "item-description-some-other-kind-of-jam"
+msgstr "Espero não ter esquecido isso no jogo."
+
+msgid "item-tuna"
+msgstr "Atum"
+
+msgid "item-wheat"
+msgstr "Trigo"
+
+msgid "item-description-wheat"
+msgstr ""
+
+msgid "item-cabbage"
+msgstr "Repolho"
+
+msgid "item-description-cabbage"
+msgstr ""
+
+msgid "item-lettuce"
+msgstr "Alface"
+
+msgid "item-description-lettuce"
+msgstr ""
+
+msgid "item-bellpepper"
+msgstr "Pimentão"
+
+msgid "item-description-bellpepper"
+msgstr ""
+
+msgid "item-peanut"
+msgstr "Amendoim"
+
+msgid "item-description-peanut"
+msgstr ""
+
+msgid "item-grape"
+msgstr "Uva"
+
+msgid "item-description-grape"
+msgstr ""
+
+msgid "item-cheese"
+msgstr "Queijo"
+
+msgid "item-description-cheese"
+msgstr ""
+
+msgid "item-butter"
+msgstr "Manteiga"
+
+msgid "item-description-butter"
+msgstr ""
+
+msgid "item-big-blue-crystal"
+msgstr "Grande Cristal Azul"
+
+msgid "item-description-big-blue-crystal"
+msgstr ""
+
+msgid "item-cherry"
+msgstr "Cereja"
+
+msgid "item-description-cherry"
+msgstr ""
+
+msgid "item-key"
+msgstr "Chave"
+
+msgid "item-description-key"
+msgstr ""
+
+msgid "item-hay"
+msgstr "Feno"
+
+msgid "item-flour"
+msgstr "Farinha"
+
+msgid "item-explanation-flour"
+msgstr "Você pode usar farinha para cozinhar em casa."
+
+msgid "item-cocoa"
+msgstr "Cacau"
+
+msgid "item-description-cocoa"
+msgstr "Cacau"
+
+msgid "item-cocoa-beans"
+msgstr "Grãos de Cacau"
+
+msgid "item-description-cocoa-beans"
+msgstr "Grãos de Cacau"
+
+msgid "item-chocolate"
+msgstr "Chocolate"
+
+msgid "item-description-chocolate"
+msgstr ""
+
+msgid "item-chestnut"
+msgstr "Castanha"
+
+msgid "item-description-chestnut"
+msgstr ""
+
+msgid "item-tea-bag"
+msgstr "Saco de Chá"
+
+msgid "item-description-tea-bag"
+msgstr ""
+
+msgid "item-basket"
+msgstr "Cesta"
+
+msgid "item-description-basket"
+msgstr ""
+
+msgid "item-barn"
+msgstr "Celeiro"
+
+msgid "item-description-barn"
+msgstr "Coloque na sua fazenda para criar animais dentro."
+
+msgid "item-coop"
+msgstr "Galinheiro"
+
+msgid "item-description-coop"
+msgstr "Coloque na sua fazenda para criar galinhas dentro."
+
+msgid "item-gate"
+msgstr "Portão"
+
+msgid "item-description-gate"
+msgstr ""
+
+msgid "item-broken-axe"
+msgstr "Machado Quebrado"
+
+msgid "item-iron-axe"
+msgstr "Machado Barato"
+
+msgid "item-iron-hammer"
+msgstr "Marreta Barata"
+
+msgid "item-iron-hoe"
+msgstr "Enxada Barata"
+
+msgid "item-iron-sickle"
+msgstr "Foice Barata"
+
+msgid "item-copper-axe"
+msgstr "Machado de Bronze"
+
+msgid "item-copper-hammer"
+msgstr "Marreta de Bronze"
+
+msgid "item-copper-hoe"
+msgstr "Enxada de Bronze"
+
+msgid "item-copper-sickle"
+msgstr "Foice de Bronze"
+
+msgid "item-silver-axe"
+msgstr "Machado de Prata"
+
+msgid "item-silver-hammer"
+msgstr "Marreta de Prata"
+
+msgid "item-silver-hoe"
+msgstr "Enxada de Prata"
+
+msgid "item-silver-sickle"
+msgstr "Foice de Prata"
+
+msgid "item-fence"
+msgstr "Cerca"
+
+msgid "item-golden-axe"
+msgstr "Machado Perfeito"
+
+msgid "item-golden-hammer"
+msgstr "Marreta Perfeita"
+
+msgid "item-golden-hoe"
+msgstr "Enxada Perfeita"
+
+msgid "item-golden-sickle"
+msgstr "Foice Perfeita"
+
+msgid "item-orange-seeds"
+msgstr "Sem. de Laranja"
+
+msgid "item-potato-seeds"
+msgstr "Sem. de Batata"
+
+msgid "item-turnip-seeds"
+msgstr "Sem. de Nabo"
+
+msgid "item-watering-can"
+msgstr "Regador"
+
+msgid "item-silver-watering-can"
+msgstr "Regador de Prata"
+
+msgid "item-ribbon"
+msgstr "Laço Mágico"
+
+msgid "item-milker"
+msgstr "Ordenhador"
+
+msgid "item-clippers"
+msgstr "Tesoura"
+
+msgid "item-fishing-rod"
+msgstr "Vara de Pesca"
+
+msgid "item-bronze-trophy"
+msgstr "Troféu de Bronze"
+
+msgid "item-silver-trophy"
+msgstr "Troféu de Prata"
+
+msgid "item-golden-trophy"
+msgstr "Troféu de Ouro"
+
+msgid "item-brick"
+msgstr "Tijolo"
+
+msgid "item-wooden-planks"
+msgstr "Placa de Madeira"
+
+msgid "item-description-wodden-planks"
+msgstr ""
+
+msgid "item-wooden-stick"
+msgstr "Galho de Madeira"
+
+msgid "item-description-wodden-stick"
+msgstr ""
+
+msgid "item-clay"
+msgstr "Argila"
+
+msgid "item-description-clay"
+msgstr ""
+
+msgid "item-rock"
+msgstr "Pedra"
+
+msgid "item-description-rock"
+msgstr ""
+
+msgid "item-iron-ore"
+msgstr "Minério de Ferro"
+
+msgid "item-description-iron-ore"
+msgstr ""
+
+msgid "item-iron-ingot"
+msgstr "Lingote de Ferro"
+
+msgid "item-description-iron-ingot"
+msgstr ""
+
+msgid "item-copper-ore"
+msgstr "Minério de Cobre"
+
+msgid "item-description-copper-ore"
+msgstr ""
+
+msgid "item-copper-ingot"
+msgstr "Lingote de Cobre"
+
+msgid "item-description-copper-ingot"
+msgstr ""
+
+msgid "item-silver-ore"
+msgstr "Minério de Prata"
+
+msgid "item-description-silver-ore"
+msgstr ""
+
+msgid "item-silver-ingot"
+msgstr "Lingote de Prata"
+
+msgid "item-description-silver-ingot"
+msgstr ""
+
+msgid "item-gold-ore"
+msgstr "Minério de Ouro"
+
+msgid "item-gold-ingot"
+msgstr "Lingote de Ouro"
+
+msgid "item-chicken-feed"
+msgstr "Ração de Galinha"
+
+msgid "item-description-chicken-feed"
+msgstr ""
+
+msgid "item-tiger-barb"
+msgstr "Bárbus"
+
+msgid "item-explanation-copper-hammer"
+msgstr ""
+
+msgid "item-jasmine"
+msgstr "Jasmim"
+
+msgid "item-description-jasmine"
+msgstr ""
+
+msgid "item-corn-seeds"
+msgstr "Sem. de Milho"
+
+msgid "item-explanation-corn-seeds"
+msgstr "O milho demora 15 dias para crescer no verão, mas cresce novamente depois de 3 dias."
+
+msgid "item-description-corn-seeds"
+msgstr "Uma semente de verão que demora 15 dias para crescer, mas cresce novamente depois de 3 dias."
+
+msgid "item-tomato-seeds"
+msgstr "Sem. de Tomate"
+
+msgid "item-explanation-tomato-seeds"
+msgstr "O tomate demora 10 dias para crescer no verão. Ele cresce novamente 3 dias depois."
+
+msgid "item-description-tomato-seeds"
+msgstr "O tomate demora 10 dias para crescer no verão. Ele cresce novamente 3 dias depois."
+
+msgid "item-carrot-seeds"
+msgstr "Sem. de Cenoura"
+
+msgid "item-description-carrot-seeds"
+msgstr "As cenouras crescem em 8 dias no outono."
+
+msgid "item-explanation-carrot-seeds"
+msgstr "Cenouras crescem em 8 dias no outono."
+
+msgid "item-description-turnip-seeds"
+msgstr "Os nabos crescem em 5 dias na primavera."
+
+msgid "item-explanation-turnip-seeds"
+msgstr "Nabos crescem em 5 dias na primavera."
+
+msgid "item-description-potato-seeds"
+msgstr "As batatas crescem em 8 dias na primavera."
+
+msgid "item-explanation-potato-seeds"
+msgstr "Batatas crescem em 8 dias na primavera."
+
+msgid "item-eggplant-seeds"
+msgstr "Sem. de Beringela"
+
+msgid "item-description-eggplant-seeds"
+msgstr "As beringelas crescem em 10 dias no outono. Elas crescem novamente em 3 dias."
+
+msgid "item-explanation-eggplant-seeds"
+msgstr "Beringelas crescem em 10 dias no outono. Elas crescem novamente em 3 dias."
+
+msgid "item-onion-seeds"
+msgstr "Sem. de Cebola"
+
+msgid "item-description-onion-seeds"
+msgstr "As cebolas crescem em 8 dias no verão."
+
+msgid "item-explanation-onion-seeds"
+msgstr "Cebolas crescem em 8 dias no verão."
+
+msgid "item-pumpkin-seeds"
+msgstr "Sem. de Abóbora"
+
+msgid "item-description-pumpkin-seeds"
+msgstr ""
+
+msgid "item-strawberry-seeds"
+msgstr "Sem. de Morango"
+
+msgid "item-radish-seeds"
+msgstr "Sem. de Rabanete"
+
+msgid "item-description-radish-seeds"
+msgstr "O rabanete cresce em 7 dias no outono."
+
+msgid "item-explanation-radish-seeds"
+msgstr "O rabanete cresce em 7 dias no outono."
+
+msgid "item-cucumber-seeds"
+msgstr "Sem. de Pepino"
+
+msgid "item-description-cucumber-seeds"
+msgstr "Pepinos levam 10 dias para crescer na primavera, mas crescem novamente a cada 5 dias."
+
+msgid "item-explanation-cucumber-seeds"
+msgstr "Pepinos levam 10 dias para crescer na primavera, mas eles crescem novamente a cada 5 dias."
+
+msgid "item-cauliflower-seeds"
+msgstr "Sem. de Couve-flor"
+
+msgid "item-description-cauliflower-seeds"
+msgstr "A couve-flor demora 9 dias para crescer no inverno."
+
+msgid "item-explanation-cauliflower-seeds"
+msgstr "A couve-flor demora 9 dias para crescer no inverno."
+
+msgid "item-chillipepper-seeds"
+msgstr "Sem. de Pimenta"
+
+msgid "item-description-chillipepper-seeds"
+msgstr "Sementes de Pimenta Malagueta"
+
+msgid "item-mushroom-seeds"
+msgstr "Sem. de Cogumelo"
+
+msgid "item-description-mushroom-seeds"
+msgstr "Os cogumelos crescem apenas em cavernas, demorando entre 5 e 10 dias."
+
+msgid "item-explanation-mushroom-seeds"
+msgstr "Os cogumelos crescem apenas em cavernas, demorando entre 5 e 10 dias."
+
+msgid "item-leek-seeds"
+msgstr "Sem. de Alho Poró"
+
+msgid "item-description-leek-seeds"
+msgstr "O alho poró cresce em 10 dias no inverno."
+
+msgid "item-explanation-leek-seeds"
+msgstr "O alho poró cresce em 10 dias no inverno."
+
+msgid "item-watermelon-seeds"
+msgstr "Sem. de Melancia"
+
+msgid "item-description-watermelon-seeds"
+msgstr ""
+
+msgid "item-broccoli-seeds"
+msgstr "Sem. de Brócolis"
+
+msgid "item-description-broccoli-seeds"
+msgstr ""
+
+msgid "item-sugarcane-seeds"
+msgstr "Sem. de Cana"
+
+msgid "item-description-sugarcane-seeds"
+msgstr "A Cana de açucar cresce o ano inteiro, em apenas 6 dias."
+
+msgid "item-explanation-sugarcane-seeds"
+msgstr "A Cana de açucar cresce o ano inteiro, em apenas 6 dias."
+
+msgid "item-wheat-seeds"
+msgstr "Sem. de Trigo"
+
+msgid "item-description-wheat-seeds"
+msgstr "O Trigo cresce o ano inteiro, em apenas 9 dias."
+
+msgid "item-explanation-wheat-seeds"
+msgstr "Trigo cresce o ano inteiro, em apenas 9 dias."
+
+msgid "item-cabbage-seeds"
+msgstr "Sem. de Repolho"
+
+msgid "item-description-cabbage-seeds"
+msgstr "O repolho demora 15 dias para crescer na primavera."
+
+msgid "item-explanation-cabbage-seeds"
+msgstr "O repolho demora 15 dias para crescer na primavera."
+
+msgid "item-lettuce-seeds"
+msgstr "Sem. de Alface"
+
+msgid "item-description-lettuce-seeds"
+msgstr "O alface cresce em 6 dias no inverno."
+
+msgid "item-explanation-lettuce-seeds"
+msgstr "O alface cresce em 6 dias no inverno."
+
+msgid "item-bellpepper-seeds"
+msgstr "Sem. de Pimentão"
+
+msgid "item-description-bellpepper-seeds"
+msgstr "O pimentão cresce em 6 dias no outono e depois cresce novamente a cada 4 dias."
+
+msgid "item-explanation-bellpepper-seeds"
+msgstr "O pimentão cresce em 6 dias no outono e depois cresce novamente a cada 4 dias."
+
+msgid "item-peanut-seeds"
+msgstr "Sem. de Amendoim"
+
+msgid "item-description-peanut-seeds"
+msgstr ""
+
+msgid "item-grape-seeds"
+msgstr "Sem. de Uva"
+
+msgid "item-description-grape-seeds"
+msgstr ""
+
+msgid "item-jasmine-seeds"
+msgstr "Sem. de Jasmim"
+
+msgid "item-description-jasmine-seeds"
+msgstr "O Jasmim demora 4 dias para crescer na primavera."
+
+msgid "item-explanation-jasmine-seeds"
+msgstr "Jasmim demora 4 dias para crescer na primavera."
+
+msgid "item-description-daisy-seeds"
+msgstr "A Margarida demora 6 dias para crescer na primavera e no verão."
+
+msgid "item-description-pink-daisy-seeds"
+msgstr "A Margarida rosa demora 7 dias para crescer na primavera."
+
+msgid "item-description-yellow-daisy-seeds"
+msgstr "A Margarida amarela demora 6 dias para crescer no verão"
+
+msgid "item-description-white-rose-seeds"
+msgstr "A Rosa branca demora 9 dias para crescer no inverno."
+
+msgid "item-description-rose-seeds"
+msgstr "A Rosa demora 9 dias para crescer no outono."
+
+msgid "item-description-sunflower-seeds"
+msgstr "O Girasol demora 12 dias para crescer no verão."
+
+msgid "item-description-fence"
+msgstr ""
+
+msgid "item-apple-seeds"
+msgstr "Sem. de Maçã"
+
+msgid "item-description-apple-seeds"
+msgstr "Sementes de Maçã"
+
+msgid "item-peach-seeds"
+msgstr "Sem. de Pêssego"
+
+msgid "item-description-peach-seeds"
+msgstr "Sementes de Pêssego"
+
+msgid "item-banana-seeds"
+msgstr "Sem. de Banana"
+
+msgid "item-description-banana-seeds"
+msgstr "Sementes de Banana"
+
+msgid "item-coconut-seeds"
+msgstr "Sem. de Coco"
+
+msgid "item-description-coconut-seeds"
+msgstr "Sementes de Coco"
+
+msgid "item-cocoa-seeds"
+msgstr "Sem. de Cacau"
+
+msgid "item-description-cocoa-seeds"
+msgstr "Sementes de Cacau"
+
+msgid "item-chestnut-seeds"
+msgstr "Sem. de Castanha"
+
+msgid "item-description-chestnut-seeds"
+msgstr "Sementes de Castanha"
+
+msgid "item-woodtree-seeds"
+msgstr "Muda de Árvore"
+
+msgid "item-description-woodtree-seeds"
+msgstr "Muda de Árvore"
+
+msgid "item-bucket"
+msgstr "Balde"
+
+msgid "item-description-bucket"
+msgstr "Balde"
+
+msgid "item-water-bucket"
+msgstr "Balde de Água"
+
+msgid "item-description-water-bucket"
+msgstr "Balde de Água"
+
+msgid "item-coconut"
+msgstr "Coco"
+
+msgid "item-description-coconut"
+msgstr "Coco"
+
+msgid "item-sack"
+msgstr "Saco"
+
+msgid "item-description-sack"
+msgstr "Saco"
+
+msgid "item-pouch"
+msgstr "Bolso"
+
+msgid "item-description-pouch"
+msgstr "Bolso"
+
+msgid "item-bag"
+msgstr "Mochila"
+
+msgid "item-description-bag"
+msgstr "Mochila"
+
+msgid "item-super-bag"
+msgstr "Super Mochila"
+
+msgid "item-description-super-bag"
+msgstr "Super Mochila"
+
+msgid "item-bowl"
+msgstr "Tigela"
+
+msgid "item-description-bowl"
+msgstr "Tigela"
+
+msgid "item-crate"
+msgstr "Caixa"
+
+msgid "item-description-crate"
+msgstr "Caixa"
+
+msgid "item-present"
+msgstr "Presente"
+
+msgid "item-description-present"
+msgstr "Presente"
+
+msgid "item-note"
+msgstr "Nota"
+
+msgid "item-description-note"
+msgstr "Nota"
+
+msgid "item-crystal"
+msgstr "Cristal"
+
+msgid "item-description-crystal"
+msgstr "Cristal"
+
+msgid "item-saphire"
+msgstr "Safira"
+
+msgid "item-description-saphire"
+msgstr "Safira"
+
+msgid "item-ruby"
+msgstr "Rubi"
+
+msgid "item-description-ruby"
+msgstr "Rubi"
+
+msgid "item-emerald"
+msgstr "Esmeralda"
+
+msgid "item-description-emerald"
+msgstr "Esmeralda"
+
+msgid "item-diamond"
+msgstr "Diamante"
+
+msgid "item-description-diamond"
+msgstr "Diamante"
+
+msgid "item-horseshoe"
+msgstr "Ferradura"
+
+msgid "item-description-horseshoe"
+msgstr "Ferradura"
+
+msgid "item-collar"
+msgstr "Coleira"
+
+msgid "item-description-collar"
+msgstr "Coleira"
+
+msgid "item-ball"
+msgstr "Bola"
+
+msgid "item-description-ball"
+msgstr "Bola"
+
+msgid "item-food-bowl"
+msgstr "Tigela de Comida"
+
+msgid "item-description-food-bowl"
+msgstr "Tigela de Comida"
+
+msgid "item-pet-food"
+msgstr "Ração de Cachorro"
+
+msgid "item-description-pet-food"
+msgstr "Ração de Cachorro"
+
+msgid "item-bouquet"
+msgstr "Buquê"
+
+msgid "item-description-bouquet"
+msgstr "Buquê"
+
+msgid "item-cake"
+msgstr "Bolo"
+
+msgid "item-description-cake"
+msgstr "Bolo"
+
+msgid "item-newspaper"
+msgstr "Jornal"
+
+msgid "item-description-newspaper"
+msgstr "Jornal"
+
+msgid "item-branch"
+msgstr "Galho"
+
+msgid "item-description-branch"
+msgstr "Galho"
+
+msgid "item-bait"
+msgstr "Isca"
+
+msgid "item-description-bait"
+msgstr "Isca"
+
+msgid "item-pearl"
+msgstr "Pérola"
+
+msgid "item-description-pearl"
+msgstr "Pérola"
+
+msgid "item-seashell"
+msgstr "Concha"
+
+msgid "item-description-seashell"
+msgstr "Concha"
+
+msgid "item-clam"
+msgstr "Marisco"
+
+msgid "item-description-clam"
+msgstr "Marisco"
+
+msgid "item-crab"
+msgstr "Caranguejo"
+
+msgid "item-description-crab"
+msgstr "Caranguejo"
+
+msgid "item-shrimp"
+msgstr "Camarão"
+
+msgid "item-description-shrimp"
+msgstr "Camarão"
+
+msgid "item-seaweed"
+msgstr "Alga Marinha"
+
+msgid "item-description-seaweed"
+msgstr "Alga Marinha"
+
+msgid "item-prize"
+msgstr "Prêmio"
+
+msgid "item-description-prize"
+msgstr "Prêmio"
+
+msgid "item-bronze-prize-ribbon"
+msgstr "Prêmio de Bronze"
+
+msgid "item-description-bronze-prize-ribbon"
+msgstr "Prêmio de Bronze"
+
+msgid "item-silver-prize-ribbon"
+msgstr "Prêmio de Prata"
+
+msgid "item-description-silver-prize-ribbon"
+msgstr "Prêmio de Prata"
+
+msgid "item-golden-prize-ribbon"
+msgstr "Prêmio de Ouro"
+
+msgid "item-description-golden-prize-ribbon"
+msgstr "Prêmio de Ouro"
+
+msgid "item-injection"
+msgstr "Injeção"
+
+msgid "item-description-injection"
+msgstr "Injeção"
+
+msgid "item-first-aid"
+msgstr "Primeiros Socorros"
+
+msgid "item-description-first-aid"
+msgstr "Primeiros Socorros"
+
+msgid "item-fertilizer"
+msgstr "Fertilizante"
+
+msgid "item-description-fertilizer"
+msgstr "Fertilizante"
+
+msgid "item-cloth"
+msgstr "Tecido"
+
+msgid "item-description-cloth"
+msgstr "Tecido"
+
+msgid "item-hamburguer"
+msgstr "Hamburguer"
+
+msgid "item-description-hamburguer"
+msgstr "Hamburguer"
+
+msgid "item-pizza-slice"
+msgstr "Fatia de Pizza"
+
+msgid "item-description-pizza-slice"
+msgstr "Fatia de Pizza"
+
+msgid "item-bread-slice"
+msgstr "Fatia de Pão"
+
+msgid "item-description-bread-slice"
+msgstr "Fatia de Pão"
+
+msgid "item-book"
+msgstr "Livro"
+
+msgid "item-description-book"
+msgstr "Livro"
+
+msgid "item-calendar"
+msgstr "Calendário"
+
+msgid "item-description-calendar"
+msgstr "Calendário"
+
+msgid "item-letter"
+msgstr "Envelope"
+
+msgid "item-description-letter"
+msgstr "Envelope"
+
+msgid "item-explanation-letter"
+msgstr "Use estes envelopes para enviar cartas para seus amigos."
+
+msgid "item-love-letter"
+msgstr "Envelope Fofinho"
+
+msgid "item-description-love-letter"
+msgstr "Envelope Fofinho"
+
+msgid "item-explanation-love-letter"
+msgstr "Use estes envelopes para enviar cartas para pessoas que você ama."
+
+msgid "item-gold-ring"
+msgstr "Anél de Ouro"
+
+msgid "item-description-gold-ring"
+msgstr "Anél de Ouro"
+
+msgid "item-silver-ring"
+msgstr "Anél de Prata"
+
+msgid "item-description-silver-ring"
+msgstr "Anél de Prata"
+
+msgid "item-perfume"
+msgstr "Perfume"
+
+msgid "item-description-perfume"
+msgstr "Perfume"
+
+msgid "item-gold-lamp"
+msgstr "Lâmpada Mágica"
+
+msgid "item-description-gold-lamp"
+msgstr "Lâmpada Mágica"
+
+msgid "item-coin"
+msgstr "Moeda"
+
+msgid "item-description-coin"
+msgstr "Moeda"
+
+msgid "item-weeds"
+msgstr "Mato"
+
+msgid "item-description-weeds"
+msgstr ""
+
+msgid "item-red-weeds"
+msgstr "Mato Vermelho"
+
+msgid "item-description-red-weeds"
+msgstr ""
+
+msgid "item-yellow-weeds"
+msgstr "Mato Amarelo"
+
+msgid "item-description-yellow-weeds"
+msgstr ""
+
+msgid "item-pom"
+msgstr "Pom"
+
+msgid "item-description-pom"
+msgstr ""
+
+msgid "item-pattern"
+msgstr "Pattern"
+
+msgid "item-description-pattern"
+msgstr ""
+
+msgid "item-chest"
+msgstr "Baú"
+
+msgid "item-description-chest"
+msgstr "Baú"
+
+msgid "item-oak-log"
+msgstr "Carvalho"
+
+msgid "item-description-oak-log"
+msgstr "Carvalho"
+
+msgid "item-pine-log"
+msgstr "Pinho"
+
+msgid "item-description-pine-log"
+msgstr "Pinho"
+
+msgid "item-old-key"
+msgstr "Chave Velha"
+
+msgid "item-description-old-key"
+msgstr "Chave Velha"
+
+msgid "nathalias_chicken_name"
+msgstr "Agatha"
+
+msgid "devins_chicken_name"
+msgstr "Cavalo"
+
+msgid "mias_chicken_name"
+msgstr "Cacau"
+
+msgid "raphaels_chicken_name"
+msgstr "Pipin"
+
+msgid "skin_a_name"
+msgstr "A"
+
+msgid "skin_b_name"
+msgstr "B"
+
+msgid "item-daisy"
+msgstr "Margarida"
+
+msgid "item-pink-daisy"
+msgstr "Margarida Rosa"
+
+msgid "item-yellow-daisy"
+msgstr "Margarida Amarela"
+
+msgid "item-white-rose"
+msgstr "Rosa Branca"
+
+msgid "item-rose"
+msgstr "Rosa"
+
+msgid "item-sunflower"
+msgstr "Girasol"
+
+msgid "item-daisy-seeds"
+msgstr "Sem. Margarida"
+
+msgid "item-pink-daisy-seeds"
+msgstr "Sem. Margarida"
+
+msgid "item-yellow-daisy-seeds"
+msgstr "Sem. Margarida"
+
+msgid "item-white-rose-seeds"
+msgstr "Sem. Rosa Branca"
+
+msgid "item-rose-seeds"
+msgstr "Sem. de Rosa"
+
+msgid "item-sunflower-seeds"
+msgstr "Sem. de Girasol"
+
+msgid "item-red-can"
+msgstr "Lata Vermelha"
+
+msgid "item-green-can"
+msgstr "Lata Verde"
+
+msgid "item-blue-can"
+msgstr "Lata Azul"
+
+msgid "item-old-boot"
+msgstr "Bota Velha"
+
+msgid "item-old-tire"
+msgstr "Pneu Velho"
+
+msgid "item-leaf"
+msgstr "Folha"
+
+msgid "I think probably every kid has wondered at least once, \\\"What do I want to be when I grow up?\\\""
+msgstr "Acho que toda criança já se perguntou alguma vez: \\\"O que eu quero ser quando crescer?\\\""
+
+msgid "There are as many answers to that question as there are stars in the sky."
+msgstr "Tem tantas respostas possíveis para essa pergunta quanto há estrelas no céu."
+
+msgid "Plenty of dreams have been dreamed about becoming astronauts, movie stars, presidents and doctors."
+msgstr "Muitas crianças sonham em se tornar astronautas, estrelas de cinema, presidentes e médicos."
+
+msgid "Me? I wanted to become a farmer."
+msgstr "Quanto a mim... Eu sempre quis ser fazendeir<o>."
+
+msgid "I guess it's kind of a weird thing for a kid to want to be. My parents were pretty sure I'd give up on it by the time I was twelve."
+msgstr "Pode parecer um sonho estranho para uma criança. Meus pais tinham certeza que eu esqueceria isso quando tivesse uns 12 anos."
+
+msgid "But ever since I was little, that's been my dream... To have a piece of land I can call my own and make my living from it. I want to work the earth and enjoy the fruits of my labor...literally."
+msgstr "Mas desde pequen<o>, este foi meu sonho... Ter um pedaço de terra e viver dele. Eu quero trabalhar no solo e aproveitar os frutos do meu suor... literalmente."
+
+msgid "Today, I'm taking the first step toward making that dream come true. With my parents' help, I've finally purchased a plot of land."
+msgstr "Hoje eu estou tomando o primeiro passo para realizar este sonho. Com a ajuda dos meus pais, finalmente comprei algumas terras."
+
+msgid "Now I'm moving to Orange Town to start a new life as a farmer."
+msgstr "Agora estou me mudando para a Terra das Laranjeiras para começar uma nova vida como fazendeir<o>."
+
+msgid "To be honest, I'm kinda nervous. Will I make it big, or lose everything? What kind of hardships await me?"
+msgstr "Pra ser sincero, estou meio nervos<o>. Será que terei sucesso, ou vou perder tudo? Que tipo de dificuldades me esperam?"
+
+msgid "I don't know what's in store for me there, but I do know one thing..."
+msgstr "Não sei o que me espera lá, mas eu sei de uma coisa..."
+
+msgid "I'm going to give it everything I've got!"
+msgstr "Eu vou dar o meu melhor!"
+
+msgid "(Dad said the mayor would meet me here, but I don't see anyone...)"
+msgstr "(Meu pai disse que a prefeita me encontraria aqui, mas não vejo ninguém...)"
+
+msgid "Excuse me, are you <name>?"
+msgstr "Com licença, por acaso você é <o> <name>?"
+
+msgid "That's right. And you are...?"
+msgstr "Sim. E você é...?"
+
+msgid "My name is Julia. As the mayor, allow me to officially welcome you to Orange Town, <name>."
+msgstr "Meu nome é Julia. Sou a prefeita aqui da Terra das Laranjeiras e gostaria de te dar as boas vindas oficiais."
+
+msgid "Your parents asked me to meet you at the station and show you around. If you'll come with me, I'll show you the way to your new farm."
+msgstr "Seus pais me pediram para te encontrar na estação e te mostrar o lugar. Se vier comigo, te levarei para sua nova fazenda."
+
+msgid "Here you are, home sweet home!"
+msgstr "Aqui estamos: lar, doce lar!"
+
+msgid "Your furniture and other belongings arrived here yesterday. You'll find them inside."
+msgstr "Seus pertences e seus novos móveis já chegaram ontem, está tudo lá dentro."
+
+msgid "Ah, you're here now. Thanks for taking the time to stop by, Benji."
+msgstr "Ah, você está aqui. Obrigado pela ajuda, Benji."
+
+msgid "<name>, this is my younger brother Benjamin. He's also a farmer like you."
+msgstr "<name>, este é meu irmão mais novo Benjamin. Ele também é um fazendeiro como você."
+
+msgid "If you need any help or advice, he'll be glad to help you out."
+msgstr "Se precisar de qualquer ajuda ou conselhos, ele ficará feliz em te ajudar."
+
+msgid "Now, if you'll excuse me I should be going back to work..."
+msgstr "Agora se me dá licença, preciso voltar ao trabalho..."
+
+msgid "Err... She doesn't talk much, does she?"
+msgstr "Err... Ela não fala muito, né?"
+
+msgid "She's just too busy these days. She talked a lot more when she wasn't mayor."
+msgstr "Ela é muito ocupada hoje em dia. Ela costumava conversar bem mais antes de se tornar prefeita."
+
+msgid "At any rate, you didn't come to hear me ramble about my sister. You came here to farm."
+msgstr "De qualquer forma, você não veio aqui me ouvir falar sobre minha irmã. Você veio cuidar de uma fazenda."
+
+msgid "I brought you a farming handbook. Do you want me to go over it with you?"
+msgstr "Eu te trouxe um livro com informações básicas para fazendeiros. Quer que eu repasse o conteúdo dele com você?"
+
+msgid "Yes, please!"
+msgstr "Sim, por favor!"
+
+msgid "No, I'll check the book later."
+msgstr "Não precisa, eu vou conferir o livro depois."
+
+msgid "No thanks, I'm already a good farmer._male"
+msgstr "Não precisa, obrigado. Eu já sou um bom fazendeiro."
+
+msgid "No thanks, I'm already a good farmer._female"
+msgstr "Não precisa, obrigada. Eu já sou uma boa fazendeira."
+
+msgid "First things first: do you know how to walk around?"
+msgstr "Vamos começar pelo começo. Você sabe caminhar?"
+
+msgid "Yes, I know how to walk."
+msgstr "Sim, eu sei caminhar."
+
+msgid "Do I look like a toddler or something?"
+msgstr "Eu pareço um bebê ou algo do tipo?"
+
+msgid "I came all the way here, didn't I?"
+msgstr "Eu cheguei até aqui, não cheguei?"
+
+msgid "No, I guess I don't."
+msgstr "Não, acho que não."
+
+msgid "Well, no, but... You know, it's different from now on."
+msgstr "Bem, não, mas... Sabe como é, as coisas são diferentes daqui pra frente."
+
+msgid "You did, but it's different now."
+msgstr "Você veio, mas é diferente agora."
+
+msgid "Well, it's not like you could figure this out on your own."
+msgstr "Bem, também não tinha como você descobrir isso sozinh<o>, não é mesmo?"
+
+msgid "What do you mean?"
+msgstr "O que você quer dizer?"
+
+msgid "You need to press one of the <color:important><keys:up,left,down,right><color:default> to walk now."
+msgstr "Você precisa apertar uma das <color:important><keys:up,left,down,right><color:default> para caminhar agora."
+
+msgid "Oh. That makes sense."
+msgstr "Ah. Faz sentido."
+
+msgid "And when you want to talk to someone, open a door, pick an item or anything like that, you have to press the <color:important><key:ok><color:default>."
+msgstr "E quando quiser conversar com alguém, abrir uma porta, pegar um objeto ou qualquer coisa desse tipo, você tem que pressionar a <color:important><key:ok><color:default>."
+
+msgid "Oh, the same key I'm using to skip this conversation?"
+msgstr "Ah, a mesma tecla que estou usando para pular essa conversa?"
+
+msgid "Yes!<wait> Wait, what?"
+msgstr "Sim!<wait> Espera, o que você disse?"
+
+msgid "After I finished listening to you, of course!"
+msgstr "Depois que eu termino de te ouvir, é claro."
+
+msgid "Ah, ok.<wait> Well, if you want me to speak faster, you can hold the <color:important><key:ok><color:default> and I'll do my best."
+msgstr "Ah, certo.<wait> Bem, se você quiser que eu fale mais rápido, você pode segurar a <color:important><key:ok><color:default> e eu vou fazer o possível."
+
+msgid "That will be useful!"
+msgstr "Isso será útil!"
+
+msgid "Now, I noticed you've brought a rucksack with you. Good thinking. You can use it to store items and farming tools."
+msgstr "Continuando. Eu percebi que você trouxe uma mochila com você. Bem pensado. Você pode usá-la para guardar itens e ferramentas."
+
+msgid "I only brought it to carry a snack on the train."
+msgstr "Mas eu só trouxe ela para carregar meu lanche no trem."
+
+msgid "That's another good idea. To open your rucksack, press the <color:important><key:escape><color:default>. Then highlight an item and press the <color:important><key:ok><color:default> to take it out."
+msgstr "Outra boa ideia. Para abrir a mochila, pressione a <color:important><key:escape><color:default>. Depois marque um item e pressione a <color:important><key:ok><color:default> para pegá-lo."
+
+msgid "But it's empty now. I already ate the snack."
+msgstr "Mas ela está vazia agora. Eu já comi o lanche."
+
+msgid "Then you can have mine. Here."
+msgstr "Pode ficar com o meu. Aqui."
+
+msgid "Uhh...<wait> Were you planning on eating that later?"
+msgstr "Uhh...<wait> Você planeja comer isso depois?"
+
+msgid "It's ok.<wait> Now, press the <color:important><key:ok><color:default> to pick up the apple."
+msgstr "Tá tudo bem.<wait> Agora, pressione a <color:important><key:ok><color:default> para pegar a maçã."
+
+msgid "Then press the <color:important><key:pagedown><color:default> to place it in your rucksack."
+msgstr "Depois pressione a <color:important><key:pagedown><color:default> para colocar na mochila."
+
+msgid "Good job."
+msgstr "Bom trabalho."
+
+msgid "Does this mean I get to keep it?"
+msgstr "Então posso ficar com ela?"
+
+msgid "I thought you had your snack already."
+msgstr "Pensei que você já tivesse comido seu lanche."
+
+msgid "Oh well, it was worth a try."
+msgstr "Não custa nada tentar, né?"
+
+msgid "Once you pick up an item or take it out of your rucksack, you can press the <color:important><key:use><color:default> to use it."
+msgstr "Quando você pegar um item do chão ou da mochila, você pode pressionar a <color:important><key:use><color:default> para usá-lo."
+
+msgid "When you need to use a farm tool, you can equip it from your rucksack by highlighting it and pressing <color:important><key:ok><color:default>."
+msgstr "Quando quiser usar uma ferramenta, você pode equipá-la diretamente da mochila selecionando-a e pressionando a <color:important><key:ok><color:default>."
+
+msgid "That's kind of slow. Isn't there a faster way to change tools?"
+msgstr "Parece meio lento. Não tem uma forma mais rápida de pegar uma ferramenta?"
+
+msgid "There is. You can use the <color:important><key:pageup><color:default> to cycle through your available tools."
+msgstr "Tem sim. Você pode usar a <color:important><key:pageup><color:default> para alternar entre as suas ferramentas."
+
+msgid "You can also use the <color:important><key:pagedown><color:default> to cycle through your seeds and items."
+msgstr "Você também pode usar a <color:important><key:pagedown><color:default> para trocar de semente ou item."
+
+msgid "That's still kind of a pain. Is there an even faster way?"
+msgstr "Ainda parece meio trabalhoso. Não tem um jeito mais rápido ainda?"
+
+msgid "The fastest way to change tools is to use their hotkeys."
+msgstr "Mais rápido que isso só se você usar o atalho númerico de cada ferramenta."
+
+msgid "Each tool has a numeric hotkey. Pressing that hotkey will automatically equip the right tool."
+msgstr "Cada ferramenta tem um atalho numérico. Pressione um atalho para equipar a ferramenta correspondente automaticamente."
+
+msgid "Everytime you get a new tool you should check it's hotkey and maybe change it to something better on the settings."
+msgstr "Toda vez que você encontrar uma nova ferramenta você deveria verificar qual o seu atalho e talvez mudar para uma tecla melhor nas configurações."
+
+msgid "Anyway, once the tool is equipped, you can press the <color:important><key:use><color:default> to use it."
+msgstr "Enfim, quando estiver com a ferramenta equipada, você pode pressionar <color:important><key:use><color:default> para usá-la."
+
+msgid "How do I know what tool is equipped?"
+msgstr "Como eu sei qual ferramenta está equipada?"
+
+msgid "You...<wait> look at your hands?"
+msgstr "Você...<wait> olha pras suas mãos?"
+
+msgid "Or look at the screen.<wait> Let me activate it for you."
+msgstr "Ou olhe para a tela.<wait> Deixe-me ativar uma coisa pra você."
+
+msgid "Isn't it better?"
+msgstr "Não fica melhor?"
+
+msgid "Now, here's a Hoe for you to use."
+msgstr "Agora toma essa enxada."
+
+msgid "Received a Perfect Hoe."
+msgstr "Recebeu uma Enxada Perfeita."
+
+msgid "I'll wait until you equip it."
+msgstr "Vou esperar você equipá-la."
+
+msgid "Good job. You'll be using many different tools as a farmer, so make good use of these shortcuts."
+msgstr "Bom trabalho. Você vai usar várias ferramentas diferentes na fazenda, então faça bom uso destes atalhos."
+
+msgid "Can I kee—<wait><close>"
+msgstr "Posso ficar co—<wait><close>"
+
+msgid "I'll need that hoe back now."
+msgstr "Pode me devolver a enxada agora."
+
+msgid "Rats."
+msgstr "Droga."
+
+msgid "Don't worry, I'll give you something better later."
+msgstr "Não se preocupe, eu te darei algo melhor depois."
+
+msgid "Oh, thanks. What will it be?"
+msgstr "Ah, obrigad<o>. O que você vai dar?"
+
+msgid "Later. Now, let's sow some seeds.<wait> Here."
+msgstr "Depois. Agora vamos semear alguns nabos.<wait> Toma."
+
+msgid "Received Turnip Seeds"
+msgstr "Recebeu Sementes de Nabo"
+
+msgid "Let's sow some seeds."
+msgstr "Vamos plantar algumas sementes."
+
+msgid "Great Job! Now all that's left is to water what you've sown, but you can do that later with your watering can."
+msgstr "Bom trabalho! Só o que falta agora é regar o que você semeou, mas você pode fazer isso depois com o seu regador."
+
+msgid "But I don't have a watering can."
+msgstr "Mas eu não tenho um regador."
+
+msgid "What?<wait> How do you expect to be a good farmer without your own watering can?_male"
+msgstr "Mas hein?<wait> Como você espera ser um bom fazendeiro sem seu próprio regador?"
+
+msgid "What?<wait> How do you expect to be a good farmer without your own watering can?_female"
+msgstr "Mas hein?<wait> Como você espera ser uma boa fazendeira sem seu próprio regador?"
+
+msgid "I've never seen a farmer using a watering can. I thought you all relied on the rain."
+msgstr "Eu nunca vi um fazendeiro usando regador. Pensei que vocês dependessem da chuva."
+
+msgid "Not on this world, we don't. <wait> Here, I'll give you a basic watering can."
+msgstr "Não nesse mundo.<wait> Aqui, vou te dar um regador básico."
+
+msgid "Received a Watering Can."
+msgstr "Recebeu um Regador."
+
+msgid "Don't forget to fill it, or you won't be able to water anything."
+msgstr "Não esqueça de enchê-lo, ou não vai conseguir regar nada."
+
+msgid "Thanks. But I have one more question: Why can't I use a tractor to plow the land?"
+msgstr "Obrigad<o>. Mas eu tenho mais uma pergunta: Por que eu não posso usar um trator pra arar a terra?"
+
+msgid "Do you have one?"
+msgstr "Você tem um?"
+
+msgid "For now, you'll have to till by hand using a hoe. Here."
+msgstr "Por enquanto, vai ter que usar a enxada mesmo. Toma."
+
+msgid "Received a Cheap Hoe."
+msgstr "Recebeu uma Enxada Barata."
+
+msgid "In exchange for those tools, I want you to bring me 5 turnips grown by you, any time you can. I'll even give you more seeds for that."
+msgstr "Em troca destas ferramentas, eu quero que você me traga 5 nabos seus, a qualquer hora que ficar melhor para você. Eu vou até te dar mais algumas sementes pra isso."
+
+msgid "Okay! I'll bring you the first 5 turnips I harvest."
+msgstr "Está bem! Vou te trazer os 5 primeiros nabos que eu colher na minha fazenda."
+
+msgid "Perfect.<wait> I'll be going home now. Don't forget to water the seeds you've sown."
+msgstr "Perfeito.<wait> Eu vou para casa agora. Não esqueça de regar os nabos que você semeou."
+
+msgid "I won't forget. Thank you for everything, Benjamin."
+msgstr "Não vou esquecer. Obrigado por tudo."
+
+msgid "Press the <color:important><key:ok><color:default> to pick up the apple."
+msgstr "Pressione a <color:important><key:ok><color:default> para pegar a maçã."
+
+msgid "...Were you trying to use the hoe on me?"
+msgstr "...Você estava tentando usar a enxada em mim?"
+
+msgid "...No?"
+msgstr "...Não?"
+
+msgid "Then stop wasting time. Press the <color:important><key:use><color:default> on an empty patch of soil."
+msgstr "Então não perca tempo. Pressione a <color:important><key:use><color:default> em algum canto de terra vazia."
+
+msgid "I'm waiting for you to equip the hoe I just gave you."
+msgstr "Estou esperando você equipar a enxada que eu acabei de te dar."
+
+msgid "Now use it to till an empty patch of soil."
+msgstr "Agora use a enxada para arar um pouco de terra."
+
+msgid "Oh...<wait> Okay. Let me give you some tools, then."
+msgstr "Ah...<wait> Tá bem. Deixa eu te entregar algumas ferramentas, então."
+
+msgid "Received a Cheap Hoe, a Watering Can and 11 Bags of Turnip Seeds."
+msgstr "Você recebeu uma Enxada Barata, um Regador e 11 Pacotes de Sementes de Nabo"
+
+msgid "In exchange for those tools, I want you to bring me 5 turnips grown by you, any time you can."
+msgstr "Em troca destas ferramentas, eu quero que você me traga 5 nabos seus, a qualquer hora que ficar melhor para você."
+
+msgid "Perfect.<wait> I'll be going home now. Good Luck with your farm."
+msgstr "Perfeito.<wait> Agora eu vou para casa. Boa sorte com sua fazenda."
+
+msgid "Thank you."
+msgstr "Obrigad<o>"
+
+msgid "BGM Volume"
+msgstr "Volume da Música"
+
+msgid "BGS Volume"
+msgstr "Volume de Músicas Tema"
+
+msgid "ME Volume"
+msgstr "Volume de Músicas Tema"
+
+msgid "Back to Entrance"
+msgstr "Ir para entrada"
+
+msgid "Backpack"
+msgstr "Mochila"
+
+msgid "Benjamin's Payment"
+msgstr "O pagamento de Benjamin"
+
+msgid "To Title"
+msgstr "Voltar ao Título"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Critter"
+msgstr "Insetos"
+
+msgid "Data"
+msgstr "Dados"
+
+msgid "Exit Game"
+msgstr "Sair do Jogo"
+
+msgid "File %1"
+msgstr "Arquivo %1"
+
+msgid "Fish"
+msgstr "Peixes"
+
+msgid "Food"
+msgstr "Comida"
+
+msgid "Fullscreen"
+msgstr "Tela Cheia"
+
+msgid "Go Home"
+msgstr "Ir para casa"
+
+msgid "Go home"
+msgstr "Ir para casa"
+
+msgid "Go to bed without saving."
+msgstr "Dormir sem salvar"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "I give up."
+msgstr "Eu desisto."
+
+msgid "I'm going to bed now, please leave."
+msgstr "Eu vou dormir agora, por favor se retire."
+
+msgid "It's a good idea to assign tools you'll be using often such as the watering can to a hotkey."
+msgstr "É uma boa ideia atribuir atalhos para as ferramentas que você usa com frequência, como o regador."
+
+msgid "It's locked."
+msgstr "Está trancado."
+
+msgid "Items"
+msgstr "Itens"
+
+msgid "<WordWrap>New Task: <color:task><task></color><BR><taskDesc>"
+msgstr "<WordWrap>Nova Tarefa: <color:task><task></color><BR><taskDesc>"
+
+msgid "<WordWrap>Task Completed: <color:task><task></color>"
+msgstr "<WordWrap>Tarefa Concluída: <color:task><task></color>"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Once the seed or tool is equipped, you can press the <color:important>Space Bar or Enter key<color:default> to use it."
+msgstr "Depois que a ferramenta ou semente estiver equipada, você pode usar a <color:important>Barra de Espaço ou tecla Enter<color:default> para usá-la."
+
+msgid "Open your rucksack and highlight the tool you want to assign, then press any <color:default>numeric key<color:default> to bind that tool to it."
+msgstr "Abra sua mochila e selecione a ferramenta desejada, então pressione qualquer <color:important>tecla numérica<color:default> para atribuí-la à ferramenta."
+
+msgid "Others"
+msgstr "Outros"
+
+msgid "Renderer"
+msgstr "Renderizador"
+
+msgid "SE Volume"
+msgstr "Volume de Efeitos Sonoros"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Save and go to bed."
+msgstr "Salvar e dormir"
+
+msgid "Seeds"
+msgstr "Sementes"
+
+msgid "Should I go to sleep?"
+msgstr "Devo ir dormir?"
+
+msgid "Shutdown"
+msgstr "Encerrar"
+
+msgid "Tasks"
+msgstr "Tarefas"
+
+msgid "There's nobody home."
+msgstr "Não tem ninguém em casa."
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "or"
+msgstr "or"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Audio"
+msgstr "Áudio"
+
+msgid "Keyboard Controls"
+msgstr "Controles do Teclado"
+
+msgid "Gamepad Controls"
+msgstr "Controles de Gamepad"
+
+msgid "Resolution"
+msgstr "Resolução"
+
+msgid "Window Size"
+msgstr "Tamanho da Janela"
+
+msgid "Show Area of Effect"
+msgstr "Mostrar Área de Efeito"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Use"
+msgstr "Usar"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Lock Direction"
+msgstr "Travar Direção"
+
+msgid "Next Tool"
+msgstr "Próxima Ferramenta"
+
+msgid "Next Item"
+msgstr "Próximo Item"
+
+msgid "Some settings requires the game to be restarted."
+msgstr "Algumas configurações requerem que o jogo seja reiniciado."
+
+msgid "The restaurant isn't open yet."
+msgstr "O restaurante ainda não abriu."
+
+msgid "The city hall is closed now."
+msgstr "A prefeitura está fechada."
+
+msgid "The general store is closed now."
+msgstr "O mercado está fechado."
+
+msgid "Benjamin's Fields are down here. There's no reason for me to enter."
+msgstr "A fazenda do Benjamin fica por aqui. Não tem motivo para eu entrar aqui sozinho."
+
+msgid "Hey <name>. I'll be closing the restaurant now."
+msgstr "Ei <name>. Eu vou fechar o restaurante agora."
+
+msgid "The restaurant closed earlier today."
+msgstr "O restaurante fechou mais cedo hoje."
+
+msgid "Current Item"
+msgstr "Item Atual"
+
+msgid "You can buy animals from Brittany's Farm."
+msgstr "Você pode comprar animais na fazenda da Brittany."
+
+msgid "I really don't know what to say, thank you so much for this."
+msgstr "Eu nem sei o que dizer, muito obrigado por tudo isso."
+
+msgid "It's no big deal, really."
+msgstr "Não é nada de mais, sério."
+
+msgid "I'll go back home now, good luck with your farm."
+msgstr "Eu vou voltar para casa agora, boa sorte com sua fazenda."
+
+msgid "Game Speed"
+msgstr "Velocidade do Jogo"
+
+msgid "Use Old Font"
+msgstr "Usar Fonte Antiga"
+
+msgid "Quick Text"
+msgstr "Texto Rápido"
+
+msgid "Show Item Bar"
+msgstr "Mostrar Barra de Itens"
+
+msgid "Show Tool Bar"
+msgstr "Mostrar Barra de Ferramentas"
+
+msgid "Tile Based Movement"
+msgstr "Passos Maiores"
+
+msgid "Run"
+msgstr "Correr"
+
+msgid "Active Tasks"
+msgstr "Tarefas Ativas"
+
+msgid "Do you need something?"
+msgstr "Você precisa de alguma coisa?"
+
+msgid "Upgrade Tools"
+msgstr "Aprimorar Ferramentas"
+
+msgid "Refine Ore"
+msgstr "Refinar Minérios"
+
+msgid "Nevermind"
+msgstr "Deixa pra lá"
+
+msgid "Which kind of ore do you want to refine?"
+msgstr "Que tipo de minério você quer refinar?"
+
+msgid "Iron"
+msgstr "Ferro"
+
+msgid "Copper"
+msgstr "Cobre"
+
+msgid "Silver"
+msgstr "Prata"
+
+msgid "Gold"
+msgstr "Ouro"
+
+msgid "Clay"
+msgstr "Argila"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "I need <color:important>1 Iron Ore</color> to make an Iron Ingot. How many do you want?"
+msgstr "Eu preciso de <color:important>1 minério de ferro</color> para fazer um lingote. Quantos você quer?"
+
+msgid "I need <color:important>2 Copper Ores</color> to make a Copper Ingot. How many do you want?"
+msgstr "Eu preciso de <color:important>2 minérios de cobre</color> para fazer um lingote. Quantos você quer?"
+
+msgid "I need <color:important>3 Silver Ores</color> to make a Silver Ingot. How many do you want?"
+msgstr "Eu preciso de <color:important>3 minérios de prata</color> para fazer um lingote. Quantos você quer?"
+
+msgid "I need <color:important>4 Gold Ores</color> to make a Gold Ingot. How many do you want?"
+msgstr "Eu preciso de <color:important>4 minérios de ouro</color> para fazer um lingote. Quantos você quer?"
+
+msgid "I need <color:important>5 units of clay</color> to make a brick. How many do you want?"
+msgstr "Eu preciso de <color:important>5 argilas</color> para fazer um tijolo. Quantos você quer?"
+
+msgid "To upgrade your hoe, I'm gonna need <color:important>1 Copper Ingot and 1,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua enxada, eu vou precisar de <color:important>1 lingote de cobre e 1.000G</color>. Você aceita?"
+
+msgid "To upgrade your axe, I'm gonna need <color:important>1 Copper Ingot and 1,000G</color>. Is that ok?"
+msgstr "Para aprimorar seu machado, eu vou precisar de <color:important>1 lingote de cobre e 1.000G</color>. Você aceita?"
+
+msgid "To upgrade your hammer, I'm gonna need <color:important>1 Copper Ingot and 1,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua marreta, eu vou precisar de <color:important>1 lingote de cobre e 1.000G</color>. Você aceita?"
+
+msgid "To upgrade your sickle, I'm gonna need <color:important>1 Copper Ingot and 1,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua foice, eu vou precisar de <color:important>1 lingote de cobre e 1.000G</color>. Você aceita?"
+
+msgid "To upgrade your hoe, I'm gonna need <color:important>2 Silver Ingots and 3,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua enxada, eu vou precisar de <color:important>2 lingotes de prata e 3.000G</color>. Você aceita?"
+
+msgid "To upgrade your axe, I'm gonna need <color:important>2 Silver Ingots and 3,000G</color>. Is that ok?"
+msgstr "Para aprimorar seu machado, eu vou precisar de <color:important>2 lingotes de prata e 3.000G</color>. Você aceita?"
+
+msgid "To upgrade your hammer, I'm gonna need <color:important>2 Silver Ingots and 3,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua marreta, eu vou precisar de <color:important>2 lingotes de prata e 3.000G</color>. Você aceita?"
+
+msgid "To upgrade your sickle, I'm gonna need <color:important>2 Silver Ingots and 3,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua foice, eu vou precisar de <color:important>2 lingotes de prata e 3.000G</color>. Você aceita?"
+
+msgid "To upgrade your hoe, I'm gonna need <color:important>3 Gold Ingots and 10,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua enxada, eu vou precisar de <color:important>3 lingotes de ouro e 10.000G</color. Você aceita?"
+
+msgid "To upgrade your axe, I'm gonna need <color:important>3 Gold Ingots and 10,000G</color>. Is that ok?"
+msgstr "Para aprimorar seu machado, eu vou precisar de <color:important>3 lingotes de ouro e 10.000G</color. Você aceita?"
+
+msgid "To upgrade your hammer, I'm gonna need <color:important>3 Gold Ingots and 10,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua marreta, eu vou precisar de <color:important>3 lingotes de ouro e 10.000G</color. Você aceita?"
+
+msgid "To upgrade your sickle, I'm gonna need <color:important>3 Gold Ingots and 10,000G</color>. Is that ok?"
+msgstr "Para aprimorar sua foice, eu vou precisar de <color:important>3 lingotes de ouro e 10.000G</color. Você aceita?"
+
+msgid "Sorry, I can't make your hoe any better than it already is."
+msgstr "Desculpa, eu não consigo aprimorar sua enxada mais do que isso."
+
+msgid "Sorry, I can't make your axe any better than it already is."
+msgstr "Desculpa, eu não consigo aprimorar seu machado mais do que isso."
+
+msgid "Sorry, I can't make your hammer any better than it already is."
+msgstr "Desculpa, eu não consigo aprimorar sua marreta mais do que isso."
+
+msgid "Sorry, I can't make your sickle any better than it already is."
+msgstr "Desculpa, eu não consigo aprimorar sua foice mais do que isso."
+
+msgid "I need <color:important>3 Gold Ingots</color> to upgrade your hoe."
+msgstr "Eu preciso de <color:important>3 lingotes de ouro</color> para melhorar sua enxada."
+
+msgid "I need <color:important>3 Gold Ingots</color> to upgrade your axe."
+msgstr "Eu preciso de <color:important>3 lingotes de ouro</color> para melhorar seu machado."
+
+msgid "I need <color:important>3 Gold Ingots</color> to upgrade your hammer."
+msgstr "Eu preciso de <color:important>3 lingotes de ouro</color> para melhorar sua marreta."
+
+msgid "I need <color:important>3 Gold Ingots</color> to upgrade your sickle."
+msgstr "Eu preciso de <color:important>3 lingotes de ouro</color> para melhorar sua foice."
+
+msgid "I need <color:important>2 Silver Ingots</color> to upgrade your hoe."
+msgstr "Eu preciso de <color:important>2 lingotes de prata</color> para melhorar sua enxada."
+
+msgid "I need <color:important>2 Silver Ingots</color> to upgrade your axe."
+msgstr "Eu preciso de <color:important>2 lingotes de prata</color> para melhorar seu machado."
+
+msgid "I need <color:important>2 Silver Ingots</color> to upgrade your hammer."
+msgstr "Eu preciso de <color:important>2 lingotes de prata</color> para melhorar sua marreta."
+
+msgid "I need <color:important>2 Silver Ingots</color> to upgrade your sickle."
+msgstr "Eu preciso de <color:important>2 lingotes de prata</color> para melhorar sua foice."
+
+msgid "I need a <color:important>Copper Ingot</color> to upgrade your hoe."
+msgstr "Eu preciso de <color:important>1 lingote de cobre</color> para melhorar sua enxada."
+
+msgid "I need a <color:important>Copper Ingot</color> to upgrade your axe."
+msgstr "Eu preciso de <color:important>1 lingote de cobre</color> para melhorar seu machado."
+
+msgid "I need a <color:important>Copper Ingot</color> to upgrade your hammer."
+msgstr "Eu preciso de <color:important>1 lingote de cobre</color> para melhorar sua marreta."
+
+msgid "I need a <color:important>Copper Ingot</color> to upgrade your sickle."
+msgstr "Eu preciso de <color:important>1 lingote de cobre</color> para melhorar sua foice."
+
+msgid "It doesn't look like you have any watering can with you."
+msgstr "Parece que você não tem nenhum regador com você."
+
+msgid "It doesn't look like you have any axe with you."
+msgstr "Parece que você não tem nenhum machado com você."
+
+msgid "It doesn't look like you have any hoe with you."
+msgstr "Parece que você não tem nenhuma enxada com você."
+
+msgid "It doesn't look like you have any hammer with you."
+msgstr "Parece que você não tem nenhuma marreta com você."
+
+msgid "It doesn't look like you have any sickle with you."
+msgstr "Parece que você não tem nenhuma foice com você."
+
+msgid "You don't have enough money."
+msgstr "Você não tem dinheiro suficiente."
+
+msgid "Let me know if you change your mind."
+msgstr "Me avise se mudar de ideia."
+
+msgid "There you go! A brand new tool. That's as good as it gets."
+msgstr "Aí está! Uma ferramenta novinha em folha. Não tem como ficar melhor do que isso."
+
+msgid "There you go! A brand new tool."
+msgstr "Aí está! Uma ferramenta novinha em folha."
+
+msgid "Hello sweetie.<BR>I know you just moved out of here, but how's life on the farm so far?<BR>Yesterday your father said he wants to retire. They hired someone your age to be his boss and he isn't handling that very well.<BR>Hope to hear from you soon.<BR><BR>Love You.<BR>Mom.<BR><BR><BR>p.s.: I'm sending you a small gift."
+msgstr "Olá filh<o>.<BR>Eu sei que você acabou de se mudar daqui, mas como está a vida na fazenda até agora?<BR>Ontem seu pai disse que quer se aposentar. Contrataram alguém da sua idade para ser o novo chefe e ele não está lidando bem com isso.<BR>Espero receber uma carta sua logo.<BR><BR>Te amo.<BR>Mamãe.<BR><BR><BR>p.s.:Estou mandando um presentinho."
+
+msgid "Hey, are you the new farmer my sister Julia was talking about?"
+msgstr "Ei, você é <o> nov<o> fazendeir<o> que minha irmã Julia estava falando?"
+
+msgid "Yup, that's me. The name is <name>."
+msgstr "Aham, sou eu. Meu nome é <name>."
+
+msgid "Welcome to Orange Town, <name>! My name is Brittany, I'm also a farmer here."
+msgstr "Bem-vind<o> a Terra das Laranjeiras, <name>! Meu nome é Brittany, eu também sou fazendeira aqui."
+
+msgid "Really? That's cool. Do you have any advice for me?"
+msgstr "Sério? Que legal. Tem algum conselho pra mim?"
+
+msgid "I don't work on the fields as much these days, but I can say it's important to eat a lot so you don't run out of stamina."
+msgstr "Eu não passo mais muito tempo diretamente na fazenda hoje em dia, mas posso te dizer que é importante comer bastante para não ficar sem energia."
+
+msgid "There are many orange trees around the town. It's a good way to recover some energy. You can also sell them for some quick money."
+msgstr "Há muitas árvores de laranja pela cidade. É uma boa forma de recuperar energia. Você também pode vendê-las para fazer um dinheiro rápido."
+
+msgid "That's great advice. Thanks so much!"
+msgstr "Esse foi um bom conselho. Muito obrigad<o>!"
+
+msgid "See you around, <name>."
+msgstr "Te vejo por aí, <name>."
+
+msgid "Hey there <name>, do you need anything?"
+msgstr "Olá <name>, você precisa de alguma coisa?"
+
+msgid "If you need livestock or ranching supplies, you should talk to Stella."
+msgstr "Se você precisa de animais ou suprimentos, fale com a Stella."
+
+msgid "Sorry I didn't mean to be rude."
+msgstr "Desculpe, eu não quis parecer rude."
+
+msgid "Did you say something? Sorry, I just woke up."
+msgstr "Você falou alguma coisa? Desculpa, eu acabei de acordar."
+
+msgid "I'm really hungry right now."
+msgstr "Eu estou com muita fome."
+
+msgid "I get bored very easily, so I try to read a lot to keep my mind busy."
+msgstr "Eu fico entediada muito facilmente, então eu tento ler bastante pra manter a mente ocupada."
+
+msgid "I'm already tired. I think I'll go to bed soon."
+msgstr "Eu já estou cansada. Acho que logo irei dormir."
+
+msgid "Hey <name>. Did you manage to sow all the seeds I gave you?"
+msgstr "Ei <name>. Você conseguiu plantar todas as sementes que te dei?"
+
+msgid "I noticed you found yourself a sickle. It will be very useful in the farm."
+msgstr "Percebi que você tem uma foice agora. Ela vai ser bem útil na fazenda."
+
+msgid "If you ran out of space in your farm, you will need to find a sickle, hammer or axe to help clear the weeds, rocks and logs that are lying around."
+msgstr "Se você ficar sem espaço na fazenda, você vai precisar encontrar uma foice, uma marreta ou um machado para se livrar dos entulhos que tem por lá."
+
+msgid "Try to explore the areas outside the town, you may be able to find something."
+msgstr "Tente explorar as áreas fora da cidade, quem sabe você não encontra alguma coisa."
+
+msgid "Don't forget to water your crops every day."
+msgstr "Não esqueça de regar suas plantas todos os dias."
+
+msgid "You can't rely on the rain alone. It would take too long for the crops to grow."
+msgstr "Você não pode depender apenas da chuva. Iria demorar demais para as plantas crescerem."
+
+msgid "You have a finite amount of energy to do farm work. Watering crops, chopping wood, tending to you animals — all of those things consume stamina."
+msgstr "A sua energia não é infinita. Regar plantas, cortar lenha, cuidar dos animais — todas essas coisas te deixarão mais cansado."
+
+msgid "Working hard is part and parcel of life as a farmer, but if you push yourself too hard and run out of stamina, <color:important>you'll collapse<color:default>."
+msgstr "Trabalhar duro faz parte da vida de um fazendeiro, mas se você se esforçar demais você vai ficar sem energia e <color:important>pode até desmaiar<color:default>."
+
+msgid "Try to avoid becoming tired or sick if you can. Remember, early to bed and early to rise makes a farmer healthy, wealthy, and wise."
+msgstr "Se possível, evite se cansar demais ou ficar doente. Lembre-se: Dormir e acordar cedo te deixará fico mais cedo também."
+
+msgid "If you need to buy seeds or other farming supplies, Serge is selling some of my excess stock in the general store."
+msgstr "Se você precisa comprar sementes ou outros suprimentos, o Sérgio está vendendo parte do meu estoque no mercado dele."
+
+msgid "If you need livestock or ranching supplies, you should visit my sister Brittany's ranch and talk to Stella."
+msgstr "Se você precisa de animais ou ração, você precisa visitar o rancho da minha irmã e falar com a Stella."
+
+msgid "Have you had a chance to go to the mountains yet? You can forage a lot of stuff there."
+msgstr "Você já visitou as montanhas? Você pode encontrar muita coisa boa para vender por lá."
+
+msgid "To reach the mountains, go west through the path between the general store and my house."
+msgstr "Para subir as montanhas, siga pelo caminho entre o mercado e a minha casa."
+
+msgid "You probably know that already, since the train station is that way too."
+msgstr "Você provavelmente já sabe disso, considerando que a estação do trem também é daquele lado."
+
+msgid "Have you been inside the big cave in the mountain base yet?"
+msgstr "Você já entrou na caverna que fica na base da montanha?"
+
+msgid "The Rock Town Miners may have abandoned it, but there's still a lot to find over there."
+msgstr "Os mineiros de Rochedo abandonaram ela, mas ainda tem muita coisa para encontrar por lá."
+
+msgid "You may even be able to find some useful tools there."
+msgstr "Com sorte você pode até encontrar algumas ferramentas por lá."
+
+msgid "I've seen you entering the mountain cave. Did you manage to find anything useful there?"
+msgstr "Eu te vi entrando na caverna. Encontrou algo interessante por lá?"
+
+msgid "The only thing I found there was a chest, but it was already open and completely empty."
+msgstr "A única coisa que eu encontrei foi um baú, mas ele já estava aberto e completamente vazio."
+
+msgid "Well, well, well, what do we have here?"
+msgstr "Ora, ora, ora, o que temos aqui?"
+
+msgid "I'm <name>. I moved here to become a farmer._male"
+msgstr "Eu sou <name>. Eu me mudei para cá para me tornar um fazendeiro."
+
+msgid "I'm <name>. I moved here to become a farmer._female"
+msgstr "Eu sou <name>. Eu me mudei para cá para me tornar uma fazendeira."
+
+msgid "Farming? Oh my, what a dangerous occupation."
+msgstr "Fazendeir<o>? Minha nossa, que ocupação perigosa."
+
+msgid "You could put an eye out with that hoe, or lose a few fingers swinging that scythe around... Or catch a terrible illness from your cows..."
+msgstr "Você pode arrancar um olho com a enxada, ou perder alguns dedos balançando uma foice... Ou pegar uma doença horrível das suas vacas..."
+
+msgid "You'll come see me when that happens, right? It won't be cheap, but I'll fix you up good as new."
+msgstr "Você vai me procurar quando isso acontecer, né? Não vai ser barato, mas eu vou te deixar novinho em folha."
+
+msgid "Um... I'll be careful, I promise."
+msgstr "É... Eu prometo que vou tomar cuidado."
+
+msgid "Aww... But I'm so lonely when I don't have any patients. And a girl's gotta make a living somehow, you know."
+msgstr "Ahhh... Mas eu fico tão carente quando não tenho pacientes. E uma garota precisa ganhar a vida de algum jeito, né."
+
+msgid "Are you sure you won't fall and break your arm picking fruit? Or at least catch a cold from working too hard?"
+msgstr "Tem certeza que não vai cair e quebrar o braço colhendo frutas? Ou pelo menos pegar um resfriado por trabalhar demais?"
+
+msgid "I'll...try to catch a cold sometime."
+msgstr "Eu... vou tentar ficar gripado uma hora dessas."
+
+msgid "You will? What a little darling you are."
+msgstr "Vai mesmo? Que queridinho que você é."
+
+msgid "Anytime you're not feeling 100%, come see me at the clinic. Bonnie here will take good care of you, I promise."
+msgstr "Sempre que não estiver se sentindo bem, venha me ver na clínica. A Bonnie aqui var cuidar de você, prometo."
+
+msgid "Working when you're tired will use up more stamina than normal, so you should go to bed early that night. Unless you're looking for an excuse to come see me in the clinic."
+msgstr "Trabalhar quando estiver muito cansado vai te fazer gastar mais energia do que o normal, então é sempre útil ir cedo para cama quando isso acontecer. A menos que esteja procurando uma desculpa para ir para a clínica me visitar."
+
+msgid "You can come visit me even if you aren't sick, you know. I'll appreciate it."
+msgstr "Você sabe que pode me visitar mesmo que não esteja doente, né? Eu vou gostar."
+
+msgid "Yeah yeah, give it here."
+msgstr "Tá bom, tá bom, me dá aqui."
+
+msgid "I have nothing else to say."
+msgstr "Eu não tenho mais nada pra dizer."
+
+msgid "Ah, now there’s a new face in town. Are you <name>?"
+msgstr "Ah, temos um rostinho novo na cidade. Você é <o> <name>?"
+
+msgid "Uh-huh. And you are...?"
+msgstr "Aham. E você é...?"
+
+msgid "I’m Chloe. I heard all about you from Julia."
+msgstr "Eu sou a Chloe. A Julia me contou tudo sobre você."
+
+msgid "Farming is dreadfully hard work. You’re certainly going to need plenty of calories to finish all those chores everyday."
+msgstr "Cuidar de uma fazenda é um trabalho muito pesado. Você com certeza vai precisar de muitas calorias para realizar as tarefas todos os dias."
+
+msgid "Come by the restaurant sometime and I’ll fix you something delicious, on the house. Call it my way of saying, \\\"Welcome to Orange Town.\\\""
+msgstr "Dê um pulo no restaurante algum dia e eu vou te dar uma refeição completa como um presente de boas vindas."
+
+msgid "Wow, thanks! I’ll definitely take you up on that!"
+msgstr "Uau, obrigado! Eu definitivamente vou passar no restaurante quando estiver com fome!"
+
+msgid "If you're running low on stamina, you can recover it by <color:important>eating food<color:default>."
+msgstr "Se você estiver ficando sem energia, você pode recuperar comendo comida."
+
+msgid "Going to bed will also restore stamina, but if you stay up late, you won't get as much sleep. Your health will suffer too, and you may become <color:important>fatigued or ill<color:default>."
+msgstr "Ir dormir também recupera energia, mas se ficar acordado até tarde, você não vai ter muito tempo para dormir. Sua saúde também vai piorar e você pode sofrer de <color:important>fadiga ou alguma doença</color>."
+
+msgid "How are you finding life here in Orange Town, <name>? Do you know your way around now?"
+msgstr "O que está achando da vida aqui na Terra das Laranjeiras, <name>? Já aprendeu a se localizar ou ainda se perde pelas ruas?"
+
+msgid "Don't hesitate to speak up if you need something. We're neighbors now, and neighbors help each other out."
+msgstr "Não deixe de perguntar se precisar de alguma coisa. Agora somos vizinhos e vizinhos ajudam uns aos outros."
+
+msgid "What kinds of things do you like?"
+msgstr "Que tipo de coisas você gosta?"
+
+msgid "Have you had breakfast yet, <name>?"
+msgstr "Já tomou café da manhã, <name>?"
+
+msgid "You need all the energy you can get to run that farm of yours. A good hearty breakfast will put a spring in your step."
+msgstr "Você precisa de toda a energia que conseguir para cuidar daquela sua fazenda. Um café da manhã balanceado vai colocar molas nos seus pés."
+
+msgid "<name>, are you all right?"
+msgstr "<name>, você está bem?"
+
+msgid "You need to sit down and grab a bite to eat."
+msgstr "Você precia se sentar e comer alguma coisa."
+
+msgid "Here, I'll give you a full meal, on the house."
+msgstr "Eu vou te dar uma refeição completa, de graça desta vez."
+
+msgid "<name>, you need to take better care of yourself."
+msgstr "<name>, você precisa tomar mais cuidado com a sua saúde."
+
+msgid "Make sure to get plenty of rest."
+msgstr "E descanse um pouco."
+
+msgid "Yo, are you <name>? The new farmer?_male"
+msgstr "Ei, você é o <name>? O novo fazendeiro?"
+
+msgid "Yo, are you <name>? The new farmer?_female"
+msgstr "Ei, você é a <name>? A nova fazendeira?"
+
+msgid "That's right, I'm <name>. But how did you know?"
+msgstr "Isso mesmo, eu sou <name>. Mas como você sabe?"
+
+msgid "'Cuz there's a sign on your back that says, \\\"<name>, noob farmer.\\\"_male"
+msgstr "É que tem um papel na suas costas dizendo \\\"<name>, fazendeiro bobão.\\\""
+
+msgid "'Cuz there's a sign on your back that says, \\\"<name>, noob farmer.\\\"_female"
+msgstr "É que tem um papel na suas costas dizendo \\\"<name>, fazendeira bobona.\\\""
+
+msgid "I'm just messin' with ya. My dad told me."
+msgstr "Eu tô só te tirando, foi meu pai que me falou."
+
+msgid "Add new key"
+msgstr "Adicionar nova tecla"
+
+msgid "Remove Button"
+msgstr "Remover Botão"
+
+msgid "Gameplay"
+msgstr "Jogabilidade"
+
+msgid "From now on, I've gotta pick up the stuff you put in the shipping bin <color:important>every day at 8 AM<color:default>."
+msgstr "De agora em diante, eu tenho que pegar as coisas que você coloca na caixa de exportação <color:important>todo dia as 8 da manhã.<color:default>."
+
+msgid "Try not to ship too much, will ya? Hauling all of it back to the store is a pain in the ahhh--um, arms. Yeah. Arms."
+msgstr "Tente não vender demais, tá? Carregar as suas coisas até a loja vai fazer doer meus braços."
+
+msgid "The biggest piece of advice I can give you is this: don't rush and do what you want."
+msgstr "O maior conselho que eu posso te dar é esse: não tenha pressa e faça o que quiser."
+
+msgid "Farming isn't a race, and you can't miss out on anything. If you don't finish something today, you can always finish it tomorrow."
+msgstr "Cuidar de uma fazenda não é uma corrida e você não tem como perder nada. Se você não terminar algo hoje, pode terminar amanhã."
+
+msgid "And if you can't finish it tomorrow, there's always the next season."
+msgstr "E se não terminar amanhã, tem sempre o mês que vem."
+
+msgid "Yo <name>, getting used to your new life yet?"
+msgstr "E aí <name>, se acostumando com a vida nova?"
+
+msgid "I have a lot of stuff to do today, but I just don't feel like it."
+msgstr "Eu tenho um monte de coisas pra fazer hoje, mas não estou com vontade nenhuma."
+
+msgid "Yo <name>, you free right now? Wanna go fishing or something? I hear the landsharks are biting."
+msgstr "E aí <name>, você tem um tempo agora? Quer ir pescar ou alguma coisa? Ouvi dizer que os tubarões de areia estão mordendo as iscas."
+
+msgid "How's farm life treating you, <name>? If your crops aren't growing right, you gotta show 'em who's boss by stomping on them a bit."
+msgstr "Como está sendo a vida na fazenda, <name>? Se as plantas não estiverem crescendo bem, você tem que mostrar quem é que manda pisando nelas."
+
+msgid "I mean, what kind of farmer takes sass from carrots and potatoes? Spare the root and spoil the chili, that's what I always say."
+msgstr "Afinal, que tipo de fazendeir<o> leva desaforo de cenouras e batatas?"
+
+msgid "Dad's always lecturing me about working harder and paying more attention... Red grapes, green grapes, what's the difference?"
+msgstr "Meu pai está sempre me dando sermão sobre trabalhar bastante e prestar mais atenção... Uvas verdes ou uvas roxas, que diferença faz?"
+
+msgid "Did my brother tell you everything you need to know about life on the farm?"
+msgstr "O meu irmão te falou tudo que você precisa saber sobre a vida na fazenda?"
+
+msgid "You can always look for him again to ask new questions. I'm sure he'll be happy to help."
+msgstr "Você pode procurá-lo sempre que tiver alguma pergunta. Tenho certeza que ele ficará feliz em ajudar."
+
+msgid "I'm so happy you moved here, <name>."
+msgstr "Eu fico tão feliz que você se mudou pra cá, <name>."
+
+msgid "Once upon a time, young people had little choice but to leave Orange Town in search of economic opportunity."
+msgstr "Até um tempo atrás, as pessoas mais jovens não tinham escolha nenhuma além de se mudar para longe da Terra das Laranjeiras em busca de oportunidades."
+
+msgid "But now, young people are moving here to start a new life. It warms my heart to see my hometown prosper."
+msgstr "Mas hoje em dia, os jovens estão se mudando para cá para começar uma nova vida! Ver a minha terra natal prosperar enche o meu coração de orgulho."
+
+msgid "Hey <bro>, how are you?"
+msgstr "Ei <bro>, como você está?"
+
+msgid "I'm doing well. What about you?"
+msgstr "Eu vou bem, e você?"
+
+msgid "Can't complain. Are you the new farmer?_male"
+msgstr "Não posso reclamar. Você é o novo fazendeiro?"
+
+msgid "Can't complain. Are you the new farmer?_female"
+msgstr "Não posso reclamar. Você é a nova fazendeira?"
+
+msgid "Yes! The name is <name>."
+msgstr "Sim! Meu nome é <name>."
+
+msgid "Nice to meet you, <name>. I'm Lucas."
+msgstr "Prazer em conhecê-l<o>. Eu sou o Lucas."
+
+msgid "Nice to meet you too, Lucas."
+msgstr "Prazer em conhecer você também, Lucas."
+
+msgid "So. What do you do?"
+msgstr "Então... O que você faz?"
+
+msgid "Not much. You?"
+msgstr "Não muito. E você?"
+
+msgid "I'm... a farmer."
+msgstr "Eu... sou fazendeir<o>."
+
+msgid "Ah, right."
+msgstr "Ah, verdade."
+
+msgid "Don't mind me. I'm a simple guy who likes to stay home most of the time."
+msgstr "Não precisa se importar comigo. Sou só um cara simples que gosta de ficar em casa na maior parte do tempo."
+
+msgid "Well hello there. Are you the new farmer in town?_male"
+msgstr "Olá! Você é o novo fazendeiro da cidade?"
+
+msgid "Well hello there. Are you the new farmer in town?_female"
+msgstr "Olá! Você é a nova fazendeira da cidade?"
+
+msgid "That's right. I'm <name>."
+msgstr "Isso mesmo. Eu sou <o> <name>."
+
+msgid "It's very nice to meet you, <name>. I'm Nathalia."
+msgstr "Prazer em conhecê-l<o>, <name>. Eu me chamo Nathalia."
+
+msgid "If you need information about agriculture, please stop by the library. I'll introduce you to the glorious world of vast knowledge."
+msgstr "Se você precisar de informações sobre agricultura, passe na biblioteca. Eu vou te apresentar o glorioso mundo do conhecimento."
+
+msgid "Oh, but don't mind Pat-Pat. He's really a big soft and cuddly iddle-widdle baby, but most people seem to misunderstand him."
+msgstr "Mas não se incomode com o Pat-Pat. Ele é só um bebê fofinho bolinha de pelos gostosos de abraçar e apertar, mas a maioria das pessoas parece não entendê-lo."
+
+msgid "I'll try to keep an open mind."
+msgstr "Eu vou tentar manter a mente aberta."
+
+msgid "Have you read any particularly engrossing novels lately, <name>? I would love a few recommendations."
+msgstr "Você tem lido algum romance interessante recentemente, <name>? Eu adoraria algumas recomendações."
+
+msgid "PatPat is just the sweetest most adorable widdle kitty-cat in the whole wide WORLD, isn't he?"
+msgstr "O PatPat é o gatinho peludinho docinho mais adorável de todo o MUNDO, né?"
+
+msgid "Ahh, I could really go for a delectable sweet right now... I'm 98.25% sure my blood sugar could maybe be low or potentially going low right about now."
+msgstr "Ahh, eu poderia comer algum doce agora... Tenho 98.25% de certeza que meu nível de glicose está ficando baixo agora."
+
+msgid "I was thinking of procuring some new books for the library... What titles should I prioritize? It's such a dilemma..."
+msgstr "Eu estava pensando em adquirir alguns novos livros para a biblioteca... Quais títulos devo priorizar? Esse é o meu dilema..."
+
+msgid "Hello there. What's your name?"
+msgstr "Olá. Qual o seu nome?"
+
+msgid "Didn't your mama teach you not to talk to strangers?"
+msgstr "Sua mamãe não te ensinou a não conversar com estranhos?"
+
+msgid "I'm not a stranger--I live here on a farm. I'm <name>."
+msgstr "Eu não sou um estranho--Eu moro aqui numa fazenda. Eu sou <name>."
+
+msgid "That's not how you introduce yourself. You're SUPPOSED to say, \\\"My name is <name>. It's nice to meet you.\\\""
+msgstr "Não é assim que você deve se apresentar. Você deve dizer, \\\"Meu nome é <name>. E um prazer conhecê-la.\\\""
+
+msgid "My name is <name>. It's...nice to meet you."
+msgstr "Meu nome é <name>. É... um prazer conhecê-la.."
+
+msgid "Very good. My name is Philomena, Phi for short. It's nice to meet you too, <name>."
+msgstr "Muito bom. Meu nome é Philomena, Phi para os íntimos. É um prazer conhecer você também, <name>."
+
+msgid "You should definitely buy a horse first thing. Horses are beautiful and awesome and riding is super-duper convenient."
+msgstr "Você definitivamente precisa comprar um cavalo logo. Os cavalos são bonitos e incríveis e montar neles é super-mega conveniente."
+
+msgid "Oh, bananas! I forgot my wallet! ...Ah, I'm sorry. I didn't mean to use such awful language."
+msgstr "Ah, bananas! Eu esqueci minha carteira! ...Ah, me desculpe pelo palavrão."
+
+msgid "That's...a bad word? Bananas?"
+msgstr "Que palavrão? ... Bananas?"
+
+msgid "You better watch out, <name>. Mama's gonna wash your mouth out with soap at this rate."
+msgstr "É melhor você se cuidar, <name>. Mamãe vai lavar sua boca com sabão se continuar desse jeito."
+
+msgid "But...I'm a farmer..._male"
+msgstr "Mas... Eu sou um fazendeiro..."
+
+msgid "But...I'm a farmer..._female"
+msgstr "Mas... Eu sou uma fazendeira..."
+
+msgid "What about coconuts?"
+msgstr "E quanto a limões?"
+
+msgid "Those are fine."
+msgstr "Estes tudo bem."
+
+msgid "Hello, Raphael."
+msgstr "Olá, Raphael."
+
+msgid "Oh, it's you. <name>, was it? Greetings."
+msgstr "Ah, é você. <name>, não é? Bem-vindo.."
+
+msgid "By the way, I'll stop by your farm later to bring you some welcoming gifts."
+msgstr "A propósito, eu vou passar na sua fazenda depois pra te entregar um presente de boas vindas."
+
+msgid "Really? Thank you very much!"
+msgstr "Sério? Muito obrigado!"
+
+msgid "I'm Richard, why?"
+msgstr "Eu sou o Ricardo, por que quer saber?"
+
+msgid "Hi Richard, I'm new here. My name is <name>."
+msgstr "Olá Ricardo, eu sou nov<o> aqui. Meu nome é <name>."
+
+msgid "Ok, whatever."
+msgstr "Ok, tanto faz."
+
+msgid "What is my brother doing? I want to hang out with him."
+msgstr "O que meu irmão está fazendo? Eu quero sair com ele."
+
+msgid "If you see my little dog Pom anywhere, please let me know. Once I find her I'll go back home."
+msgstr "Se você ver minha cachorrinha Pom por aí, me avise por favor. Quando eu a encontrar eu vou voltar para casa."
+
+msgid "If they sent you here to convince me to go home, foget it. I won't leave without my dog."
+msgstr "Se eles te mandaram aqui para me convencer a ir pra casa, esqueça Eu não vou sair daqui sem minha cachorrinha."
+
+msgid "Little Pom is probably scared somewhere, but I know she'll come back to me so I won't leave this place yet."
+msgstr "A pequena Pom provavelmente está assustada em algum lugar, mas eu sei que ela voltará para mim então não vou sair daqui ainda."
+
+msgid "If you see her anywhere, please let me know."
+msgstr "Se você ver ela em algum lugar, por favor me avise."
+
+msgid "Pom! You're finally here! Where have you been little girl?"
+msgstr "Pom! Você finalmente voltou! Onde você estava garotinha?"
+
+msgid "Let's go home and play a lot! Wanna run?"
+msgstr "Vamos para casa brincar bastante! Quer correr?"
+
+msgid "This dog looks scared. Maybe she's lost? I should try to find her owner."
+msgstr "Essa cadela parece assustada. Talvez ela esteja perdida? Eu deveria procurar pelo dono dela."
+
+msgid "This must be Pom. She looks really scared. I should bring her back to her owner."
+msgstr "Esta deve ser a Pom. Ela parece tão assustada. É melhor eu levá-la de volta para o dono."
+
+msgid "Welcome to Orange Town, <name>. I am Serge."
+msgstr "Bem-vindo a Terra das Laranjeiras, <name>. Eu me chamo Sérgio."
+
+msgid "My son Devin will pick up your shipping bin contents <color:important>every day at 8 AM<color:default>."
+msgstr "Meu filho Devin vai pegar tudo que você colocar na sua caixa de exportação <color:important>todos os dias as 8 da manhã.<color:default>."
+
+msgid "If you need any supplies, please let me know."
+msgstr "Se você precisar de algum tipo de suprimento, me avise."
+
+msgid "If you need any supplies, please visit the general store."
+msgstr "Se você precisar de algum tipo de suprimento, pode visitar o mercado quando quiser."
+
+msgid "Thanks a lot."
+msgstr "Muito obrigado."
+
+msgid "Mmm. Good luck with your farm."
+msgstr "Mmm. Boa sorte com a sua fazenda."
+
+msgid "My store will buy anything you place in the shipping bin. Shipments will be picked up by Devin at <color:important>8 AM<color:default>."
+msgstr "Minha loja vai vender tudo que você colocar na caixa de exportação. Os carregamentos serão recolhidos pelo Devin as <color:important>8 da manhã<color:default>."
+
+msgid "If he doesn't show up to pick the shipments, let me know."
+msgstr "Se ele não aparecer para pegar as coisas, me avise."
+
+msgid "If you see Devin slacking off at the store, please let me know."
+msgstr "Se você ver o Devin procrastinando na loja, por favor me avise."
+
+msgid "He's a good boy. If only he would follow your example and work hard on something..."
+msgstr "Ele é um bom garoto. Se ao menos ele seguisse o seu exemplo e trabalhasse sério em algum coisa...."
+
+msgid "Thanks for shipping your farm products to us, <name>. I appreciate the business."
+msgstr "Obrigado por exportar seus produtos com a gente, <name>. Eu aprecio os negócios."
+
+msgid "You're a hard worker, <name>. It's good to put your all into things. You'll go far in life with that attitude. If only my son would follow your example..."
+msgstr "Você leva seu trabalho a sério, <name>. É bom dar o seu melhor por alguma coisa. Você irá longe na vida. Se pelo menos o meu filho seguisse o seu exemplo..."
+
+msgid "So you're the new farmer in town, huh? The name's Stella._male"
+msgstr "Então você é o novo fazendeiro da cidade, é? Meu nome é Stella."
+
+msgid "So you're the new farmer in town, huh? The name's Stella._female"
+msgstr "Então você é a nova fazendeira da cidade, é? Meu nome é Stella."
+
+msgid "I help out at Brittany's ranch and manage the store there. Stop by anytime you need to buy something."
+msgstr "Eu trabalho no rancho da Brittany e gerencio a loja dela. Fale comigo quando precisar comprar algo."
+
+msgid "Thanks. Do you have any advice for me?"
+msgstr "Obrigad<o>. Você tem algum conselho para mim?"
+
+msgid "Advice? Get yourself a stiff upper lip and get ready to work."
+msgstr "Conselho?  Feche a matraca e comece a trabalhar."
+
+msgid "You'll be toiling from dawn to dusk every single day, rain or shine. I don't want to hear any complaining from you either. If you've got time to complain, you've got time to shut up and work."
+msgstr "Você estará trabalhando do amanhecer ao anoitecer todos os dias, faça chuva ou faça sol. E eu não quero ouvir nenhuma reclamação de você, viu. Se você tem tempo pra reclamar, também tem tempo pra calar a boca e trabalhar."
+
+msgid "Work hard enough and you'll get ahead with a little bit of luck. And by luck, I mean work. You make your own luck in this life."
+msgstr "Trabalhe bastante e você poderá ter sucesso com um pouco de sorte. E quando digo sorte, eu quero dizer trabalho. Você cria a própria sorte nesse mundo."
+
+msgid "Don't go relying on other people, either. The only person you can rely on yourself."
+msgstr "E também não pense em depender dos outros. A única pessoa com quem você pode contar é você mesmo."
+
+msgid "I'll...keep that in mind."
+msgstr "Eu vou... lembrar disso."
+
+msgid "You do that. See you around, <name>."
+msgstr "Lembre-se mesmo. Te vejo por aí, <name>."
+
+msgid "Gail's ranch is one of the finest in the peninsula. I'm proud to work alongside her."
+msgstr "O rancho da Brittany é um dos melhores em toda a peninsula. Eu tenho orgulho de trabalhar com ela."
+
+msgid "What, you need something?"
+msgstr "Que foi? Precisa de alguma coisa?"
+
+msgid "Um...I just came over to say hi. I'm the new farmer here, <name>._male"
+msgstr "Hm...Eu só passei para dizer oi. Eu sou o novo fazendeiro aqui, <name>."
+
+msgid "Um...I just came over to say hi. I'm the new farmer here, <name>._female"
+msgstr "Hm...Eu só passei para dizer oi. Eu sou a nova fazendeira aqui, <name>."
+
+msgid "Hey there. I’m kinda busy right now, so can you come back another time?"
+msgstr "Olá <name>. Eu estou meio ocupado agora, você se importa de voltar outra hora?"
+
+msgid "Sure thing... See you."
+msgstr "Claro... Sem problema."
+
+msgid "...Nevermind, I guess I can spare a minute. So you're the new farmer, huh? Not to brag or anything, but I know a lot about growing crops."
+msgstr "...Deixa pra lá, eu posso te dar um minuto. Então você é <o> nov<o> fazendeir<o>? Não quero me gabar, mas eu sei tudo sobre plantações."
+
+msgid "If I wasn't a blacksmith, I'd be the best farmer in town for sure. I'll be glad to take you under my wing, if you want. You'll be rolling in cabbage in no time flat, both the crunchy and spendable kind."
+msgstr "Se eu não fosse um ferreiro, eu seria o melhor fazendeiro da cidade. Eu aceito te receber como discípulo se você quiser. Quando menos perceber você estará rolando em verdinhas, tanto as de plantar quanto as de gastar."
+
+msgid "I can also upgrade your tools for you <color:important>if you bring me the materials and money<color:default>. Stop by anytime."
+msgstr "Eu também posso aprimorar as suas ferramentas <color:important>se você me trouxer os materiais e o dinheiro<color:default>. Apareça quando quiser."
+
+msgid "How are your tools holding up? Not getting dull or chipped, are they? If you need 'em repaired, you know where to bring 'em."
+msgstr "Como estão as suas ferramentas? Espero que não estejam ficando gastas ou sem fio. Se precisar de algum conserto, você sabe quem procurar."
+
+msgid "I want to get Richard a little something nice, but argh... I'm no good at picking out kid stuff..."
+msgstr "Eu quero comprar um presente legal pro Ricardo, mas argh... Eu não sei escolher coisas para crianças..."
+
+msgid "Man, I'm beat. Work just keeps piling up these days..."
+msgstr "Cara, eu to acabado. O trabalho não para de acumular hoje em dia..."
+
+msgid "If there's something you don't know, just ask me. I'm pretty knowledgeable about all kinds of stuff, y'know. Whether it's farming, dating or mining, I've got all sorts of pro advice for ya."
+msgstr "Se você encontrar algo que não sabe, pode perguntar para mim. Eu sei tudo sobre todo tipo de coisa. Não importa se é sobre a fazenda, sobre namorar ou sobre mineração, eu tenho todo tipo de conselho para você."
+
+msgid "Do Nothing"
+msgstr "Não fazer nada"
+
+msgid "Nothing"
+msgstr "Nada"
+
+msgid "Hey little boy!"
+msgstr "Calma garoto!"
+
+msgid "So where did you come from?"
+msgstr "De onde você veio?"
+
+msgid "Is this dog yours?"
+msgstr "Este cachorro é seu?"
+
+msgid "Hello! Yes, it's mine."
+msgstr "Olá! Sim, ele é meu."
+
+msgid "But actually, I brought him to Orange Town today because I have too many puppies already."
+msgstr "Mas na verdade, eu trouxe ele para a Terra das Laranjeiras hoje por ter filhotes demais."
+
+msgid "This one seem to have liked you, do you want to keep him?"
+msgstr "Este aqui parece que gostou de você, você não quer ficar com ele?"
+
+msgid "Sure! He seems like a funny fella. Does he have a name?"
+msgstr "Claro! Ele parece divertido. Qual é o nome?"
+
+msgid "Not yet, you can choose a good one."
+msgstr "Ele ainda não tem, você pode escolher o nome que quiser."
+
+msgid "<color:name><var:dogName></color>! What a great name!"
+msgstr "<color:name><var:dogName></color>! Que ótimo nome!"
+
+msgid "Well, take good care of <color:name><var:dogName></color>...<wait>What's your name again?"
+msgstr "Bem, cuide bem do <color:name><var:dogName></color>...<wait>Qual o seu nome mesmo?"
+
+msgid "It's <name>."
+msgstr "É <name>."
+
+msgid "Nice to meet you, <name>. My name is <color:name>Mia</color>. Take good care of <color:name><var:dogName></color>."
+msgstr "Prazer em conhecê-l<o>, <name>. Meu nome é <color:name>Mia</color>. Cuide bem do <color:name><var:dogName></color>."
+
+msgid "<name>! Good timing!"
+msgstr "<name>! Checkout na hora certa!"
+
+msgid "What's going on?"
+msgstr "O que está acontecendo?"
+
+msgid "Hello, <name>."
+msgstr "Olá, <name>."
+
+msgid "Oh, hello there, Raphael."
+msgstr "Olá, Raphael."
+
+msgid "I've brought you that welcoming gift that I mentioned before."
+msgstr "Eu vim trazer aquele presente de boas vindas que comentei."
+
+msgid "Oh, it's you. Raphael, was it? Greetings."
+msgstr "Ah, é você. É Raphael, né?"
+
+msgid "Have you arrived to inspect the house? I hope you found it to your satisfaction."
+msgstr "Você chegou para inspecionar a casa? Espero que ela tenha ficado satisfatória."
+
+msgid "Yes, it's exactly what I requested. And you built it so quickly!"
+msgstr "Sim, ficou exatamente como eu queria. E você a construiu tão rápido!"
+
+msgid "You're a really good carpenter."
+msgstr "Você é um ótimo construtor."
+
+msgid "...If you say so. It's just a job I happen to have at the moment."
+msgstr "...Se você diz. É só um emprego que eu tenho no momento."
+
+msgid "Anyway, I've brought you a welcoming gift."
+msgstr "Mudando de assunto, eu te trouxe um presente de boas vindas."
+
+msgid "Oh, thanks! What is it?"
+msgstr "Puxa, obrigado! O que é?"
+
+msgid "I'll give it to you in a minute, let me show you something else first. Come with me."
+msgstr "Vou te entregar em um minuto, deixe-me apenas te mostrar uma coisa primeiro. Vem comigo."
+
+msgid "Have you checked those fences, <name>? Did you know they can be removed by <color:important>pressing the action button twice?<color:default>"
+msgstr "Você já examinou estas cercas, <name>? Sabia que você pode retirá-las pressionando <color:important>o botão de ação duas vezes?<color:default>"
+
+msgid "The same thing is true for gates. Even your barn and coop can be picked up by pressing the <color:important>action button twice<color:default>."
+msgstr "A mesma coisa funciona para portões. Até o estábulo e o galinheiro podem ser recolhidos pressionando <color:important>o botão de ação duas vezes<color:default>."
+
+msgid "How would I pick up a barn with my bare hands?"
+msgstr "Como que eu vou pegar um estábulo com as mãos?"
+
+msgid "Just try it later and you'll see how easy it is. You can even put your buildings on your bag!"
+msgstr "Apenas tente depois e você vai ver como é fácil. Você pode até colocar construções na sua mochila!"
+
+msgid "If you say so."
+msgstr "Se você diz."
+
+msgid "Really, just try it and you'll see. Anyway, here's your gift."
+msgstr "É sério. Tente depois e você vai ver. De qualquer forma, aqui está o seu presente."
+
+msgid "Use those gates to complete the fence around your barn."
+msgstr "Use estes portões para completar a cerca ao redor do seu estábulo."
+
+msgid "With a good fenced area, your animals will be completely safe from harm."
+msgstr "Com uma boa área cercada, seus animais estarão completamente a salvo do perigo."
+
+msgid "<name>! Did you by any chance see the Saci just now?"
+msgstr "<name>! Por acaso você não viu o Saci agora mesmo?"
+
+msgid "That little prankster just ruined all of today's food."
+msgstr "Aquele safado acabou de arruinar toda a comida de hoje."
+
+msgid "Who?"
+msgstr "Quem?"
+
+msgid "Oh, you don't know about the Saci?"
+msgstr "Você não sabe sobre o Saci?"
+
+msgid "Not really."
+msgstr "Na verdade não."
+
+msgid "He's a young prankster that lives in the forest near our town."
+msgstr "É um jovem problemático que vive na floresta perto da cidade."
+
+msgid "Today he dropped flies on my food and spilled salt all over the kitchen."
+msgstr "Hoje ele colocou moscas na minha comida e derramou sal por toda a cozinha."
+
+msgid "When I got into the kitchen, he disappeared in a whirlwind."
+msgstr "Quando entrei na cozinha, ele desapareceu em um redemoinho."
+
+msgid "In a whirlwind?"
+msgstr "Em um redemoinho?"
+
+msgid "Yes. That's just one of his powers. Nobody ever managed to catch him because of it."
+msgstr "Sim. É apenas um dos poderes dele. Ninguém nunca conseguiu pegar ele por causa disso."
+
+msgid "Seems like a very annoying person."
+msgstr "Parece uma pessoa bem irritante."
+
+msgid "Yes. He's not really a bad guy and doesn't mean any major harm. But there's no minor harm that he won't do."
+msgstr "Sim. Ele não é cruel e não quer o mal de ninguém. Mas não tem nenhum tipo de travessura que ele não faça."
+
+msgid "Well, I have to go prepare more food. See you later, <name>."
+msgstr "Bem, eu tenho que ir preparar mais comida. Te vejo depois, <name>."
+
+msgid "Where am I? This doesn't look like Orange Town."
+msgstr "Onde estou? Isso não parece com a Terra das Laranjeiras."
+
+msgid "You there! Do you know where Orange Town is?"
+msgstr "Você aí! Você sabe onde fica a Terra das Laranjeiras?"
+
+msgid "Uh... I just came from there."
+msgstr "Uh... Eu acabei de vir de lá."
+
+msgid "Alright."
+msgstr "Está bem."
+
+msgid "Ok, that was weird."
+msgstr "Ok, isso foi estranho."
+
+msgid "Sorry, I forgot to thank you. Here, take this."
+msgstr "Desculpe, eu esqueci de te agradecer. Aqui, fique com isso."
+
+msgid "What's this?"
+msgstr "O que é isso?"
+
+msgid "It's a magic ribbon. It will let you use magic."
+msgstr "É uma fita mágica. Isso vai permitir que você use magia."
+
+msgid "Woah, cool!"
+msgstr "Uau, que legal!"
+
+msgid "This is where I should put the animal feed."
+msgstr "Este é o lugar onde eu devo colocar comida para os animais."
+
+msgid "This bin is filled with animal feed. It should be enough to feed a grown cow or sheep for a day."
+msgstr "Esta caixa está cheia de comida para animais. Deve ser suficiente para alimentar uma vaca ou ovelha adulta por um dia."
+
+msgid "I can put chicken feed here."
+msgstr "Eu posso colocar ração de galinha aqui."
+
+msgid "This is chicken feed. It should be enough to feed a grown chicken for a day."
+msgstr "Isso é ração de galinha. Parece ter suficiente para alimentar uma galinha adulta por um dia."
+
+msgid "<color:name><var:creatureName></color> looks <color:important>angry</color> today. Am I forgetting to feed her?"
+msgstr "<color:name><var:creatureName></color> parece <color:important>brava</color> hoje. Será que eu esqueci de alimentá-la?"
+
+msgid "<color:name><var:creatureName></color> looks <color:important>upset</color> today. Did I do something wrong?"
+msgstr "<color:name><var:creatureName></color> parece <color:important>incomodada</color> today. Será que fiz algo de errado?"
+
+msgid "Good girl <color:name><var:creatureName></color>. You look very happy today."
+msgstr "Boa garota <color:name><var:creatureName></color>. Você parece muito feliz hoje."
+
+msgid "Good girl <color:name><var:creatureName></color>. Looks like you have produced some milk."
+msgstr "Boa garota <color:name><var:creatureName></color>. Parece que você produziu leite."
+
+msgid "<color:name><var:creatureName></color> didn't produce milk today. Did I do something wrong?"
+msgstr "<color:name><var:creatureName></color> não produziu leite hoje. Será que fiz algo errado?"
+
+msgid "Good girl <color:name><var:creatureName></color>. Welcome to your new home."
+msgstr "Boa garota <color:name><var:creatureName></color>. Bem-vinda ao seu novo lar."
+
+msgid "There there <color:name><var:creatureName></color>."
+msgstr "Calma, calma, <color:name><var:creatureName></color>."
+
+msgid "There there <color:name><var:creatureName></color>. Welcome to your new home."
+msgstr "Calma, calma, <color:name><var:creatureName></color>. Bem-vinda ao seu novo lar."
+
+msgid "Take fertilized egg?"
+msgstr "Pegar o ovo fertilizado?"
+
+msgid "Looks like an egg hatched. I should give this chick a name."
+msgstr "Parece que um ovo rachou. Eu deveria dar um nome para o pintinho."
+
+msgid "A new member of my animal family. I have to work even harder now."
+msgstr "Um novo membro da minha família animal. Eu preciso trabalhar ainda mais agora."
+
+msgid "Should I go to bed?"
+msgstr "Devo ir dormir?"
+
+msgid "Not Yet"
+msgstr "Ainda Não"
+
+msgid "Not yet"
+msgstr "Ainda não"
+
+msgid "Not yet."
+msgstr "Ainda não."
+
+msgid "The festival hasn't started yet."
+msgstr "O festival ainda não começou."
+
+msgid "Hello! Welcome to Orange Town's Chicken Festival."
+msgstr "Olá! Bem-vind<o> à Corrida de Galinhas da Terra das Laranjeiras."
+
+msgid "We would like to start the event now, are you ready?"
+msgstr "Nós gostaríamos de começar a corrida agora, você está pront<o>?"
+
+msgid "Yes, let's start."
+msgstr "Sim, vamos começar."
+
+msgid "Not yet. Please wait a minute."
+msgstr "Ainda não. Por favor espere um minuto."
+
+msgid "I'll wait, but hurry please."
+msgstr "Eu vou esperar, mas por favor se apresse."
+
+msgid "Congratulations on winning the race, <name>. Your prize will be delivered by mail. Look forward to it."
+msgstr "Parabéns por vencer a corrida, <name>. O seu prêmio será enviado pelo correio. Deve chegar até amanhã."
+
+msgid "Better luck next time!"
+msgstr "Mais sorte da próxima vez!"
+
+msgid "Do you think you can participate next time, <name>? The race is much more fun with more people."
+msgstr "Você acha que conseguirá participar da próxima vez, <name>? A corrida fica mais divertida quando mais gente participa."
+
+msgid "If I go home now, I'll miss the rest of the festival..."
+msgstr "Se eu for para casa agora, eu vou perder o resto do festival..."
+
+msgid "Stay here"
+msgstr "Ficar aqui"
+
+msgid "To raise a strong chicken, you need to let her roam free outside the coop."
+msgstr "Para criar uma galinha bem forte, você precisa deixá-la sair do galinheiro de vez em quando."
+
+msgid "Make sure to make a well fenced area to protect them from wild animals."
+msgstr "Mas garanta que há uma área cercada para protegê-la de animais selvagens."
+
+msgid "I knew you had it in you to become a great farmer! Your chicken is amazing."
+msgstr "Eu sabia que você tinha potencial para se tornar um<a> grande fazendeir<o>! Sua galinha é fantástica."
+
+msgid "You lost? Are you sure you're taking good care of your chicken?"
+msgstr "Você perdeu? Tem certeza que está tomando os devidos cuidados com a sua galinha?"
+
+msgid "Next time I want to see a chicken from your farm running in the race."
+msgstr "Da próxima vez eu quero ver uma galinha da sua fazenda participando da corrida."
+
+msgid "Hey <name>! Welcome to the chicken festival. Please, talk to Benji if you want to participate."
+msgstr "Ei <name>! Bem-vind<o> ao festival. Por favor, fale com Benji se você quer participar."
+
+msgid "Well done, <name>! You seem to be taking good care of your chicken."
+msgstr "Bom trabalho, <name>! Você parece estar cuidando muito bem da sua galinha."
+
+msgid "Your prize will be delivered by mail tomorrow morning."
+msgstr "O seu prêmio será entregue por correios amanhã de manhã."
+
+msgid "The festival was a sucess. Too bad you didn't win this time, but look forward for next year."
+msgstr "O festival foi um sucesso. Pena que você não ganhou desta vez, mas tente de novo no ano que vem."
+
+msgid "The festival was a sucess. I hope you will also participate next year."
+msgstr "O festival foi um sucesso. Eu espero que você participe no ano que vem."
+
+msgid "I once read a whole book of chicken facts. Did you know they have more bones in their necks than giraffes?"
+msgstr "Certa vez eu li um livro com fatos sobre galinhas. Você sabia que elas tem mais ossos no pescoço do que as girafas?"
+
+msgid "Hah, that was easy, wasn't it? Congratulations <name>."
+msgstr "Hah, essa foi fácil, não foi? Parabéns <name>."
+
+msgid "Your chicken was looking at me earlier. It felt like she was staring into my soul."
+msgstr "Sua galinha estava me encarando antes. Parecia que ela estava olhando a minha alma."
+
+msgid "I thought you were going to participate. Don't you have a chicken?"
+msgstr "Eu pensei que você iria participar. Você não tem uma galinha?"
+
+msgid "If you win the chicken festival, your farm's brand will get some recognition and I'll be able to sell your eggs for more."
+msgstr "Se você vencer a corrida de galinhas, a marca da sua fazenda vai começar a ser reconhecida e eu poderei vender os seus ovos por um valor maior."
+
+msgid "Congratulations on your victory, <name>! Can you show Devin how you raise your chickens?"
+msgstr "Parabéns pela vitória, <name>! Você poderia mostrar ao Devin como cuidar de uma galinha?"
+
+msgid "Color me surprised! Devin's Horse actually won the chicken race. I never thought I would live to see this day."
+msgstr "Mas quem diria! A galinha do Devin realmente venceu a corrida. Eu nunca pensei que viveria para ver esse dia."
+
+msgid "I knew Devin had no chance, but I had hoped you would win this."
+msgstr "Eu sabia que o Devin não tinha nenhuma chance, mas eu esperava que você vencesse."
+
+msgid "Why didn't you participate too? Devin's chicken is a lost cause, so I would be rooting for you."
+msgstr "Por que você não participou também? A galinha do Devin é uma causa perdida, então eu ficaria torcendo por você."
+
+msgid "Most people around here like to eat eggs on their breakfast. It's cheap and a great source of protein."
+msgstr "A maioria das pessoas por aqui gosta de comer ovos no café da manhã. São baratos e uma ótima fonte de proteína."
+
+msgid "Your chicken runs very fast. What does she eat everyday to get so strong?"
+msgstr "Sua galinha corre bem rápido. O que ela come todos os dias para ficar tão forte?"
+
+msgid "Don't worry about losing, <name>. You can try again next year."
+msgstr "Não fique chateado por perder, <name>. Você pode tentar de novo no ano que vem."
+
+msgid "Why didn't you enter the race too, <name>?"
+msgstr "Por que você também não entrou na corrida, <name>?"
+
+msgid "Is it true that chickens have an incredible sense of balance?"
+msgstr "É verdade que galinhas tem um equilíbrio incrível?"
+
+msgid "This is way more fun than it looks like. Also, Congratulations on your victory."
+msgstr "Isso é bem mais divertido do que parece. A propósito, parabéns pela vitória."
+
+msgid "This is way more fun than it looks like."
+msgstr "Isso é bem mais divertido do que parece."
+
+msgid "When I imagine a farm, the first animal I think of is always a chicken. Why do you think is that?"
+msgstr "Quando eu imagino em uma fazenda, o primeiro animal em que eu penso é uma galinha. Por que será?"
+
+msgid "I have no idea what you have to do to train your chicken, but congratulations for doing it well."
+msgstr "Eu não faço ideia de como treinar uma galinha, mas parabéns por ter feito isso bem."
+
+msgid "How can you even make the chickens run in a race? I thought they were going to just stay there, looking at each other."
+msgstr "Como vocês conseguem fazer as galinhas correrem? Eu pensei que elas ficariam paradas olhando umas para as outras."
+
+msgid "I'll deliver your rooster when the festival ends."
+msgstr "Eu vou entregar o seu galo quando o festival acabar."
+
+msgid "Good morning, <name>. Today we are selling this magnificent rooster. Are you interested? The price is 5.000G"
+msgstr "Bom dia, <name>. Hoje estamos vendendo este galo incrível. Você está interessad<o>? O preço é 5.000G."
+
+msgid "Hey <name>, I'm just about to go deliver the rooster you bought."
+msgstr "Ei <name>, eu estou prestes a ir entregar o galo que você comprou."
+
+msgid "Good evening, <name>. This is your last chance to buy this magnificent rooster today. Are you interested? The price is 5.000G"
+msgstr "Boa noite, <name>. Esta é a sua última chance de comprar este incrível galo hoje. Você está interessado? O preço é 5.000G."
+
+msgid "Today I had to leave Pat-Pat at home. He's friends with Agatha, but I don't want to risk having him near so many chickens."
+msgstr "Hoje eu tive que deixar o Pat-Pat em casa. Ele é amigo da Agatha, mas eu não queria arriscar deixá-lo próximo a tantas galinhas."
+
+msgid "Look at that! I really won! It's all thanks to this book I've been reading."
+msgstr "Olha só! Eu realmente ganhei! É tudo graças a esse livro que estou lendo."
+
+msgid "It's called 'How to make your Chicken win the Orange Town Chicken Race'."
+msgstr "O nome é 'Como fazer sua galinha vencer a corrida da Terra das Laranjeiras'."
+
+msgid "Well done, <name>. Congratulations for winning the race!"
+msgstr "Muito bem, <name>. Parabéns por vencer a corrida!"
+
+msgid "Hah. We both lost. I guess we need to study some more about how to properly raise a chicken."
+msgstr "Hah. Nós dois perdemos. Parece que eu preciso estudar mais sobre como criar uma galinha."
+
+msgid "My little Agatha lost the race, but it's not a big deal. I'll study more and raise her stronger for the next year."
+msgstr "Minha pequena Agatha perdeu a corrida, mas não importa. Eu vou estudar mais para fazê-la crescer mais forte para o ano que vem."
+
+msgid "Why is your chicken so... green?"
+msgstr "Por que a sua galinha é tão... verde?"
+
+msgid "I don't know. Maybe she hasn't matured yet."
+msgstr "Não sei. Talvez ela apenas não esteja madura ainda."
+
+msgid "I don't think that logic applies to animals."
+msgstr "Eu acho que essa lógica não se aplica a animais."
+
+msgid "I can't believe my Horse won! After so many years I finally won this race!"
+msgstr "Não acredito que meu Cavalo ganhou! Depois de tantos anos eu finalmente ganhei essa corrida!"
+
+msgid "You mean your chicken?"
+msgstr "Você quer dizer sua galinha?"
+
+msgid "Yeah, my chicken Horse."
+msgstr "Sim, minha galinha Cavalo."
+
+msgid "Is your chicken really called Horse?"
+msgstr "Sua galinha realmente se chama Cavalo?"
+
+msgid "Yeah! It's cool, right? It messes with people's heads."
+msgstr "Sim! É legal, né? Mexe com a cabeça das pessoas."
+
+msgid "What would you call your horse if you had one?"
+msgstr "Que nome você daria para um cavalo?"
+
+msgid "I have one. It's called Turtle."
+msgstr "Eu tenho um. Ele se chama Tartaruga."
+
+msgid "Hello there. Perfect day for a festival, isn't it?"
+msgstr "Olá! Dia perfeito para um festival, não é?"
+
+msgid "Your chicken is very happy that she won. I can tell she likes you."
+msgstr "Sua galinha está muito feliz que ela ganhou. Posso ver que ela gosta de você."
+
+msgid "I had a lot of fun today. And I can tell that the chickens are happy too."
+msgstr "Eu me diverti bastante hoje. E posso dizer que as galinhas também estão felizes."
+
+msgid "Will you participate this time, <name>? I think my chicken Pipin has a chance this year."
+msgstr "Você vai participar dessa vez, <name>? Eu acho que minha galinha Pipin tem chance esse ano."
+
+msgid "I knew it! My Pipin is the best chicken ever!"
+msgstr "Eu sabia! Minha Pipin é a melhor galinha de todas!"
+
+msgid "I lost again. I really thought this time things would be different..."
+msgstr "Eu perdi de novo. Eu pensei que dessa vez as coisas seriam diferentes..."
+
+msgid "It looks like everyone is taking good care of their animals. It fills my heart with joy."
+msgstr "Parece que todos aqui estão cuidando muito bem dos seus animais. Isso enche meu coração de alegria."
+
+msgid "Hey <name>. I won this time, but you weren't bad either."
+msgstr "Ei <name>. Eu ganhei dessa vez, mas você também não foi nada mal."
+
+msgid "I know you're taking good care of your animals, so keep competing and you'll eventually win."
+msgstr "Eu sei que você está cuidando bem dos seus animais, então continue competindo e você vai acabar ganhando."
+
+msgid "I never expected both of us to lose this competition."
+msgstr "Eu nunca pensei que nós dois perderíamos a corrida."
+
+msgid "I'm really happy! Cocoa won the race again."
+msgstr "Estou muito feliz! A Cacau venceu a corrida de novo."
+
+msgid "Congratulations, <name>. I knew that if I were to lose this race, it was going to be to you."
+msgstr "Parabéns, <name>. Eu sabia que se eu perdesse essa corrida, seria para você."
+
+msgid "Oh, I didn't think I would ever see the day that my Cocoa would lose a chicken race."
+msgstr "Eita, eu não pensei que um dia eu veria minha Cacau perder uma corrida."
+
+msgid "At the same time, I'm happy that people here are raising their animals well."
+msgstr "Ao mesmo tempo, eu fico feliz de ver as pessoas criando os seus animais tão bem."
+
+msgid "When I was a kid, me and my friends used to throw eggs at each other as a prank."
+msgstr "Quando eu era criança, eu e meus amigos costumavamos jogar ovos uns nos outros de brincadeira."
+
+msgid "I remember one of them once slipped on a broken egg and ended up with a broken leg."
+msgstr "Eu lembro que um deles escorregou em um ovo quebrado e acabou com a perna quebrada também."
+
+msgid "That day was fun."
+msgstr "Aquele dia foi divertido."
+
+msgid "Your chicken ran so fast in there. Near the end I thought she was going to jump to your face and peck your eye out."
+msgstr "Sua galinha correu tão rápido lá. No final eu pensei que ela iria pular na sua cara e te arrancar um olho fora."
+
+msgid "Well, there's always next year."
+msgstr "Bem, tem sempre o ano que vem."
+
+msgid "Why did you lose? You should train your chicken better."
+msgstr "Por que você perdeu? Você devia treinar a sua galinha melhor."
+
+msgid "Why aren't you participating? Do you think some chicken would peck your eye out?"
+msgstr "Por que você não está participando? Você acha que alguma galinha iria arrancar seu olho fora?"
+
+msgid "Will you participate in the race, <name>?"
+msgstr "Você vai participar da corrida, <name>?"
+
+msgid "Benjamin said that only adults can participate, so this year I can only watch it."
+msgstr "O Benjamin disse que somente adultos podem participar, então esse ano eu vou ter que ficar apenas olhando."
+
+msgid "Benjamin won't let me enter my chicken in the race. Ugh, he's such a green apple."
+msgstr "O Benjamin não deixa a minha galinha participar da corrida. Ele é uma maçã verde mesmo."
+
+msgid "I don't have a chicken to enter the race, but Pom likes to see them running."
+msgstr "Eu não tenho nenhuma galinha para participar da corrida, mas a Pom gosta de vê-las correndo."
+
+msgid "Welcome everybody, to this year's chicken race.<BR>Today's competitors are: <var:chicken0Name>, <var:chicken1Name>, <var:chicken2Name>, <var:chicken3Name> and <var:chicken4Name>."
+msgstr "Sejam todos bem-vindos à corrida de galinhas deste ano. <BR>Os competidores de hoje são: <var:chicken0Name>, <var:chicken1Name>, <var:chicken2Name>, <var:chicken3Name> e <var:chicken4Name>."
+
+msgid "Welcome everybody, to this year's chicken race.<BR>Today's competitors are: <var:chicken1Name>, <var:chicken2Name>, <var:chicken3Name> and <var:chicken4Name>."
+msgstr "Sejam todos bem-vindos à corrida de galinhas deste ano. <BR>Os competidores de hoje são: <var:chicken1Name>, <var:chicken2Name>, <var:chicken3Name> e <var:chicken4Name>."
+
+msgid "The race will start in <wait><BR>3...<wait><wait> <BR>2...<wait><wait> <BR>1...<wait><wait> \\^"
+msgstr "A corrida vai começar em <wait><BR>3...<wait><wait> <BR>2...<wait><wait> <BR>1...<wait><wait> \\^"
+
+msgid "What a fantastic race! The results are as follows:"
+msgstr "Que corrida fantástica! O resultado foi o seguinte:"
+
+msgid "Winner: <color:name><var:winnerChicken></color><BR>Runner Up: <color:name><var:runnerUpChicken></color><BR>Third Place: <color:name><var:thirdChicken></color><BR><smaller><smaller>Last Place: <color:name><var:fourthChicken></color><BR>"
+msgstr "Campeã: <color:name><var:winnerChicken></color><BR>Vice: <color:name><var:runnerUpChicken></color><BR>Terceiro Lugar: <color:name><var:thirdChicken></color><BR><smaller><smaller>Último Lugar: <color:name><var:fourthChicken></color><BR>"
+
+msgid "The prizes will be sent by mail later today. Thank you all for participating in this year's festival!"
+msgstr "Os prêmios serão enviados por correio mais tarde. Obrigado a todos por participarem do festival deste ano!"
+
+msgid "Winner: <color:name><var:winnerChicken></color><BR>Runner Up: <color:name><var:runnerUpChicken></color><BR>Third Place: <color:name><var:thirdChicken></color><BR><smaller><smaller>Fourth Place: <color:name><var:fourthChicken></color><BR><smaller>Last Place: <color:name><var:fifthChicken></color>"
+msgstr "Campeã: <color:name><var:winnerChicken></color><BR>Vice: <color:name><var:runnerUpChicken></color><BR>Terceiro Lugar: <color:name><var:thirdChicken></color><BR><smaller><smaller>Quarto Lugar: <color:name><var:fourthChicken></color><BR><smaller>Último Lugar: <color:name><var:fifthChicken></color>"
+
+msgid "Oh, my trophy is already here!"
+msgstr "Meu troféu já chegou!"
+
+msgid "Oh, nice. This will be useful."
+msgstr "Ah, que legal. Isso vai ser útil."
+
+msgid "Hello, <name>. Congratulations for winning the Chicken Race yesterday.<BR><BR>I'm sending your prize attached to this letter.<BR><BR><BR>Benjamin."
+msgstr "Olá, <name>. Parabéns por vencer a Corrida de Galinhas ontem.<BR><BR>Estou enviando o seu prêmio junto com esta carta.<BR><BR><BR>Benjamin."
+
+msgid "There's one more prize for you.<BR><BR><BR>Benjamin."
+msgstr "Tem mais um prêmio para você.<BR><BR><BR>Benjamin."
+
+msgid "Hello, <name>. Congratulations for getting second place in the Chicken Race yesterday.<BR><BR>I'm sending your prize attached to this letter.<BR><BR><BR>Benjamin."
+msgstr "Olá, <name>. Parabéns por ficar em segundo lugar na Corrida de Galinhas ontem.<BR><BR>Estou enviando o seu prêmio junto com esta carta.<BR><BR><BR>Benjamin."
+
+msgid "Hello, <name>. Congratulations for getting third place in the Chicken Race yesterday.<BR><BR>I'm sending your prize attached to this letter.<BR><BR><BR>Benjamin."
+msgstr "Olá, <name>. Parabéns por ficar em terceiro lugar na Corrida de Galinhas ontem.<BR><BR>Estou enviando o seu prêmio junto com esta carta.<BR><BR><BR>Benjamin."
+
+msgid "Hello, <name>. Unfortunately you didn't win the Chicken Race yesterday, but don't give up. We'll have a new race next year and you can try again then.<BR><BR><BR>Benjamin."
+msgstr "Olá, <name>. Infelizmente você não ganhou a Corrida de Galinhas ontem, mas não desista. Nós teremos outra corrida no ano que vem e você poderá tentar de novo.<BR><BR><BR>Benjamin."
+
+msgid "Hello, <name>.<BR><BR> Tomorrow (Spring 18th) we will be celebrating the Chicken Festival in the town center. If you want to participate, bring a chicken with you.<BR><BR><BR>Benjamin."
+msgstr "Olá, <name>.<BR><BR> Amanhã (dia 18) nós vamos celebrar o festival de galinhas no centro da cidade. Se você quiser participar, traga uma galinha com você.<BR><BR><BR>Benjamin."
+
+msgid "Sleep Standing"
+msgstr "Dormir de pé"
+
+msgid "Rain Dance"
+msgstr "Dança da Chuva"
+
+msgid "Teleport"
+msgstr "Teletransporte"
+
+msgid "What kind of magic should I use?"
+msgstr "Que tipo de magia eu devo usar?"
+
+msgid "My Farm"
+msgstr "Minha Fazenda"
+
+msgid "Orange Town"
+msgstr "Terra das Laranjeiras"
+
+msgid "Nowhere"
+msgstr "Lugar Nenhum"
+
+msgid "Where will I teleport to?"
+msgstr "Para onde devo me teletransportar?"
+
+msgid "I have one new mail."
+msgstr "Eu tenho uma nova correspondência."
+
+msgid "I have <var:mailCount> new mail."
+msgstr "Eu tenho <var:mailCount> novas correspondências."
+
+msgid "Read mail"
+msgstr "Ler correspondência"
+
+msgid "Send mail"
+msgstr "Enviar carta"
+
+msgid "I have no new mail."
+msgstr "Não tenho correspondência nova."
+
+msgid "I can't read my mail while my hands are busy."
+msgstr "Não consigo conferir a correspondência com as mãos ocupadas."
+
+msgid "I don't have any envelope to use."
+msgstr "Eu não tenho envelope para usar."
+
+msgid "Send mail to whom?"
+msgstr "Enviar carta para quem?"
+
+msgid "I'll send a letter to <color:name><var:translatedMailRecipient></color> about..."
+msgstr "Vou enviar uma carta para <color:name><var:translatedMailRecipient></color> sobre..."
+
+msgid "I'll send this letter some other time then."
+msgstr "Eu vou enviar essa carta uma outra hora."
+
+msgid "I'll send a letter to <color:name><var:translatedMailRecipient></color> about <color:important><var:translatedMailSubject></color> using..."
+msgstr "Eu vou enviar uma carta para <color:name><var:translatedMailRecipient></color> sobre <color:important><var:translatedMailSubject></color> usando..."
+
+msgid "I'll send a letter to <color:name><var:translatedMailRecipient></color> about <color:important><var:translatedMailSubject></color> using a <color:important><var:translatedMailEnvelope></color>."
+msgstr "Vou enviar uma carta para <color:name><var:translatedMailRecipient></color> sobre <color:important><var:translatedMailSubject></color> usando um <color:important><var:translatedMailEnvelope></color>."
+
+msgid "It's done. The letter will probably be delivered tomorrow morning."
+msgstr "Pronto. A carta provavelmente vai ser entregue amanhã de manhã."
+
+msgid "It's done. Mom should be receiving this letter by tomorrow."
+msgstr "Pronto. Mamãe deve receber a carta amanhã de manhã."
+
+msgid "Oh, mom sent me a few envelopes."
+msgstr "Oh, a mãe me enviou alguns envelopes.."
+
+msgid "There's no more mail."
+msgstr "Não há mais correspondência."
+
+msgid "It's closed."
+msgstr "Está fechado."
+
+msgid "The library is currently closed."
+msgstr "A biblioteca está fechada agora."
+
+msgid "Hey <name>. It's time to close the store."
+msgstr "Ei <name>. Está na hora de fechar a loja."
+
+msgid "This is Viktor and Richard's house. The blacksmith is available for requests from 08:00 to 15:00."
+msgstr "Esta é a casa do Viktor e do Ricardo. O ferreiro está disponível para pedidos entre 08:00 e 15:00."
+
+msgid "This is Bonnie's Clinic, open from 10:00 to 19:00.<BR>Phi lives here too."
+msgstr "Esta é a Clínica da Bonnie, aberta das 10:00 até as 19:00.<BR>A Phi também mora aqui."
+
+msgid "This is Raphael's house. He's available for requests from 12:30 to 21:00."
+msgstr "Esta é a casa do Raphael. Ele está disponível para pedidos entre 12:30 e 21:00."
+
+msgid "This is the General Store. It's open from 09:30 to 16:00. <BR>Serge and Devin live here."
+msgstr "Esse é o mercado. Fica aberto das 09:30 até as 16:00. <BR>O Sérgio e o Devin moram aqui."
+
+msgid "This is Nathalia's Library. It's open for visitors from 10:45 to 18:45."
+msgstr "Esta é a biblioteca da Nathalia. Fica aberta para visitantes entre 10:45 e 18:45."
+
+msgid "This is Benjamin's House."
+msgstr "Esta é a casa do Benjamin."
+
+msgid "Chloe's Inn and Restaurant. It's open for customers from 09:00 to 21:00."
+msgstr "Hotel e Restaurante da Chloe. Fica aberto para clientes entre 09:00 e 21:00"
+
+msgid "This is Lucas' House."
+msgstr "Esta é a casa do Lucas."
+
+msgid "This is Mayor Julia's House."
+msgstr "Esta é a casa da prefeita Julia."
+
+msgid "This is Brittany's Ranch."
+msgstr "Este é o rancho da Brittany."
+
+msgid "Should I jump onto the raft?"
+msgstr "Devo pular na jangada?"
+
+msgid "Sorry, I can't sell that yet."
+msgstr "Desculpe, não posso vender isso ainda."
+
+msgid "For 5.000G, this bag will let you carry more items with you. Do you want to buy it?"
+msgstr "Por 5.000G, esta mochila vai permitir que você carregue mais itens com você. Você quer comprá-la?"
+
+msgid "For 20.000G, this bag will let you carry even more items with you. Do you want to buy it?"
+msgstr "Por 20.000G, esta mochila vai permitir que você carregue ainda mais itens com você. Você quer comprá-la?"
+
+msgid "Great! The bag is yours. Now you can carry a lot more than before."
+msgstr "Ótimo! A mochila é sua. Agora você pode carregar muito mais do que antes."
+
+msgid "You need 5.000G to buy this small bag."
+msgstr "Você precisa de 5.000G para comprar esta mochila."
+
+msgid "If you need some quick cash, you should buy some Turnip Seeds and sow them on your farm. They grow very fast."
+msgstr "Se você precisa de um dinheiro rápido, você pode comprar sementes de Nabo e plantar na sua fazenda. Elas crescem muito rapidamente."
+
+msgid "If you need some quick cash, you should buy some Onion Seeds and sow them on your farm. They grow relatively fast for a summer crop."
+msgstr "Se você precisa de dinheiro rápido, você pode comprar sementes de Cebola e plantar na sua fazenda. Elas crescem relativamente rápido para uma planta de verão."
+
+msgid "If you need some quick cash, you should buy some Radish or Carrot Seeds and sow them on your farm. They grow relatively fast for a fall crop."
+msgstr "Se você precisa de um dinheiro rápido, você pode comprar sementes de Cenoura ou Rabanete e plantar na sua fazenda. Elas crescem relativamente rápido para uma planta de outono."
+
+msgid "If you need some quick cash, you should buy some Lettuce Seeds and sow them on your farm. They grow quite fast."
+msgstr "Se você precisa de um dinheiro rápido, você pode comprar sementes de Alface e plantar na sua fazenda. Elas crescem muito rapidamente"
+
+msgid "You can also forage in the mountains. There's all sorts of fruits and object you can find there that you can ship to us."
+msgstr "Você também pode procurar coisas para vender nas montanhas. Tem todo tipo de frutas e objetos por lá que podemos vender na cidade se você colocar na caixa de exportação."
+
+msgid "Are you sure? You would no longer need to make two trips home every time you go shopping."
+msgstr "Tem certeza? Com a mochila você não iria mais precisar ir ao mercado duas vezes sempre que quiser fazer as compras do mês."
+
+msgid "Let me know if you ever change your mind, then."
+msgstr "Me avise se mudar de ideia."
+
+msgid "What are you looking for?"
+msgstr "O que você deseja?"
+
+msgid "Buy animals"
+msgstr "Comprar Animais"
+
+msgid "Animal feed"
+msgstr "Comida de Animais"
+
+msgid "What kind of animal do you need?"
+msgstr "Que tipo de animal você precisa?"
+
+msgid "Cow"
+msgstr "Vaca"
+
+msgid "Chicken"
+msgstr "Galinha"
+
+msgid "Sheep"
+msgstr "Ovelha"
+
+msgid "Goat"
+msgstr "Cabra"
+
+msgid "Bull"
+msgstr "Boi"
+
+msgid "Pig"
+msgstr "Porco"
+
+msgid "Hello, sweetie.<BR>Thanks for writing me to tell about your farm! I hope I can go see it someday.<BR>Your father and I miss you a lot.<BR><BR><BR>Love you,<BR>Mom."
+msgstr "Olá, filh<o>.<BR>Obrigada por me escrever para falar da sua fazenda! Espero poder visitar algum dia.<BR>Seu pai e eu sentimos muito a sua falta.<BR><BR><BR>Te amo, <BR>Mamãe."
+
+msgid "Hello, <name>.<BR>Thanks for writing! I really like hearing stories about your farm. Looking forward for the next one.<BR><BR><BR>Cheers,<BR><var:translatedMailSender>."
+msgstr "Olá, <name>.<BR>Obrigado por escrever! Eu gosto de ouvir histórias da sua fazenda. Ficarei esperando pela próxima carta.<BR><BR><BR>Abraços,<BR><var:translatedMailSender>."
+
+msgid "Hello, <name>.<BR>Thanks for writing! I really like hearing stories about your farm.<BR>This time I thought it would be nice to send you a small gift along with the letter.<BR><BR><BR>Cheers,<BR><var:translatedMailSender>."
+msgstr "Olá, <name>.<BR>Obrigado por escrever! Eu gosto de ouvir histórias da sua fazenda.<BR>Desta vez decidi te enviar um pequeno presente junto com a carta.<BR><BR><BR>Abraços,<BR><var:translatedMailSender>."
+
+msgid "Looks like there's a gift included in the letter."
+msgstr "Parece que tem um presente junto com a carta."
+
+msgid "So this hammer belonged to Roberto? Well, he said I can keep it so it's all good."
+msgstr "Então essa marreta era do Roberto? Bem, ele disse que eu posso ficar com ela então não tem problema."
+
+msgid "He probably doesn't mean the same cave where he was. I should try to find another one."
+msgstr "Ele provavelmente não estava falando da mesma caverna em que eu o encontrei. É melhor eu procurar alguma outra."
+
+msgid "A cave somewhere in the mountain? I guess I'll start by looking in that cave where I met him."
+msgstr "Uma caverna em algum lugar da montanha? Acho que é melhor começar a procurar na caverna onde eu o encontrei.."
+
+msgid "If I don't find anything there, I can try going higher in the mountain instead."
+msgstr "Se eu não encontrar nada lá, posso tentar subir mais a montanha."
+
+msgid "<name>,<BR>Thank you for finding Pom for me yesterday. I was so happy that I forgot to thank you in person.<BR>I don't plan to return to Orange Town any time soon, but I want to give you a gift.<BR><BR>I left my trusty hammer in a cave somewhere in the mountain. If you find it, you can keep it for yourself.<BR><BR>Roberto."
+msgstr "<name>,<BR>Obrigado por encontrar a Pom para mim ontem. Eu fiquei tão feliz que esqueci de te agradecer pessoalmente.<BR>Eu não pretendo voltar para a Terra das Laranjeiras tão cedo, mas quero te dar um presente.<BR><BR>Eu deixei minha marreta em uma caverna nas montanhas. Se você encontrá-la, pode ficar com ela.<BR><BR>Roberto."
+
+msgid "Looks like I found Roberto's hammer."
+msgstr "Parece que encontrei a marreta do Roberto."
+
+msgid "Hey <name>, can you help a girl out?<BR>I'm running out of ingredients for some medicines.<BR><BR>Right now I need 10 jasmines. They can be found around the mountains and the forests, but I don't like going there myself.<BR><BR>I'll give you a nice reward if you find them for me.<BR><BR>Bonnie."
+msgstr "Ei <name>, você pode ajudar uma garota em apuros?<BR>Eu estou ficando sem ingredientes para alguns remédios.<BR><BR>Estou precisando de 10 jasmins. Elas podem ser encontradas nas montanhas e florestas, mas eu não gosto de ir pra lá sozinha.<BR><BR>Eu te darei uma boa recompensa se você encontrar algumas para mim.<BR><BR>Bonnie."
+
+msgid "<name>, I have a task for you!<BR><BR>Have you been into the mountain caves yet? Devin placed several puzzles there just to annoy me.<BR>I don't have time to solve them, can you do it for me?<BR><BR>If you manage to get to the third room, you should be able to reactivate the mine cart too.<BR><BR><BR>Viktor"
+msgstr "<name>, eu tenho uma tarefa para você!<BR><BR>Você já entrou na caverna que fica na base da montanha? O Devin colocou vários desafios lá só para me incomodar.<BR>Eu não tenho tempo para resolvê-los, você pode fazer isso pra mim?<BR><BR>Se você conseguir chegar na terceira sala, você deve conseguir ativar o carrinho de mina também.<BR><BR><BR>Viktor"
+
+msgid "<name>, I heard you solved Devin's puzzles in the cave, so I want to thank you for that.<BR><BR>If you want me to fix the cart rails, just find me 5 Copper Ores and 10 Iron Ores and I'll do it for you. <BR><BR><BR>Viktor"
+msgstr "<name>, I heard you solved Devin's puzzles in the cave, so I want to thank you for that.<BR><BR>If you want me to fix the cart rails, just find me 5 Copper Ores and 10 Iron Ores and I'll do it for you. <BR><BR><BR>Viktor"
+
+msgid "Hello <name>.<BR><BR> Recently I haven't been eating the same thing day after day, but I can't think of anything else to eat. Do you think you could bring me something different to eat?<BR><BR>Lucas"
+msgstr "Olá <name>.<BR><BR> Últimamente eu estou comendo a mesma coisa dia após dia, mas eu não consigo pensar em outra coisa para comer. Você pode trazer algo diferente para eu experimentar?<BR><BR>Lucas"
+
+msgid "The rail is broken. It's not safe to ride the cart."
+msgstr "Os trilhos estão quebrados. Não é seguro andar no carrinho."
+
+msgid "Thank you! I'll have <color:name><lastCreatureName><color:default> delivered to your farm soon."
+msgstr "Obrigada! Eu vou levar <color:name><lastCreatureName><color:default> até sua fazenda em breve."
+
+msgid "I'll give you a milker as a bonus item."
+msgstr "Eu vou te dar um ordenhador como brinde pela compra."
+
+msgid "I'll give you an useful tool as a bonus item."
+msgstr "Eu vou te dar um item bem útil como brinde pela compra."
+
+msgid "Do you want to buy a new cow? They cost 5,000G and give milk every day, as long as you feed them."
+msgstr "Você quer comprar uma nova vaca? Elas custam 5.000G e dão leite todos os dias, contanto que estejam bem alimentadas."
+
+msgid "Buy a cow"
+msgstr "Comprar uma vaca"
+
+msgid "Don't buy a cow"
+msgstr "Não comprar uma vaca"
+
+msgid "Okay! Will you give your new cow a name?"
+msgstr "OK! Quer escolher um nome para a sua nova vaca?"
+
+msgid "Looks like you'll need a new <color:important>barn<color:default> first, or this cow won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>estábulo<color:default> primeiro, ou esta vaca não vai ter onde morar."
+
+msgid "You need 5,000G to buy a cow. Why don't you buy a chicken instead?"
+msgstr "Você precisa 5.000G para comprar uma vaca. Por que você não compra uma galinha primeiro?"
+
+msgid "You need 5,000G to buy a cow. Have you tried sowing some seeds? It's cheaper to start with seeds than animals."
+msgstr "Você precisa 5.000G para comprar uma vaca. Já tentou plantar algumas sementes? É uma forma mais barata de começar a ganhar dinheiro com a fazenda."
+
+msgid "Do you want to buy a new pig? They cost 2,500G."
+msgstr "Você quer comprar um novo porco? Eles custam 2.500G."
+
+msgid "Buy a pig"
+msgstr "Comprar um porco"
+
+msgid "Don't buy a pig"
+msgstr "Não comprar um porco"
+
+msgid "Okay! Will you give your new pig a name?"
+msgstr "OK! Quer escolher um nome para o seu novo porco?"
+
+msgid "Looks like you'll need a new <color:important>barn<color:default> first, or this pig won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>chiqueiro<color:default>, ou este porco não vai ter onde morar."
+
+msgid "You need 2,500G to buy a pig. Why don't you buy a chicken instead?"
+msgstr "Você precisa 2.500G para comprar um porco. Por que você não compra uma galinha primeiro?"
+
+msgid "You need 2,500G to buy a pig, <name>."
+msgstr "Você precisa de 2.500G para comprar um porco, <name>."
+
+msgid "Do you want to buy a new bull? They cost 10,000G."
+msgstr "Você quer comprar um boi? Eles custam 10.000G."
+
+msgid "Buy a bull"
+msgstr "Comprar um boi"
+
+msgid "Don't buy a bull"
+msgstr "Não comprar um boi"
+
+msgid "Hear explanation about bulls"
+msgstr "Ouvir explicação sobre os bois."
+
+msgid "Okay! Will you give your new bull a name?"
+msgstr "OK! Quer escolher um nome para o seu novo boi?"
+
+msgid "Looks like you'll need a new <color:important>barn<color:default> first, or this bull won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>estábulo<color:default> primeiro, ou este boi não vai ter onde morar."
+
+msgid "You need 10,000G to buy a bull. Why don't you buy a chicken instead?"
+msgstr "Você vai precisar de 10.000G para comprar um boi. Por que você não compra uma galinha primeiro?"
+
+msgid "You need 10,000G to buy a bull, <name>."
+msgstr "Você precisa de 10.000G para comprar um boi, <name>."
+
+msgid "Bulls are useful for breeding cows. Once you have a few cows on a barn, you can add a bull to it."
+msgstr "Bois são úteis para criação de gado. Quando você tiver algumas vacas em um estábulo, você pode incluir um boi para procriar."
+
+msgid "When the weather is right, the bulls may impregnate one or more cows in the barn."
+msgstr "Quando o clima estiver bom, o boi poderá engravidar uma ou mais vacas do estábulo."
+
+msgid "You can't really control when or which cow will get impregnated, but such is life."
+msgstr "Você não consegue controlar quando ou quais vacas vão engravidar, mas a vida é assim."
+
+msgid "One more thing: Never keep more than one bull in the same barn, or they will fight."
+msgstr "Mais uma coisa: Nunca deixe mais de um boi no mesmo estábulo, ou eles vão brigar."
+
+msgid "So... Do you want to buy a bull?"
+msgstr "Enfim... Você quer comprar um boi?"
+
+msgid "Explain again"
+msgstr "Explicar de novo"
+
+msgid "Do you want to buy a new goat? They cost 4,000G and give milk every day, as long as you feed them."
+msgstr "Você quer comprar uma cabra? Elas custam 4.000G e dão leite todos os dias, contanto que estejam alimentadas."
+
+msgid "Buy a goat"
+msgstr "Comprar cabra"
+
+msgid "Don't buy a goat"
+msgstr "Não comprar cabra"
+
+msgid "Okay! Will you give your new goat a name?"
+msgstr "OK! Quer dar um nome para a sua nova cabra?"
+
+msgid "Looks like you'll need a new <color:important>barn<color:default> first, or this goat won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>estábulo<color:default> primeiro, ou essa cabra não vai ter onde morar."
+
+msgid "It's 4,000G for a goat, <name>."
+msgstr "Uma cabra custa 4.000G, <name>."
+
+msgid "Do you want to buy a new sheep? They cost 3,000G and give wool every week, as long as you feed them everyday."
+msgstr "Você quer comprar uma ovelha? Elas custam 3.000G e dão lã toda semana, contanto que estejam bem alimentadas."
+
+msgid "Buy a sheep"
+msgstr "Comprar ovelha"
+
+msgid "Don't buy a sheep"
+msgstr "Não comprar ovelha"
+
+msgid "Okay! Will you give your new sheep a name?"
+msgstr "OK! Quer escolher um nome para a sua nova ovelha?"
+
+msgid "Looks like you'll need a new <color:important>barn<color:default> first, or this sheep won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>estábulo<color:default> primeiro, ou esta ovelha não vai ter onde morar."
+
+msgid "Not enough money, <name>."
+msgstr "Dinheiro insuficiente, <name>."
+
+msgid "Do you want to buy a new chicken? They cost 1,500G and lay eggs every day, as long as you feed them."
+msgstr "Você quer comprar uma nova galinha? Elas custam 1.500G e põem ovos todos dias, contanto que estejam bem alimentadas."
+
+msgid "Buy a chicken"
+msgstr "Comprar galinha"
+
+msgid "Don't buy a chicken"
+msgstr "Não comprar galinha"
+
+msgid "Okay! Will you give your new chicken a name?"
+msgstr "OK! Quer escolher um nome para sua nova galinha?"
+
+msgid "Looks like you'll need a new <color:important>coop<color:default> first, or this chicken won't have anywhere to live."
+msgstr "Parece que você precisará de um novo <color:important>galinheiro<color:default> primeiro, ou essa galinha não terá onde viver."
+
+msgid "You need 1,500G to buy a chicken. Have you tried sowing some seeds? It's cheaper to start with seeds than animals."
+msgstr "Você precisa de 1.500G para comprar uma galinha. Já pensou em começar com sementes? É mais barato fazer uma plantação do que criar animais."
+
+msgid "What kind of animal feed do you need?"
+msgstr "Que tipo de animal você quer?"
+
+msgid "Cow feed"
+msgstr "Comida para Vacas"
+
+msgid "Chicken feed"
+msgstr "Ração de Galinha"
+
+msgid "Each unit of hay is enough to feed a cow or sheep for an entire day."
+msgstr "Cada unidade de feno é suficiente para alimentar uma vaca ou ovelha por um dia inteiro."
+
+msgid "Each sack of chicken feed is enough to feed a grown chicken for an entire day."
+msgstr "Cada saco de ração é suficiente para alimentar uma galinha adulta por um dia inteiro."
+
+msgid "Materials"
+msgstr "Materiais"
+
+msgid "Buildings"
+msgstr "Construções"
+
+msgid "Objects"
+msgstr "Objetos"
+
+msgid "What kind of material do you need?"
+msgstr "Que tipo de material você precisa?"
+
+msgid "Wooden Plank"
+msgstr "Madeira"
+
+msgid "Wooden Sticks"
+msgstr "Gravetos"
+
+msgid "Branch"
+msgstr "Galho"
+
+msgid "Bricks"
+msgstr "Tijolos"
+
+msgid "Forget It"
+msgstr "Esquece"
+
+msgid "What are you gonna do with those?"
+msgstr "O que você vai fazer com isso?"
+
+msgid "Really? Branches are useless in this version of the game."
+msgstr "Sério? Galhos são inúteis nessa versão do jogo."
+
+msgid "Really? Bricks are useless in this version of the game."
+msgstr "Sério? Tijolos são inúteis nessa versão do jogo."
+
+msgid "What type of building do you need today?"
+msgstr "Que tipo de construção você precisa hoje?"
+
+msgid "What type of object do you need today?"
+msgstr "Que tipo de objeto você precisa hoje?"
+
+msgid "Barn"
+msgstr "Estábulo"
+
+msgid "Coop"
+msgstr "Galinheiro"
+
+msgid "Sure"
+msgstr "Claro"
+
+msgid "If you place a barn on your farm, you can raise animals in it."
+msgstr "Se você colocar um estábulo na sua fazenda, você pode criar animais."
+
+msgid "If you place a coop on your farm, you can raise chickens in it."
+msgstr "Se você colocar um galinheiro na sua fazenda, você pode criar galinhas."
+
+msgid "You can use fences to keep your animals from wandering too far away."
+msgstr "Você pode usar cercas para evitar que seus animais caminhem para longe."
+
+msgid "You can use gates to access your fenced areas easily."
+msgstr "Você pode usar portões para acessar suas áreas cercadas com facilidade."
+
+msgid "I don't have anything else yet."
+msgstr "Ainda não tenho mais nada."
+
+msgid "Sorry, I can't upgrade your watering can yet."
+msgstr "Desculpe, mas eu não posso aprimorar seu regador ainda."
+
+msgid "Which kind of tool do you want to upgrade?"
+msgstr "Que tipo de ferramenta você quer aprimorar?"
+
+msgid "Watering Can"
+msgstr "Regador"
+
+msgid "Hoe"
+msgstr "Enxada"
+
+msgid "Axe"
+msgstr "Machado"
+
+msgid "Hammer"
+msgstr "Marreta"
+
+msgid "Sickle"
+msgstr "Foice"
+
+msgid "Do you want to buy this rooster? It's 5,000G."
+msgstr "Você quer comprar este galo? Custa 5.000G."
+
+msgid "Buy the rooster"
+msgstr "Comprar o galo"
+
+msgid "Don't buy the rooster"
+msgstr "Não comprar o galo"
+
+msgid "Okay! Will you give your new rooster a name?"
+msgstr "OK! Quer dar um nome para o seu novo galo?"
+
+msgid "Looks like you'll need a new <color:important>coop<color:default> first, or this rooster won't have anywhere to live."
+msgstr "Parece que você vai precisar de um novo <color:important>galinheiro<color:default> primeiro, ou este galo não vai ter onde viver."
+
+msgid "You need 5,000G to buy a rooster, <name>."
+msgstr "Você precisa de 5.000G para comprar um galo, <name>."
+
+msgid "Buy Medicine"
+msgstr "Comprar Remédios"
+
+msgid "Check-up"
+msgstr "Consulta"
+
+msgid "Restore Stamina"
+msgstr "Recuperar Energia"
+
+msgid "Restore Fatigue"
+msgstr "Aliviar Fadiga"
+
+msgid "Are you teasing me?"
+msgstr "Está querendo me provocar?"
+
+msgid "What kind of medicine do you need?"
+msgstr "Que tipo de remédio você precisa?"
+
+msgid "Injection"
+msgstr "Injeção"
+
+msgid "First Aid Kit"
+msgstr "Primeiros Socorros"
+
+msgid "This <color:item>injection</color> will recover 100 points of Stamina and Fatigue, but it's very expensive."
+msgstr "Esta <color:item>injeção</color> vai recuperar 100 pontos de Energia e Fadiga, mas é bem cara."
+
+msgid "The <color:item>first aid kit</color> will restore 60 points of stamina and 20 points of fatigue."
+msgstr "Este <color:item>kit de primeiros socorros</color> vai recuperar 60 pontos de energia e 20 pontos de fadiga."
+
+msgid "The check-up costs 5G, is that ok?"
+msgstr "A consulta custa 5G, tudo bem?"
+
+msgid "No way"
+msgstr "Nem pensar"
+
+msgid "Fine, I'll do it for free."
+msgstr "Tá bem, eu vou fazer a consulta de graça."
+
+msgid "Let me see...<wait><wait> Hmm...<wait><wait> Alright, here's your data."
+msgstr "Deixe-me ver...<wait><wait> Hmm...<wait><wait> Certo, aqui estão seus dados."
+
+msgid "Do you want me to fully recover your stamina for 300G?"
+msgstr "Você quer que eu restaure a sua energia por 300G?"
+
+msgid "Thank you! Your stamina has been restored."
+msgstr "Obrigado! Sua energia foi restaurada."
+
+msgid "But you don't have 300G. Are you hiding your money, <name>?"
+msgstr "Mas você não tem 300G. Você está escondendo seu dinheiro, <name>?"
+
+msgid "Do you want me to fully recover your fatigue for 300G?"
+msgstr "Você quer que eu alivie a sua fadiga por 300G?"
+
+msgid "Thank you! Your fatigue has been restored."
+msgstr "Obrigado! Sua fadiga foi aliviada."
+
+msgid "Buy Food"
+msgstr "Comprar Comida"
+
+msgid "Come back anytime."
+msgstr "Volte quando quiser."
+
+msgid "What kind of food do you want?"
+msgstr "Que tipo de comida você quer?"
+
+msgid "Pizza"
+msgstr "Pizza"
+
+msgid "Hamburguer"
+msgstr "Hamburguer"
+
+msgid "Cake"
+msgstr "Bolo"
+
+msgid "A pizza slice will recover a lot of your stamina and a little of your fatigue."
+msgstr "Uma fatia de pizza vai recuperar muita da sua energia e um pouco da sua fadiga."
+
+msgid "An hamburguer will recover a good part of your stamina."
+msgstr "Um hamburguer vai recuperar uma boa parte da sua energia."
+
+msgid "A cake will recover some of your stamina."
+msgstr "Um bolo vai recuperar um pouco da sua energia."
+
+msgid "Oh, hey <name>. Do you have the turnips I asked for?"
+msgstr "Oh, olá <name>. Você tem os nabos que eu te pedi?"
+
+msgid "About that..."
+msgstr "Sobre isso..."
+
+msgid "Yes, I have it."
+msgstr "Sim, eu tenho."
+
+msgid "Sorry, not yet."
+msgstr "Desculpa, ainda não."
+
+msgid "Let me see..."
+msgstr "Deixa eu ver..."
+
+msgid "Yep, it's all here. Thank you so much, <name>."
+msgstr "Sim, está tudo aqui. Muito obrigado, <name>."
+
+msgid "Oh... That's ok. Let me know when you have it."
+msgstr "Ah... Tá tudo bem. Me avise quando tiver."
+
+msgid "Hello there <name>. Did you manage to find the jasmines I requested?"
+msgstr "Olá <name>. Você conseguiu encontrar as jasmins que eu pedi?"
+
+msgid "The jasmines..."
+msgstr "As Jasmins..."
+
+msgid "I got them."
+msgstr "Eu tenho elas aqui."
+
+msgid "Yes, 10 jasmines just like I wanted. Here's your money and a nice reward."
+msgstr "Sim, 10 jasmins exatamente como eu queria. Aqui está seu dinheiro e uma pequena recompensa."
+
+msgid "Thank you <name>, I'll let you know when I need something else."
+msgstr "Obrigado <name>, Eu vou te avisar quando precisar de algo de novo."
+
+msgid "Are you really going to leave a girl waiting?"
+msgstr "Você vai mesmo deixar uma garota esperando?"
+
+msgid "Hey <name>. Did you manage to solve Devin's puzzles in the cave?"
+msgstr "Ei <name>. Você conseguiu resolver os desafios do Devin lá na caverna?"
+
+msgid "I did solve some of them, but the cart rails are broken, so I couldn't activate it."
+msgstr "Eu resolvi alguns deles, mas os trilhos estavam quebrados, então não pude ativar o carrinho."
+
+msgid "I see. Do you want me to fix the rails?"
+msgstr "Entendi. Você quer que eu conserte os trilhos?"
+
+msgid "Can you do it? I have no idea how it works."
+msgstr "Você consegue? Eu não tenho ideia de como funciona isso."
+
+msgid "Sure, just bring me 10 Iron Ores and 5 Copper Ores and I should be able to get it working again."
+msgstr "Claro, é só me trazer 10 Minérios de Ferro e 5 de Cobre e eu farei os trilhos voltarem a funcionar."
+
+msgid "Hello <name>. Did you bring the ores I need for the cart rails?"
+msgstr "Olá <name>. Você trouxe os minérios que eu preciso para consertar os trilhos?"
+
+msgid "The ores..."
+msgstr "Os minérios..."
+
+msgid "I have them here."
+msgstr "Estou com eles aqui."
+
+msgid "Yes, this should do. Thank you <name>, I'll fix those rails faster than you can say \\\"Is it ready?\\\"."
+msgstr "Sim, isso deve servir. Obrigado <name>, eu vou consertar esses trilhos mais rápido do que você consegue dizer \\\"Está pronto?\\\"."
+
+msgid "Is it ready?"
+msgstr "Está pronto?"
+
+msgid "Yes it is."
+msgstr "Sim, está."
+
+msgid "Hurry up already."
+msgstr "Anda logo."
+
+msgid "Huh? There's an axe in this chest, but it's broken."
+msgstr "Huh? Tem um machado nesse baú, mas ele está quebrado."
+
+msgid "Maybe I can get someone to fix it for me?"
+msgstr "Será que alguém na cidade consegue consertar?"
+
+msgid "Hello <name>, do you need something?"
+msgstr "Olá <name>, você precisa de alguma coisa?"
+
+msgid "Hey Viktor! I found a <color:important>broken axe</color> earlier, do you think you can fix it?"
+msgstr "Ei Viktor! Eu achei um <color:important>machado quebrado</color> mais cedo, você acha que consegue consertá-lo?"
+
+msgid "Of course I can. Just bring me 4 Iron Ores."
+msgstr "Claro que posso. É só me trazer 4 Minérios de Ferro."
+
+msgid "Hello <name>, did you bring the 4 Iron Ores I need to fix that <color:important>axe</color>?"
+msgstr "Olá <name>, você trouxe os 4 Minérios de Ferro que eu preciso para consertar o <color:important>machado</color>?"
+
+msgid "The Iron Ores..."
+msgstr "Os minérios de ferro..."
+
+msgid "Oh, this will be easy to fix. I don't even need my tools."
+msgstr "Ah, isso vai ser fácil. Eu nem sequer preciso das minhas ferramentas."
+
+msgid "Really?"
+msgstr "Sério?"
+
+msgid "Here, it's ready."
+msgstr "Aqui, está pronto."
+
+msgid "Come on. I don't have all day."
+msgstr "Qual é. Eu não tenho o dia todo."
+
+msgid "I gave you a <color:important>fishing rod</color>. Use it to catch me something."
+msgstr "Eu te dei uma <color:important>vara de pesca</color>. Use-a para pescar algo pra mim."
+
+msgid "Sorry, I don't eat that. Bring me something else."
+msgstr "Desculpa, eu não como isso. Me traga outra coisa."
+
+msgid "Yes! I can eat that. Thank you so much."
+msgstr "Isso! Isso eu posso comer. Muito obrigado."
+
+msgid "Hmm. Is that what you brought me to eat?"
+msgstr "Hmmm. É isso que você trouxe para eu comer?"
+
+msgid "OK, no problem. There's no hurry. Just try to bring me something you think I would like."
+msgstr "OK, sem problema. Não tem pressa. Apenas traga algo que você acha que eu vou gostar."
+
+msgid "Here, take this fishing rod as payment."
+msgstr "Pode ficar com essa vara de pesca como pagamento."
+
+msgid "Well... That's not something I like, but I appreciate your effort. Here's your reward, <name>."
+msgstr "Bem... Eu não gosto disso, mas aprecio sua intenção. Aqui está sua recompensa, <name>."
+
+msgid "You got a <color:important>Fishing Rod</color>."
+msgstr "Você ganhou uma <color:important>Vara de Pesca</color>."
+
+msgid "Normal Envelope"
+msgstr "Envelope Normal"
+
+msgid "Cute Envelope"
+msgstr "Envelope Fofinho"
+
+msgid "Button {0}"
+msgstr "Botão {0}"
+
+msgid "Female"
+msgstr "Feminino"
+
+msgid "Male"
+msgstr "Masculino"
+
+msgid "Not Set"
+msgstr "Não Definido"
+
+msgid "An error has occured"
+msgstr "Algo de errado aconteceu"
+
+msgid "Load which file?"
+msgstr "Carregar qual arquivo?"
+
+msgid "Save which file?"
+msgstr "Salvar qual arquivo?"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Best Gifts"
+msgstr "Melhores Presentes:"
+
+msgid "Worst Gifts"
+msgstr "Piores Presentes:"
+
+msgid "Press a key to assign it to this action"
+msgstr "Pressione uma tecla para associar a esta ação"
+
+msgid "Press a button to assign it to this action"
+msgstr "Pressione um botão para associar a esta ação"
+
+msgid "ON"
+msgstr "SIM"
+
+msgid "OFF"
+msgstr "NÃO"
+
+msgid "Up"
+msgstr "Para Cima"
+
+msgid "Down"
+msgstr "Para Baixo"
+
+msgid "Left"
+msgstr "Para Esquerda"
+
+msgid "Right"
+msgstr "Para Direita"
+
+msgid "Confirm, Talk, Pick Item, Examine"
+msgstr "Confirmar, Conversar, Pegar Item, Examinar"
+
+msgid "Cancel, Open Menu"
+msgstr "Cancelar, Abrir Menu"
+
+msgid "Use Item or Tool"
+msgstr "Usar Item ou Ferramenta"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Change Tool"
+msgstr "Trocar Ferramenta"
+
+msgid "Change Item"
+msgstr "Trocar Item"
+
+msgid "Previous Tool"
+msgstr "Ferramenta Anterior"
+
+msgid "Previous Item"
+msgstr "Item Anterior"
+
+msgid "Quick Load"
+msgstr "Carregar Rapidamente"
+
+msgid "Quick Save"
+msgstr "Salvar Rapidamente"
+
+msgid "Run, Close Menus"
+msgstr "Correr, Fechar Menus"
+
+msgid "Hotkey 0"
+msgstr "Atalho 0"
+
+msgid "Hotkey 1"
+msgstr "Atalho 1"
+
+msgid "Hotkey 2"
+msgstr "Atalho 2"
+
+msgid "Hotkey 3"
+msgstr "Atalho 3"
+
+msgid "Hotkey 4"
+msgstr "Atalho 4"
+
+msgid "Hotkey 5"
+msgstr "Atalho 5"
+
+msgid "Hotkey 6"
+msgstr "Atalho 6"
+
+msgid "Hotkey 7"
+msgstr "Atalho 7"
+
+msgid "Hotkey 8"
+msgstr "Atalho 8"
+
+msgid "Hotkey 9"
+msgstr "Atalho 9"
+
+msgid "Hotkey 10"
+msgstr "Atalho 10"
+
+msgid "Spring"
+msgstr "Primavera"
+
+msgid "Summer"
+msgstr "Verão"
+
+msgid "Fall"
+msgstr "Outono"
+
+msgid "Winter"
+msgstr "Inverno"
+
+msgid "Year %1"
+msgstr "Ano %1"
+
+msgid "Day %1"
+msgstr "Dia %1"
+
+msgid "key"
+msgstr "tecla"
+
+msgid "Key"
+msgstr "Tecla"
+
+msgid "keys"
+msgstr "teclas"
+
+msgid "Stamina"
+msgstr "Energia"
+
+msgid "Fatigue"
+msgstr "Fadiga"
+
+msgid "Sleepiness"
+msgstr "Sono"
+
+msgid "Hunger"
+msgstr "Fome"
+
+msgid "Muscle Health"
+msgstr "Força Muscular"
+
+msgid "You have sore muscles."
+msgstr "Você está com dor muscular."
+
+msgid "Press the \\i[299] button to enable a gamepad."
+msgstr "Pressione o botão \\i[299] para habilitar um controle."
+
+msgid "You found an iron hammer!"
+msgstr "Você encontrou uma marreta barata!"
+
+msgid "You found an iron sickle!"
+msgstr "Você encontrou uma foice barata!"
+
+msgid "Friends"
+msgstr "Amigos"
+
+msgid "Rucksack"
+msgstr "Mochila"
+
+msgid "Shipping Bin"
+msgstr "Caixa de Exportação"
+
+msgid "Storage"
+msgstr "Depósito"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Sell"
+msgstr "Vender"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Equipped Tool"
+msgstr "Equipado:"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Sex"
+msgstr "Sexo"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Skin Color"
+msgstr "Cor da Pele"
+
+msgid "Hair Color"
+msgstr "Cor do Cabelo"
+
+msgid "Birthday"
+msgstr "Aniversário"
+
+msgid "Start Game"
+msgstr "Começar o Jogo"
+
+msgid "Quick Start"
+msgstr "Começar Rapidamente"
+
+msgid "Hold"
+msgstr "Segurar"
+
+msgid "Drop"
+msgstr "Descartar"
+
+msgid "Consume"
+msgstr "Consumir"
+
+msgid "Load Game"
+msgstr "Carregar"
+
+msgid "New Game"
+msgstr "Novo Jogo"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Invalid Task"
+msgstr "Tarefa Inválida"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "Buy Price"
+msgstr "Preço de Compra"
+
+msgid "Sell Price"
+msgstr "Preço de Venda"
+
+msgid "Crop Sell Price:"
+msgstr "Produto Vende Por:"
+
+msgid "Reset Defaults"
+msgstr "Restaurar o Padrão"
+
+msgid "Benjamin gave me my first farming tools. He wants 5 turnips in return."
+msgstr "O Benjamin me deu as minhas primeiras ferramentas. Em troca ele quer que eu entregue 5 nabos da minha fazenda."
+
+msgid "Bonnie's Jasmines"
+msgstr "Jasmins para Bonnie"
+
+msgid "Bonnie needs 10 jasmines to make some kind of medicine."
+msgstr "Bonnie precisa de 10 jasmins para fazer algum tipo de remédio."
+
+msgid "Cave Puzzles"
+msgstr "Desafios da Caverna"
+
+msgid "Viktor asked me to solve Devin's puzzles and try to reactivate the mine cart in the mountain cave."
+msgstr "O Viktor me pediu para resolver os desafios que o Devin criou na caverna e tentar reativar o carrinho de mina."
+
+msgid "Fixing Cave Rails"
+msgstr "Consertando os trilhos da caverna"
+
+msgid "Viktor said he can fix the cart rails if I bring him 10 Iron Ores and 5 Copper Ores."
+msgstr "O Viktor disse que pode consertar os trilhos se eu levar para ele 10 minérios de ferro e 5 de cobre."
+
+msgid "Find Pom"
+msgstr "Procurando Pom"
+
+msgid "In the mountain cave I found this man waiting for his dog to return. Maybe I should try to find the dog for him."
+msgstr "Encontrei um homem na caverna que diz estar esperando pelo retorno de seu cachorro. Quem sabe eu possa ajudar a encontrá-lo?"
+
+msgid "Don't forget your mom"
+msgstr "Não esqueça da mamãe"
+
+msgid "Mom sent me a letter and asked me to write back. I should find some way to do that."
+msgstr "Minha mãe me enviou uma carta e pediu para eu responder. Preciso encontrar alguma forma de fazer isso."
+
+msgid "A Late Reward"
+msgstr "Uma recompensa atrasada"
+
+msgid "Roberto said that if I find his hammer in the mountains, I can keep it for myself."
+msgstr "O Roberto disse que se eu encontrar a marreta dele nas montanhas, eu posso ficar com ela para mim"
+
+msgid "Broken Axe"
+msgstr "Machado Quebrado"
+
+msgid "I wonder if I anyone in Orange Town can fix this broken axe I found."
+msgstr "Me pergunto se alguém na cidade poderia consertar esse machado que encontrei."
+
+msgid "Fixing the Axe"
+msgstr "Consertando o Machado"
+
+msgid "Viktor said he can fix my axe if I get him 4 Iron Ores."
+msgstr "O Viktor disse que pode consertar o machado se eu levar 4 Minérios de Ferro para ele."
+
+msgid "Feeding Lucas"
+msgstr "Alimentando o Lucas"
+
+msgid "Lucas asked me to bring him something to eat."
+msgstr "O Lucas me pediu para levar algo para ele comer."
+
+msgid "{season} {day}, Year {year}"
+msgstr "Dia {day}, {season}. Ano {year}"
+
+msgid "Text Display"
+msgstr "Exibição de Texto"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "English"
+msgstr "Inglês"
+
+msgid "Portuguese"
+msgstr "Português"
+
+msgid "Quantity:"
+msgstr "Quantidade:"
+
+msgid "Buy Price:"
+msgstr "Preço de Compra:"
+
+msgid "Sell Price:"
+msgstr "Preço de Venda:"
+
+msgid "Nobody"
+msgstr "Ninguém"
+
+msgid "Brittany"
+msgstr "Brittany"
+
+msgid "Annie"
+msgstr "Annie"
+
+msgid "Benjamin"
+msgstr "Benjamin"
+
+msgid "Bonnie"
+msgstr "Bonnie"
+
+msgid "Carlos"
+msgstr "Carlos"
+
+msgid "Chloe"
+msgstr "Chloe"
+
+msgid "Cinth"
+msgstr "Cintia"
+
+msgid "Devin"
+msgstr "Devin"
+
+msgid "Gabriel"
+msgstr "Gabriel"
+
+msgid "Julia"
+msgstr "Julia"
+
+msgid "Lucas"
+msgstr "Lucas"
+
+msgid "Mia"
+msgstr "Mia"
+
+msgid "Nathalia"
+msgstr "Nathalia"
+
+msgid "Phi"
+msgstr "Phi"
+
+msgid "Raphael"
+msgstr "Raphael"
+
+msgid "Richard"
+msgstr "Ricardo"
+
+msgid "Serge"
+msgstr "Sérgio"
+
+msgid "Stella"
+msgstr "Stella"
+
+msgid "Viktor"
+msgstr "Viktor"
+
+msgid "Mom"
+msgstr "Mãe"
+
+msgid "Helder"
+msgstr "Helder"
+
+msgid "Moosh"
+msgstr "Moosh"
+
+msgid "Roomeo"
+msgstr "Roomeo"
+
+msgid "Spory"
+msgstr "Spory"
+
+msgid "Steewie"
+msgstr "Steewie"
+
+msgid "Swamp"
+msgstr "Swamp"
+
+msgid "Muriel"
+msgstr "Muriel"
+
+msgid "Eustace"
+msgstr "Estácio"
+
+msgid "Oh, Lucas! Good morning! What are you doing here so early?"
+msgstr "Ah, Lucas! Bom dia! O que você está fazendo aqui tão cedo?"
+
+msgid "Oh, hello Lucas! Do you need anything?"
+msgstr "Ah, olá Lucas! Você precisa de alguma coisa?"
+
+msgid "I have come to offer you a lottery ticket."
+msgstr "Eu vim para te oferecer um número de rifa."
+
+msgid "Hey <bro>, are you <name>?"
+msgstr "Ei <bro>, por acaso você é <o> <name>?"
+
+msgid "Yes... Who are you?"
+msgstr "Sim... Quem é você?"
+
+msgid "My name is Lucas, I live here in Orange Town, near the mayor house."
+msgstr "Meu nome é Lucas, moro aqui na cidade, perto da casa da prefeita."
+
+msgid "Nice to meet you, Lucas. Did you come to visit?"
+msgstr "Prazer em conhecê-lo, Lucas. Você veio apenas para me visitar?"
+
+msgid "Actually, no. I have come to offer you a lottery ticket."
+msgstr "Na verdade, não. Eu vim para te oferecer um número de rifa."
+
+msgid "Ah, of course, I should have imagined it. What is the prize this time?"
+msgstr "Ah, claro, eu deveria ter imaginado. Qual é o prêmio dessa vez?"
+
+msgid "A lottery? Do we have those here?"
+msgstr "Uma rifa? Tem disso por aqui?"
+
+msgid "Yes! We do it every month."
+msgstr "Sim! Fazemos todos os meses."
+
+msgid "Cool. What is the prize?"
+msgstr "Legal. Qual é o prêmio?"
+
+msgid "The big prize is 12,000G and the ticket costs 200G."
+msgstr "O grande prêmio é 12.000G e o número custa 200G."
+
+msgid "The big prize is 6,000G and the ticket costs 100G."
+msgstr "O grande prêmio é 6.000G e o número custa 100G."
+
+msgid "Do you want to buy one?"
+msgstr "Você quer comprar um número?"
+
+msgid "Alright! Your ticket number is <var:lotteryNumber>. The result will be out in the end of the month."
+msgstr "Perfeito. O seu número de rifa é o <var:lotteryNumber>. O resultado vai sair no final do mês."
+
+msgid "I'll be going home now. Good luck!"
+msgstr "Agora eu vou para casa. Boa sorte!"
+
+msgid "Oh... You want to participate but you don't have the money? Even though it's so cheap?"
+msgstr "Ah... Você quer participar, mas não tem dinheiro? mesmo custando tão pouco?"
+
+msgid "Well... You can try again next month. See you around."
+msgstr "Bem... Você pode tentar de novo no mês que vem. Te vejo por aí."
+
+msgid "Are you sure you don't want it? I won't ask again."
+msgstr "Tem certeza que não quer? Eu não vou perguntar de novo."
+
+msgid "I don't want it."
+msgstr "Eu não quero."
+
+msgid "Actually... I want it."
+msgstr "Na verdade... Quero sim."
+
+msgid "Well, if you're sure... I'll just go home now."
+msgstr "Bem, se você tem certeza... Eu vou para casa agora."
+
+msgid "Hello <name>.<BR><BR>I'm writing you to let you know that you won the lottery this month. Congratulations!<BR><BR>Your prize is 12,000G!<BR>Try not to spend everything on candy.<BR><BR>Lucas."
+msgstr "Olá <name>.<BR><BR>Estou escrevendo para te avisar que você ganhou na loteria este mês. Parabéns!<BR><BR>O seu prêmio é de 12.000G!<BR>Tente não gastar tudo em doces.<BR><BR>Lucas."
+
+msgid "I can't believe I won! This money will be very helpful."
+msgstr "Não acredito que eu ganhei! Esse dinheiro vai ser muito útil."
+
+msgid "Hello <name>.<BR><BR>I'm writing you to let you know that you won the lottery this month. Congratulations!<BR><BR>Your prize is 6,000G!<BR>Try not to spend everything on candy.<BR><BR>Lucas."
+msgstr "Olá <name>.<BR><BR>Estou escrevendo para te avisar que você ganhou na loteria este mês. Parabéns!<BR><BR>O seu prêmio é de 6.000G!<BR>Tente não gastar tudo em doces.<BR><BR>Lucas."
+
+msgid "Hello <name>.<BR><BR>I'm writing you to let you know the results of this month's lottery.<BR><BR>The winner this month was <var:lotteryWinner>. <BR><BR>Thank you for playing, I wish you a better luck next time.<BR><BR>Lucas."
+msgstr "Olá <name>.<BR><BR>Estou escrevendo para te informar sobre o resultado da loteria deste mês.<BR><BR>O vencedor da loteria foi: <var:lotteryWinner>.<BR><BR>Obrigado por participar, te desejo mais sorte da próxima vez.<BR><BR>Lucas."
+
+msgid "I didn't win the lottery..."
+msgstr "Eu não ganhei na loteria..."
+
+msgid "Fence"
+msgstr "Cerca"
+
+msgid "Gate"
+msgstr "Portão"
+
+msgid "Animals"
+msgstr "Animais"
+
+msgid "Did you get the hang of farming yet? Let me give you something new."
+msgstr "Você já se acostumou a ser um<a> fazendeir<o>, <name>? Deixe-me te dar algo novo."
+
+msgid "Those are potato seeds. They take a little longer to grow, but you can sell them for more than turnips."
+msgstr "Estas são sementes de batata. Elas demoram um pouco mais para crescer, mas você pode cobrar mais por elas."
+
+msgid "Don't you have a <color:important>sickle</color>, <name>? I found one in the caves once, but I had no use for it."
+msgstr "Você não tem uma <color:important>foice</color>, <name>? Eu encontrei uma nas cavernas uma vez, mas não tinha utilidade para mim."
+
+msgid "I think I left it there, near the entrance."
+msgstr "Eu acho que deixei lá mesmo, perto da entrada."
+
+msgid "Don't you have an <color:important>axe</color>, <name>? Maybe you can find an old one in the forest?"
+msgstr "Você não tem um <color:important>machado</color>, <name>? Quem sabe você não consegue encontrar um machado velho na floresta?"
+
+msgid "Don't you have a <color:important>hammer</color>, <name>? Maybe you can get one from one of Rock Town's miners?"
+msgstr "Você não tem uma <color:important>marreta</color>, <name>? Talvez você consiga uma com os mineradores de Rochedo."
+
+msgid "Hey! Can I get that? It'll be useful for my next experiment."
+msgstr "Ei! Posso ficar com isso? Vai ser útil no meu próximo experimento."
+
+msgid "Oh, is that for me? Thank you, it's a useful gift."
+msgstr "Oh, isso é pra mim? Obrigado, é um presente bem útil."
+
+msgid "Thank you, <name>!"
+msgstr "Obrigado, <name>!"
+
+msgid "I don't really like that, but thank you for your thoughts."
+msgstr "Eu não gosto disso, mas muito obrigado pela intenção."
+
+msgid "What am I gonna do with that? Nah, you can keep it."
+msgstr "O que eu vou fazer com isso? Pode ficar para você, eu não quero não."
+
+msgid "I love that! Can I keep it?"
+msgstr "Eu amo isso! Posso ficar?"
+
+msgid "Is that for me? Thank you, <name>. It's a good gift."
+msgstr "Isso é pra mim? Obrigada, <name>. É um bom presente."
+
+msgid "Thank you for the gift, <name>!"
+msgstr "Obrigada pelo presente, <name>!"
+
+msgid "I don't really like that, but thank you anyway."
+msgstr "Eu não gosto muito disso, mas obrigada mesmo assim."
+
+msgid "..."
+msgstr "..."
+
+msgid "Eww. Take that away from me!"
+msgstr "Que nojo! Tira isso de perto de mim!"
+
+msgid "You could have been more creative."
+msgstr "Você poderia ter sido mais criativo."
+
+msgid "Ohhh! I want to eat that! Can I have it?"
+msgstr "Ohhh! Eu quero comer isso! Me dá?"
+
+msgid "Are you mocking me, <name>? Not cool!"
+msgstr "Você está me gozando, <name>? Isso não é legal."
+
+msgid "You know how to make a girl happy, don't you?"
+msgstr "Você sabe como deixar uma garota feliz, não é?"
+
+msgid "Thank you, <name>. What a thoughtful gift."
+msgstr "Obrigada, <name>. Que ótimo presente."
+
+msgid "Thanks, but I don't want it."
+msgstr "Obrigada, mas eu não quero isso."
+
+msgid "Not too bad, <name>. Not too bad."
+msgstr "Nada mal, <name>. Nada mal."
+
+msgid "Thank you for this gift, <name>."
+msgstr "Obrigada por este presente, <name>."
+
+msgid "phi-gift-normal"
+msgstr "Obrigada, <name>."
+
+msgid "What made you think this would be a good gift?"
+msgstr "O que fez você pensar que isso seria um bom presente?"
+
+msgid "You wouldn't find a worse gift even if you tried."
+msgstr "Você não encontraria um presente pior mesmo que tentasse."
+
+msgid "Thank you, <name>, but I don't like this."
+msgstr "Obrigada, <name>, mas eu não quero isso."
+
+msgid "stella-gift-normal"
+msgstr "Obrigada, <name>."
+
+msgid "Thank you, <name>. I like this."
+msgstr "Obrigada, <name>. Eu gosto disso."
+
+msgid "Thank you, <name>. I love this."
+msgstr "Obrigada, <name>. Eu amo isso."
+
+msgid "That's great, but I don't take charity."
+msgstr "Muito bom, mas eu não aceito caridade."
+
+msgid "That's nice, but I don't take charity."
+msgstr "Legal, mas eu não aceito caridade."
+
+msgid "I don't take charity."
+msgstr "Eu não aceito caridade."
+
+msgid "I don't like that and I don't take charity."
+msgstr "Eu não gosto disso e não aceito caridade."
+
+msgid "I don't take charity, but that would be a terrible gift anyway."
+msgstr "Eu não aceito caridade, mas esse seria um péssimo presente."
+
+msgid "Thank you, <name>. This is a great gift."
+msgstr "Obrigado, <name>. Este é um ótimo presente."
+
+msgid "Is that for me? It's a good gift. Thank you, <name>."
+msgstr "Isso é para mim? É um bom presente. Obrigado, <name>."
+
+msgid "Thank you for this gift, <name>!"
+msgstr "Obrigado por este presente, <name>."
+
+msgid "Try to be more creative next time, <name>."
+msgstr "Tente ser um pouco mais criativo da próxima vez, <name>."
+
+msgid "Thank you, but I don't want it."
+msgstr "Obrigado, mas eu não quero."
+
+msgid "Thank you, <name>. You're the best at picking gifts."
+msgstr "Obrigado, <name>. Você é o melhor escolhedor de presentes."
+
+msgid "Is that for me? Thank you, <name>. I'll eat it at dinner."
+msgstr "Isso é pra mim? Obrigado, <name>. Eu vou comer no jantar."
+
+msgid "I don't like this, but since it's a gift I promise I'll try to eat it."
+msgstr "Eu não gosto disso, mas já que é um presente, eu prometo que vou tentar comer."
+
+msgid "I hate those. Why would you want to give it to me?"
+msgstr "Eu odeio isso. Por que você quer dar pra mim?"
+
+msgid "Enjoying your house, <name>? If you need to change anything on it, let me know."
+msgstr "Gostando da sua casa, <name>? Se você precisar mudar qualquer coisa nela, me avise."
+
+msgid "My old axe broke, so I left it in the forest and ordered a new one from the city."
+msgstr "Meu velho machado quebrou, então eu deixei ele na floresta e encomendei um novo da cidade."
+
+msgid "So you found my old axe? Don't worry, I got a new one already, you can keep that one."
+msgstr "Então você encontrou meu velho machado? Não se preocupe, pode ficar com ele. Eu já tenho um novo."
+
+msgid "I see you managed to fix my old axe. Don't go around cutting every tree in the forest now, alright."
+msgstr "Vejo que você conseguiu consertar meu velho machado. Não vá sair por aí cortando todas as árvores da floresta, tá bem?"
+
+msgid "↑ Library.<BR>→ Brittany's Farm.<BR>← Benjamin's Farm.<BR>↓ Beach."
+msgstr "↑ Biblioteca.<BR>→ Fazenda da Brittany.<BR>← Fazenda do Benjamin.<BR>↓ Praia."
+
+msgid "I like this town. I'll be coming here often from now on. There are many interesting people around."
+msgstr "Eu gosto dessa cidade. Vou começar a vir com frequência para cá. Tem várias pessoas interessantes por aqui."
+
+msgid "The rain is very useful for you, isn't it?"
+msgstr "A chuva é muito útil para você, não é?"
+
+msgid "I mean... You don't need to water your crops on rainy days."
+msgstr "Quero dizer... Você não precisa regar as suas plantas em dias chuvosos."
+
+msgid "I may not look like it, but I'm actually hundreds of years old."
+msgstr "Eu sei que não pareço, mas na verdade eu tenho centenas de anos de idade."
+
+msgid "Do you watch the Weather Channel? Many people think I'm the host, but it's some other girl that just happens to look like me."
+msgstr "Você assiste a previsão do tempo na TV? Muita gente acha que sou eu que apresento, mas é uma outra moça que apenas se parece comigo."
+
+msgid "Ohhh! That's the best birthday gift ever!"
+msgstr "Ohhh! Esse é o melhor presente de aniversário de todos os tempos!"
+
+msgid "The passage is already closed. Go back and try again."
+msgstr "A passagem já se fechou. Volte e tente novamente."
+
+msgid "I wonder what that was."
+msgstr "O que será que foi isso?"
+
+msgid "Uhh? What's this?"
+msgstr "Ahn? O que é isso?"
+
+msgid "Room 3"
+msgstr "Sala 3"
+
+msgid "Room 6"
+msgstr "Sala 6"
+
+msgid "I won't take the cart now."
+msgstr "Não vou usar o carrinho agora."
+
+msgid "I'll take the cart to..."
+msgstr "Vou usar o carrinho para ir para a..."
+
+msgid "What do you mean, \\\"A human saw me\\\"? The humans from Rock Town are gone already."
+msgstr "Como assim, \\\"Um humano me viu\\\"? Os humanos de Rochedo já foram embora."
+
+msgid "And even if they decided to come back, we broke the cart rails and that human Devin filled the caves with puzzles."
+msgstr "E mesmo que eles decidissem voltar, nós quebramos o trilho do carrinho e aquele tal de Devin encheu a caverna de desafios."
+
+msgid "Stop lying, <color:name>Spory</color>. The cave is safe from humans now."
+msgstr "Pare de mentir, <color:name>Spory</color>. A caverna está a salvo de humanos agora."
+
+msgid "What do you want, <color:name>Moosh</color>?"
+msgstr "O que você quer, <color:name>Moosh</color>?"
+
+msgid "It's a human! Here!"
+msgstr "É um humano! Aqui!"
+
+msgid "You too, <color:name>Moosh</color>?"
+msgstr "Você também, <color:name>Moosh</color>?"
+
+msgid "What are you doing here, human?"
+msgstr "O que você está fazendo aqui, humano?"
+
+msgid "Uh... I don't know, I was just looking for ores."
+msgstr "Ahn... Eu não sei, eu estava apenas procurando minérios."
+
+msgid "And how did you get past the puzzles?"
+msgstr "E como você passou por todos os desafios?"
+
+msgid "I solved them...<wait> They weren't even that hard. Well, except for the second one. I hadn't realized that I had to prevent the passage from closing instead of finding a way to open it."
+msgstr "Eu os resolvi...<wait> Nem foi muito difícil. Só o segundo que eu tinha entendido errado."
+
+msgid "Silence!"
+msgstr "Chega!"
+
+msgid "For 30 years we managed to live hidden away from the miners of Rock Town! I thought we would finally have the mine all for ourselves again..."
+msgstr "Por 30 anos nós conseguimos viver escondidos dos mineradores de Rochedo! Eu pensei que finalmente teríamos a mina de volta para nós..."
+
+msgid "Why were you hiding?"
+msgstr "Por que vocês estavam se escondendo?"
+
+msgid "What do you mean, \\\"Why were you hiding?\\\"? Do you really think we would be able to live in peace with humans?"
+msgstr "Como assim, \\\"Por que vocês estavam se escondendo?\\\"? Você acha mesmo que nós poderíamos viver em paz com humanos?"
+
+msgid "Sure, why not?"
+msgstr "Claro, por que não?"
+
+msgid ".<wait>.<wait>.<wait> Wait a second."
+msgstr ".<wait>.<wait>.<wait> Espera um segundo."
+
+msgid "Hey <color:name>Swamp</color>. Why were we hiding from the humans again?"
+msgstr "Ei <color:name>Swamp</color>. Por que estávamos nos escondendo dos humanos mesmo?"
+
+msgid "I don't know, <color:name>Helder</color>. It was your idea."
+msgstr "Eu não sei, <color:name>Helder</color>. Isso foi ideia sua."
+
+msgid "Hmmm. I think I had a bad dream about humans once, so I said we should avoid them."
+msgstr "Hmmm. Eu acho que tive um sonho ruim sobre os humanos uma vez, por isso disse para evitá-los."
+
+msgid "Maybe I overreacted.<BR>OK, let's stop hiding from humans and see what happens."
+msgstr "Talvez se esconder tenha sido um exagero. Está bem, vamos parar de viver escondidos para ver o que acontece."
+
+msgid "Hello human, my name is Helder. What's yours?"
+msgstr "Olá humano, meu nome é Helder. Qual o seu?"
+
+msgid "Hi Helder, my name is <name>. I'm a farmer in Orange Town."
+msgstr "Oi Helder, meu nome é <name>. Eu sou um<a> fazendeir<o> na Terra das Laranjeiras."
+
+msgid "A farmer? That's nice. Down here we call ourselves the Fun Guys. We are a tribe of Minimums."
+msgstr "Um<a> fazendeir<o>? Que legal. Nós aqui de baixo nos chamamos de Banda Divertida. Somos uma tribo de Mínimos."
+
+msgid "Minimums?"
+msgstr "Mínimos?"
+
+msgid "It's a term for all the magic creatures of this world. I thought you would have heard of it by now."
+msgstr "É um termo para todas as criaturas mágicas. Pensei que você já teria ouvido ele."
+
+msgid "I never did. But then again, I was raised in a big city, I don't know much about magic creatures."
+msgstr "Nunca ouvi, mas deve ser porque cresci na cidade grande. Eu não conheço muito sobre criaturas mágicas."
+
+msgid "Oh, then you're in for a surprise. There are many tribes of Minimums living around this area."
+msgstr "Então você vai se surpreender bastante. Há várias tribos de Mínimos vivendo nessa região."
+
+msgid "And what kind of magic powers do you have?"
+msgstr "E que tipo de poderes mágicos vocês tem?"
+
+msgid "We can open passages in the ground. Connect different caves and things like that."
+msgstr "Nós podemos abrir passagens na terra. Conectar diferentes cavernas e coisas desse tipo."
+
+msgid "Let me show you."
+msgstr "Deixa eu te mostrar."
+
+msgid "Here we go."
+msgstr "Aqui vai."
+
+msgid "See? That's what we can do."
+msgstr "Viu? É isso que podemos fazer."
+
+msgid "That's very cool! But what's inside this passage?"
+msgstr "Que legal! Mas o que tem atrás dessa passagem?"
+
+msgid "There are some fields in there. You can use it to grow mushrooms if you want."
+msgstr "Existe uma área onde cogumelos conseguem crescer rapidamente. Você pode plantar alguns lá se quiser."
+
+msgid "Here, have some seeds!"
+msgstr "Aqui, fique com algumas sementes."
+
+msgid "Thank you, Helder!"
+msgstr "Muito obrigad<o>, Helder!"
+
+msgid "No problem, kid. Make good use of it."
+msgstr "Sem problemas. Faça bom proveito das terras."
+
+msgid "So what is it like to live under the sun?"
+msgstr "Mas me diga, como é viver abaixo do sol?"
+
+msgid "Hey <name>, why don't you take me on an adventure outside the caves?"
+msgstr "Ei <name>, por que você não me leva em um aventura fora das cavernas?"
+
+msgid "Have you grown any mushrooms yet?"
+msgstr "Já plantou algum cogumelo, <name>?"
+
+msgid "Steewie should be learning to talk already. Why isn't he?"
+msgstr "O Steewie já deveria ter aprendido a falar, não acha?"
+
+msgid "Steewieeeee!"
+msgstr "Steewieeeee"
+
+msgid "Are there any other person in your town who would become friends with us like you did?"
+msgstr "Tem mais algum humano na sua cidade que seria capaz de se tornar amigo nosso?"
+
+msgid "Hello, <name>. I'm Moosh, the adventurous Fun Guy!"
+msgstr "Olá, <name>. Eu sou o Moosh, o cogumelo aventureiro!"
+
+msgid "Hello Moosh. Do you go to many adventures?"
+msgstr "Olá Moosh. Você sai atrás de aventuras com frequência?"
+
+msgid "Haven't been in any yet, but I hope to go soon."
+msgstr "Ainda não fui em nenhuma, mas espero ir em breve."
+
+msgid "Hello, human! My name is Roomeo. Please be nice to me and my brother."
+msgstr "Olá, humano! Meu nome é Roomeo. Por favor, trate eu e meus irmãos muito bem."
+
+msgid "Don't worry Roomeo, I won't do anything."
+msgstr "Não se preocupe Roomeo, eu não vou fazer nada."
+
+msgid "Hello, human. Your name is <name>, right? I heard you talking to Helder."
+msgstr "Olá, humano. Seu nome é <name>, certo? Eu ouvi você conversando com o Helder."
+
+msgid "I had never talked with a human before, so be nice to me, ok?"
+msgstr "Eu nunca conversei com um humano antes, então seja bonzinho comigo, ok?"
+
+msgid "Hello, <name>. I'm called Swamp."
+msgstr "Olá, <name>. Eu me chamo Swamp."
+
+msgid "Nice to meet you, Swamp."
+msgstr "Prazer conhecê-lo, Swamp."
+
+msgid "Be nice to us, okay? You're the first human we interact with in 30 years."
+msgstr "Seja bom para a gente, tá? Você é o primeiro humano a interagir conosco em 30 anos."
+
+msgid "Don't worry, I'm a good person."
+msgstr "Não se preocupe, eu sou uma boa pessoa."
+
+msgid "Hello <name>.<BR><BR>We are now selling a super bag in the general store! If you buy it, you'll be able to carry even more items.<BR><BR>Serge."
+msgstr "Olá <name>.<BR><BR>Nós agora estamos vendendo uma super mochila aqui na loja. Venha conferir.<BR><BR>Sérgio."
+
+msgid "Hello <name>.<BR><BR>We are now selling mushroom seeds in the general store! <BR>Mushrooms grow only in caves, even if you don't water it.<BR><BR>Serge."
+msgstr "Olá <name>.<BR><BR>Nós agora estamos vendendo sementes de cogumelo aqui na loja.<BR>Os cogumelos crescem apenas em cavernas, mas crescem mesmo se você não regá-los.<BR><BR>Sérgio."
+
+msgid "Sorry, at this moment I can't make your watering can any better than it already is."
+msgstr "Me desculpe, no momento não consigo deixar o seu regador melhor do que ele já é."
+
+msgid "To upgrade your watering can, I'm gonna need <color:important>5 Silver Ores and 3,000G</color>. Is that ok?"
+msgstr "Para aprimorar o seu regador, eu irei precisar de <color:important>5 Minérios de Prata e 3.000G</color>. Está tudo bem?"
+
+msgid "Run Forward Automatically"
+msgstr "Correr Para Frente Sozinho"
+
+msgid "I need <color:important>5 Silver Ores</color> to upgrade your watering can."
+msgstr "Eu preciso de <color:important>5 Minérios de Prata</color> para aprimorar o seu regador."
+
+msgid "The door is locked."
+msgstr "A porta está trancada."
+
+msgid "I can't pick feed from the storage if my bag is full."
+msgstr "Não posso pegar ração no barril se minha mochila estiver cheia."
+
+msgid "If I put chicken feed in the storage, I can quickly retrieve it here."
+msgstr "Se eu colocar ração de galinha no depósito, eu posso pegar rapidamente por aqui."
+
+msgid "If I put animal feed in the storage, I can quickly retrieve it here."
+msgstr "Se eu colocar comida de animais no depósito, eu posso pegar rapidamente por aqui."
+
+msgid "The turtle looks happy, but she won't let me pick her up."
+msgstr "A tartaruga parece feliz, mas não quer me deixar pegá-la no colo."
+
+msgid "This turtle really likes me. It looks like she'll let me pick her up from now on. I should give her a name."
+msgstr "Essa tartaruga gosta muito de mim. Parece que ela vai me deixar pegá-la no colo a partir de agora. Eu devia dar um nome para ela."
+
+msgid "<lastCreatureName>! That's going to be this turtle's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome desta tartaruga a partir de agora."
+
+msgid "The dog looks happy, but he won't let me pick him up."
+msgstr "Esse cachorro parece feliz, mas não quer me deixar pegá-lo no colo."
+
+msgid "This dog really likes me. It looks like he'll let me pick him up from now on. I should give him a name."
+msgstr "Esse cachorro gosta muito de mim. Parece que ele vai me deixar pegá-lo no colo a partir de agora. Eu devia dar um nome para ele."
+
+msgid "<lastCreatureName>! That's going to be this dog's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome deste cachorro a partir de agora."
+
+msgid "The cat looks happy, but he won't let me pick him up."
+msgstr "Esse gato parece feliz, mas não quer me deixar pegá-lo no colo."
+
+msgid "This cat really likes me. It looks like he'll let me pick him up from now on. I should give him a name."
+msgstr "Esse gato gosta muito de mim. Parece que ele vai me deixar pegá-lo no colo a partir de agora. Eu devia dar um nome para ele."
+
+msgid "<lastCreatureName>! That's going to be this cat's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome deste gato a partir de agora."
+
+msgid "The squirrel looks happy, but he won't let me pick him up."
+msgstr "Esse esquilo parece feliz, mas não quer me deixar pegá-lo no colo."
+
+msgid "This squirrel really likes me. It looks like he'll let me pick him up from now on. I should give him a name."
+msgstr "Esse esquilo gosta muito de mim. Parece que ele vai me deixar pegá-lo no colo a partir de agora. Eu devia dar um nome para ele."
+
+msgid "<lastCreatureName>! That's going to be this squirrel's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome deste esquilo a partir de agora."
+
+msgid "The monkey looks happy, but he won't let me pick him up."
+msgstr "Esse macaco parece feliz, mas não quer me deixar pegá-lo no colo."
+
+msgid "This monkey really likes me. It looks like he'll let me pick him up from now on. I should give him a name."
+msgstr "Esse macaco gosta muito de mim. Parece que ele vai me deixar pegá-lo no colo a partir de agora. Eu devia dar um nome para ele."
+
+msgid "<lastCreatureName>! That's going to be this monkey's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome deste macaco a partir de agora."
+
+msgid "The bunny looks happy, but he won't let me pick him up."
+msgstr "Esse coelho parece feliz, mas não quer me deixar pegá-lo no colo."
+
+msgid "This bunny really likes me. It looks like he'll let me pick him up from now on. I should give him a name."
+msgstr "Esse coelho gosta muito de mim. Parece que ele vai me deixar pegá-lo no colo a partir de agora. Eu devia dar um nome para ele."
+
+msgid "<lastCreatureName>! That's going to be this bunny's name now."
+msgstr "<lastCreatureName>! Este vai ser o nome deste coelho a partir de agora."
+
+msgid "Close Menu"
+msgstr "Fechar Menu"
+
+msgid "Mouse Support"
+msgstr "Suporte a Mouse"
+
+msgid "Gold Mine<BR>Exclusive to members of the Miner's Guild."
+msgstr "Mina de Ouro<BR>Exclusiva para os membros do sindicato dos mineradores."
+
+msgid "I'll be keeping an eye on all participants. If anyone isn't taking good care of their animals, I'll know."
+msgstr "Eu vou observar bem a todas as participantes. Se alguém não estiver cuidando bem dos seus animais, eu saberei."
+
+msgid "Nathalia always takes good care of Agatha. She probably read a lot of books to learn how to care for chickens."
+msgstr "A Nathalia sempre cuidou bem da Agatha. Ela provavelmente lê vários livros sobre criação de galinhas."
+
+msgid "You did a great job <name>, but don't let it get over your head."
+msgstr "Você foi bem, <name>, mas não deixe a vitória te subir a cabeça."
+
+msgid "The worst chicken won today. How can it be possible?"
+msgstr "A pior galinha venceu hoje. Como isso pode ser possível?"
+
+msgid "I didn't pay attention to Raphael's chicken, because I never expected her to win, but I guess he did a good job raising her."
+msgstr "Eu não prestei atenção na galinha do Raphael, porque eu nunca pensei que ela venceria, mas acho que ele fez um bom trabalho criando ela."
+
+msgid "And Mia won once again. Nobody is surprised by that."
+msgstr "E a Mia venceu novamente. Ninguém se surpreende com isso."
+
+msgid "The festival is over, I'll be going home soon."
+msgstr "O festival acabou, eu irei para casa em breve."
+
+msgid "Hello <name><BR><BR>Did you know I bought a rooster in the latest Chicken Festival? I only have one problem: I have no idea how to take care of it.<BR><BR>Can you bring me some chicken feed? I'm too ashamed to go buy it from the ranch.<BR><BR>Lucas."
+msgstr "Olá <name><BR><BR>Você sabia que eu comprei um galo no último festival de galinhas? Eu só tenho um problema: Eu não faço ideia de como cuidar dele.<BR><BR>Você poderia me trazer algum tipo de ração? Estou com muita vergonha de ir perguntar no rancho.<BR><BR>Lucas."
+
+msgid "Feeding Lucas' Rooster"
+msgstr "Alimentando o galo de Lucas"
+
+msgid "Lucas asked me to bring some chicken feed. I think 7 boxes should be enough for now."
+msgstr "O Lucas me pediu para arranjar ração para o galo dele. Acho que 7 pacotes devem ser suficientes por enquanto."
+
+msgid "Hello <name>. Do you have something I can give to my rooster?"
+msgstr "Olá <name>. Você trouxe algo para eu dar para o meu galo?"
+
+msgid "About your rooster..."
+msgstr "Sobre o seu galo..."
+
+msgid "I brought chicken feed."
+msgstr "Eu trouxe ração de galinha."
+
+msgid "I didn't bring anything."
+msgstr "Eu não trouxe nada."
+
+msgid "Thank you so much, I'll give it to him right away."
+msgstr "Muito obrigado, eu vou dar a ração para ele agora mesmo."
+
+msgid "Please help me with this, I dodn't know what to feed him."
+msgstr "Por favor, me ajude. Eu não sei o que dar para ele comer."
+
+msgid "Let me give you some money for the trouble."
+msgstr "Deixe-me te dar algum dinheiro para compensar o trabalho"
+
+msgid "Hello <name><BR><BR>It's Lucas again. Listen, I'm having a very hard time taking care of this rooster. I know I should have more responsibility, but it's too hard. Do you think you could buy this rooster from me? I'll sell it for half the price I paid, just 2,500G."
+msgstr "Olá <name><BR><BR>É o Lucas de novo. Olha só, eu to tendo muita dificuldade para cuidar desse galo. Eu sei que deveria ter mais responsabilidade, mas é muito difícil. Será que você não poderia comprar o galo de mim? Eu te vendo por metade do preço que paguei, apenas 2.500G."
+
+msgid "A rooster could be very useful in the farm, maybe I should help Lucas out."
+msgstr "Um galo poderia ser bem útil na fazenda, talvez eu devesse ajudar o Lucas mesmo."
+
+msgid "A rooster would be useless in a farm without any chickens, but maybe I should help Lucas out."
+msgstr "Um galo seria inútil em uma fazenda sem galinhas, mas talvez eu devesse ajudar o Lucas mesmo."
+
+msgid "Hey <name>. I'm still trying to sell my rooster, are you interested?"
+msgstr "Ei <name>. Eu ainda estou tentando vender o meu galo, você está interessado?"
+
+msgid "Your rooster..."
+msgstr "O seu galo..."
+
+msgid "I'll buy it."
+msgstr "Eu compro."
+
+msgid "I will buy when I get the money."
+msgstr "Eu compro quando tiver o dinheiro."
+
+msgid "I don't want it now, maybe another day."
+msgstr "Eu não quero ele agora, mas talvez outro dia."
+
+msgid "I won't ever buy it."
+msgstr "Eu não quero comprar o seu galo, nem nunca vou querer."
+
+msgid "Alright! Take good care of Gilbert for me, will ya?"
+msgstr "Perfeito! Cuide muito bem do velho Gilbert pra mim, está bem?"
+
+msgid "But you don't have any space in your <color:important>coops<color:default>, <name>. Gilbert would have nowehere to live."
+msgstr "Mas você não tem mais espaço nos seus <color:important>galinheiros</color>, <name>. O Gilbert não teria onde morar."
+
+msgid "But you don't have enough money. It's okay, I'll wait here."
+msgstr "Mas você não tem dinheiro suficiente. Está tudo bem, eu vou esperar aqui."
+
+msgid "Alright, thank you very much!"
+msgstr "Está bem, muito obrigado!"
+
+msgid "It's okay. I'll try to sell it to somebody else, but if you change your mind, please let me know."
+msgstr "Está tudo bem. Eu vou tentar vender para outras pessoas, mas se você mudar de ideia me avise, por favor."
+
+msgid "I guess I can't have you helping me everytime, right? It's okay, I'll try to sell it to someone else."
+msgstr "Eu não posso esperar que você resolva todos os meus problemas, não é? Está tudo bem, eu vou tentar vender para outra pessoa."
+
+msgid "I guess I'll go to Rock Town to check if anybody there wants to buy my rooster Gilbert."
+msgstr "Eu acho que vou subir até Rochedo para ver se alguém lá quer comprar o meu galo Gilbert."
+
+msgid "Good luck with your farm, <name>. I hope you like it here."
+msgstr "Boa sorte com sua fazenda, <name>. Espero que você goste daqui."
+
+msgid "If you have an improved watering can, you can hold the tool button to water a wider area faster."
+msgstr "Se você tem um regador aprimorado, você pode segurar o botão de usá-lo para regar uma área maior."
+
+msgid "Go back"
+msgstr "Voltar"
+
+msgid "Change Character"
+msgstr "Mudar Personagem"
+
+msgid "↑ Abandoned Iron Mine.<BR>→ Orange Town.<BR>← Train Station."
+msgstr "↑ Mina de Ferro Abandonada.<BR>→ Terra das Laranjeiras.<BR>← Estação de Trem."
+
+msgid "I shouldn't mess with Lucas' crops."
+msgstr "É melhor eu não mexer nas coisas do Lucas."
+
+msgid "I shouldn't mess with Benjamin's crops."
+msgstr "É melhor eu não mexer na plantação do Benjamin."
+
+msgid "I shouldn't mess with Mia's crops."
+msgstr "É melhor eu não mexer nas coisas da Mia."
+
+msgid "I shouldn't mess with Nathalia's crops."
+msgstr "É melhor eu não mexer nas coisas da Nathalia."
+
+msgid "Looks like Devin doesn't take good care of his crops."
+msgstr "Parece que o Devin não cuida muito bem da plantação dele."
+
+msgid "I shouldn't mess with Serge's crops."
+msgstr "É melhor eu não mexer nas coisas do Sérgio."
+
+msgid "I shouldn't mess with Bonnie's crops."
+msgstr "Se a Bonnie me pegar mexendo nas coisas dela ela vai cortar o meu pescoço."
+
+msgid "I shouldn't mess with Julia's crops."
+msgstr "A plantação da Julia está sempre bem cuidada."
+
+msgid "Hey <name>, if you bring me one of your chickens I can appraise it for you."
+msgstr "Ei <name>, se você me trouxer uma das suas galinhas eu posso examinar ela para você."
+
+msgid "Do you want me to appraise this chicken? Let me see..."
+msgstr "Você quer que eu examine essa galinha? Deixa eu ver..."
+
+msgid "Do you want me to appraise this chick? Let me see..."
+msgstr "Você quer que eu examine esse pintinho? Deixa eu ver..."
+
+msgid "<color:name><var:chickenName></color> is a very slow chicken. She has no chance in any serious chicken race."
+msgstr "<color:name><var:chickenName></color> é uma galinha muito lenta. Ela não tem chance em nenhuma corrida séria."
+
+msgid "<color:name><var:chickenName></color> is not a fast chicken. She probably won't win any race."
+msgstr "<color:name><var:chickenName></color> não é uma galinha rápida. Ela provavelmente nunca vencerá nenhuma corrida."
+
+msgid "<color:name><var:chickenName></color>'s speed is nothing special."
+msgstr "A velocidade da <color:name><var:chickenName></color> não é nada especial."
+
+msgid "<color:name><var:chickenName></color> is a very fast chicken. She may have a real shot at winning a race."
+msgstr "<color:name><var:chickenName></color> é uma galinha muito rápida. Ela tem uma boa chance de vencer alguma corrida."
+
+msgid "<color:name><var:chickenName></color>'s speed is trully impressive. You definitely should bring her to a race or two."
+msgstr "A velocidade da <color:name><var:chickenName></color> é impressionante. Você precisa levar ela para uma corrida ou duas."
+
+msgid "Look at those legs! <color:name><var:chickenName></color>'s speed is unbelievable. A simple chicken race may even be boring for her. A horse race would be a better challenge."
+msgstr "Olha para essas pernas! A velocidade da <color:name><var:chickenName></color> é inacreditável. Uma corrida de galinhas pode não ser desafio suficiente para ela. Talvez uma corrida de cavalos seja mais adequado."
+
+msgid "She seems to be a bit lucky."
+msgstr "Ela parece ter um pouco de sorte."
+
+msgid "She seems to be very lucky."
+msgstr "Ela parece ter muita sorte."
+
+msgid "It looks like she was blessed by an angel."
+msgstr "Parece que ela foi abençoada por um anjo."
+
+msgid "She has an enormous amount of luck. She may have been blessed by a goddess!"
+msgstr "Ela tem uma sorte gigante. Ela pode ter sido abençoada por uma deusa."
+
+msgid "And she won't lay many eggs in her life."
+msgstr "E ela não vai colocar muitos ovos na vida dela."
+
+msgid "And she will rarely lay more than one egg a day."
+msgstr "E ela raramente vai colocar mais de um ovo por dia."
+
+msgid "And sometimes she may lay two eggs on a single day."
+msgstr "E de vez em quando pode ser que ela coloque dois ovos no mesmo dia."
+
+msgid "And she will lay two eggs on a single day every now and then."
+msgstr "Tem uma boa chance de ela colocar dois ovos no mesmo dia com uma certa frequência."
+
+msgid "And she will often lay two eggs on a single day."
+msgstr "E ela vai colocar dois ovos por dia com uma boa frequência."
+
+msgid "And she will always lay two eggs per day."
+msgstr "E ela sempre vai colocar dois ovos por dia."
+
+msgid "Do you want to sell this chicken? Let me see..."
+msgstr "Você quer vender esta galinha? Deixe-me ver..."
+
+msgid "I can pay you <color:important><var:chickenPrice>G</color> for <color:name><var:chickenName></color>. Do you want to sell her?"
+msgstr "Eu posso oferecer <color:important><var:chickenPrice>G</color> pela <color:name><var:chickenName></color>. Você quer vendê-la?"
+
+msgid "Alright, thank you very much."
+msgstr "Muito obrigada, volte sempre!"
+
+msgid "Sorry, I can't buy her right now."
+msgstr "Desculpe, mas eu não posso comprá-la agora."
+
+msgid "Yo <name>, why are you working so much? You've been here for just a few days and already had me carry so much weight."
+msgstr "Qual é <name>, por que você está trabalhando tanto? Faz só alguns dias que você chegou e já me fez carregar peso demais."
+
+msgid "Hm, what's this?"
+msgstr "Hm, o que é isso?"
+
+msgid "A Blue Crystal. I'll pick it some other time."
+msgstr "Um Cristal Azul. Outra hora eu pego ele."
+
+msgid "It's a Blue Crystal."
+msgstr "É um Cristal Azul."
+
+msgid "A tree that stopped growing. I wonder what happened to it."
+msgstr "Uma árvore que parou de crescer. O que será que aconteceu com ela?"
+
+msgid "A random box. I wonder if the owner still wants it."
+msgstr "Uma caixa aleatória. Será que o dono ainda quer ela?"
+
+msgid "A closed barrel. I have no idea how to open it."
+msgstr "Um barril fechado. Não faço ideia de como abrir."
+
+msgid "Some firewood. It's all wet due to the rain."
+msgstr "Um pouco de lenha. Está tudo molhado por causa da chuva."
+
+msgid "Some firewood. It's been here for a long time."
+msgstr "Um pouco de lenha. Já faz muito tempo que está aqui."
+
+msgid "A bonfire. I won't be able to use it today."
+msgstr "Uma fogueira. Eu não vou poder usá-la hoje."
+
+msgid "A bonfire. There's no reason to use it right now."
+msgstr "Uma fogueira. Não tem razão para usá-la agora."
+
+msgid "An old sign. I can't read what was once written on it."
+msgstr "Uma placa velha. Não consigo ler o que estava escrito nela."
+
+msgid "Nothing out of the ordinary."
+msgstr "Nada de incomum aqui."
+
+msgid "Something is off here."
+msgstr "Algo está estranho aqui."
+
+msgid "It's the train schedule. And some notes."
+msgstr "São os horários do trem. E algumas anotações."
+
+msgid "I don't need to take the train."
+msgstr "Eu não preciso pegar nenhum trem."
+
+msgid "Secret Facility. Exclusive to Secret Members."
+msgstr "Local Secreto. Exclusívo para Membros Secretos."
+
+msgid "Huh, there's a note here, it sasys:<BR><color:positive>Currently in Rock Town. Call me if you need anything.</color>."
+msgstr "Ué, tem um papel aqui. Está escrito:<BR><color:positive>Atualmente em Rochedo. Me chame se precisar de algo.</color>"
+
+msgid "This must be Mia's house."
+msgstr "Essa deve ser a casa da Mia."
+
+msgid "I wonder who lives here."
+msgstr "Quem será que mora aqui?"
+
+msgid "This is everyone's favorite tree. I wouldn't dare cut it down."
+msgstr "Esta é a árvore favorita de todos na cidade. Eu não ousaria cortá-la."
+
+msgid "How's the farm life going, <name>? Have you broken any bones already?"
+msgstr "Como está a vida na fazenda, <name>? Já quebrou algum osso?"
+
+msgid "Do you have a horse on your farm yet?"
+msgstr "Você já tem algum cavalo na sua fazenda?"
+
+msgid "Do you grow any flowers on your farm, <name>? Why don't you bring me one?"
+msgstr "Você está plantando flores na sua fazenda, <name>? Por que você não me traz uma?"
+
+msgid "Using magic requires a lot of energy, but it can be very useful."
+msgstr "Usar magia irá gastar muito a sua energia, mas as vezes pode ser bem útil."
+
+msgid "There's some strong magic in that forest that you met me. Even I can't lift that spell alone."
+msgstr "Tem algum poder muito forte atuando naquela floresta em que você me encontrou. Nem eu consigo acabar completamente com aquela magia."
+
+msgid "I usually teleport to the forest entrance so that people won't freak out when I show up in the middle of town."
+msgstr "Eu sempre me teletransporto para a entrada da floresta para que as pessoas não se assustem comigo surgindo de repente no meio da cidade."
+
+msgid "I love to read, but some days I just can't decide which book to pick."
+msgstr "Eu amo ler, mas tem dias que eu simplesmente não consigo decidir qual livro pegar."
+
+msgid "I like to walk around the town. I get a chance to talk with many different people."
+msgstr "Eu gosto de caminhar pela cidade. Assim eu tenho oportunidade de conversar com várias pessoas diferentes."
+
+msgid "Tell me, <name>. What do you like to do when you're bored?"
+msgstr "Me diga, <name>. O que você gosta de fazer quando está entediad<o>?"
+
+msgid "You're just starting out, right? You should try to find more tools."
+msgstr "Você está apenas começando, não é? Você devia tentar encontrar novas ferramentas."
+
+msgid "A <color:important>sickle</color> would let you cut the weeds and grass on your farm. I think I saw one in the abandoned mines."
+msgstr "Uma <color:important>foice</color> seria útil para cortar o mato e a grama na fazenda. Eu acho que vi uma dando sopa na mina abandonada."
+
+msgid "A <color:important>hammer</color> can be used to break rocks and to look for minerals. Why don't you try asking one of the Rock Town miners if they can give you one?"
+msgstr "Uma <color:important>marreta</color> pode ser usada para quebrar pedras e procurar minerais. Por quê você não pergunta para algum dos mineradores de Rochedo se eles não tem algum sobrando para te dar?"
+
+msgid "An <color:important>axe</color> can be used to break logs and even trees if you have a good one. Why don't you try asking for Victor to fix the one you found?"
+msgstr "Um <color:important>machado</color> pode user usado para cortar madeira e até derrubar árvores se você tiver um bom. Por quê você não pede para o Victor consertar este que você encontrou?"
+
+msgid "An <color:important>axe</color> can be used to break logs and even trees if you have a good one. Maybe you can find one of Karen's old axes in the forest, though it will probably be broken if you do."
+msgstr "Um <color:important>machado</color> pode ser usado para cortar madeira e até derrubar árvores se você tiver um bom. Talvez você consiga encontrar algum machado velho da Karen na floresta, mas se achar provavelmente estará quebrado."
+
+msgid "Hello, young boy. Are you from around here?"
+msgstr "Olá, garoto. Você é aqui da região?"
+
+msgid "Hello, young girl. Are you from around here?"
+msgstr "Olá, mocinha. Você é aqui da região?"
+
+msgid "Yes, I live in Orange Town. I'm a farmer there."
+msgstr "Eu moro na Terra das Laranjeiras. Cuido de uma fazenda lá."
+
+msgid "Oh, how exciting. My name is Muriel, come visit me whenever you want."
+msgstr "Ah, que excitante. Meu nome é Muriel, você pode vir me visitar quando quiser."
+
+msgid "Nice to meet you, Muriel. My name is <name>."
+msgstr "Prazer em conhecê-la, Muriel. Meu nome é <name>."
+
+msgid "Please stop chasing our dog."
+msgstr "Por favor, pare de perseguir nosso cachorro."
+
+msgid "How are you doing today, <name>?"
+msgstr "Como você está, <name>?"
+
+msgid "What do you need, young boy? Are you from around here?"
+msgstr "Procurando alguma coisa, garoto? Ou você mora por aqui?"
+
+msgid "What do you need, young girl? Are you from around here?"
+msgstr "Procurando alguma coisa, garota? Ou você mora por aqui?"
+
+msgid "Alright. My name is Eustace, I'm retired and I currently spend most of my days sitting on a bench, so you're welcome to visit if you want to chat."
+msgstr "Está bem. Meu nome é Estácio, eu sou aposentado e passo a maior parte do tempo sentando em algum banco, então se você quiser me visitar para conversar, fique a vontade."
+
+msgid "Nice to meet you, Eustace. My name is <name>. I'll come visit when I get a chance."
+msgstr "Prazer em conhecê-lo, Estácio. Meu nome é <name>. Eu virei visitá-lo quando tiver uma oportunidade."
+
+msgid "What are you doing to the dog?"
+msgstr "O que você está fazendo com o cachorro?"
+
+msgid "Hello, young boy."
+msgstr "Olá, garotinho."
+
+msgid "Hello, young girl."
+msgstr "Olá, mocinha."
+
+msgid "Hey <name>. Did you know that a scarecrow won an award?"
+msgstr "As vacas são tão sortudas."
+
+msgid "Really? Why is that?"
+msgstr "Por que você acha isso?"
+
+msgid "Because he was out standing in his field."
+msgstr "Elas não precisam fazer exercícios, pois já nascem malhadas."
+
+msgid "I can access beta testing features here."
+msgstr "Eu posso acessar as ferramentas de testadores aqui."
+
+msgid "Change Name"
+msgstr "Trocar de nome"
+
+msgid "Thank you for playing this demo."
+msgstr "Obrigado por jogar este demo."
+
